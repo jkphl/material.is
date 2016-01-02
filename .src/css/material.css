@@ -55,7 +55,7 @@ p {
 .em {
   font-weight: 600; }
 
-article {
+main {
   max-width: 48em;
   margin: 1em auto 3em auto;
   padding: 0 1em; }
@@ -84,9 +84,6 @@ footer {
   margin-top: 2em;
   font-size: smaller; }
 
-section {
-  clear: both; }
-
 @media all and (min-width: 30em) {
   .mc-field-group {
     display: table;
@@ -111,7 +108,7 @@ section {
     margin: 1em 0 1em 1em; } }
 
 @media all and (min-width: 50em) {
-  article {
+  main {
     margin: 3em auto; } }
 
 @media all and (min-width: 72em) {

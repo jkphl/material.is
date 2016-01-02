@@ -69,7 +69,7 @@ p {
     font-weight: 600;
 }
 
-article {
+main {
     max-width: 48em;
     margin: 1em auto 3em auto;
     padding: 0 1em;
@@ -103,10 +103,6 @@ input[type=submit] {
 footer {
     margin-top: 2em;
     font-size: smaller;
-}
-
-section {
-    clear: both;
 }
 
 @media all and (min-width: 30em) {
@@ -147,7 +143,7 @@ section {
 }
 
 @media all and (min-width: 50em) {
-    article {
+    main {
         margin: 3em auto;
     }
 }
