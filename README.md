@@ -3,7 +3,8 @@
 
 > A conference exploring the concept of the Web as a material
 
-![Picture of Fjaðrárgljúfur canyon in south-eastern Iceland — Copyright © 2014 Andrés Nieto Porras — https://www.flickr.com/photos/anieto2k/15346976478](img/canyon.jpg "Fjaðrárgljúfur canyon, Iceland © 2014 Andrés Nieto Porras (CC BY-SA 2.0)")
+![Picture of Fjaðrárgljúfur canyon in South-Eastern Iceland — Copyright © 2014 Andrés Nieto Porras — https://www.flickr.com/photos/anieto2k/15346976478](img/canyon.jpg "Fjaðrárgljúfur canyon, Iceland © 2014 Andrés Nieto Porras (CC BY-SA 2.0)")
+> [Picture of Fjaðrárgljúfur canyon in South-Eastern Iceland — Copyright © 2014 Andrés Nieto Porras](https://www.flickr.com/photos/anieto2k/15346976478)
 
 The Internet and the Web are still very new to us. We don't fully understand them as a material. For centuries we've worked with wood, metal, glass, ceramic, paper, textiles. More recently, new materials have emerged; plastics, fiberglass, silicon, and more. We understand their limitations, their affordances. We can fold, heat, manipulate and warp some of these materials.
 
@@ -17,6 +18,7 @@ We have lost the Apprentice/Master relationship in the digital world. Spending y
 Nothing has been sorted out yet. We are exploring venues and speakers in the next few weeks. We'd like to bring a mix of people internationally and Icelandic locals. The venues on our short-list are all in central Reykjavík, easy to access from various hotels and guesthouses. More importantly, near plenty of great food and shops.
 
 ![Picture of Reynisfjara beach in Southern Iceland — Copyright © 2015 Moyan Brenn — https://www.flickr.com/photos/aigle_dore/21202625670](img/trolls.jpg "Reynisfjara beach, Iceland © 2015 Moyan Brenn (CC BY 2.0)")
+> [Picture of Reynisfjara beach in Southern Iceland — Copyright © 2015 Moyan Brenn](https://www.flickr.com/photos/aigle_dore/21202625670)
 
 ### Workshops
 As something extra, we want to try and organize some small workshops around different materials. For example, a Ceramic studio workshop, Leather craft, Letterpress, etc. These are TBD both when, where and what.
