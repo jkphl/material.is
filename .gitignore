@@ -2,3 +2,4 @@
 /.well-known
 /dashbones.json.php
 /flickr
+/node_modules
