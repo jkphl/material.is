@@ -1,7 +1,7 @@
-# [material.is](https://web.material.is)*
-## Fall 2016 — Reykjavík, Iceland
+# [Material](https://web.material.is)*
+## A conference exploring the concept of the Web as a material
 
-> A conference exploring the concept of the Web as a material
+> Fall 2016 — Reykjavík, Iceland
 
 ![Picture of Fjaðrárgljúfur canyon in South-Eastern Iceland — Copyright © 2014 Andrés Nieto Porras — https://www.flickr.com/photos/anieto2k/15346976478](public/2016/img/canyon.jpg "Fjaðrárgljúfur canyon, Iceland © 2014 Andrés Nieto Porras (CC BY-SA 2.0)")
 > [Picture of Fjaðrárgljúfur canyon in South-Eastern Iceland — Copyright © 2014 Andrés Nieto Porras](https://www.flickr.com/photos/anieto2k/15346976478)
