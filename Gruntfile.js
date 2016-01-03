@@ -69,7 +69,7 @@ module.exports = function (grunt) {
         'string-replace': {
             dist: {
                 files: {
-                    'index.html': '.src/html/index.html',
+                    'public/2016/index.html': '.src/html/index.html',
                 },
                 options: {
                     replacements: [
@@ -80,6 +80,18 @@ module.exports = function (grunt) {
                     ]
                 }
             }
+        },
+
+        htmlmin: {
+            dist: {
+                options: {
+                    removeComments: true,
+                    collapseWhitespace: true
+                },
+                files: {
+                    'public/2016/index.html': 'public/2016/index.html',
+                }
+            },
         },
 
         imagemin: {
@@ -93,7 +105,7 @@ module.exports = function (grunt) {
                     expand: true,
                     cwd: '.src/img/',
                     src: ['**/*.{png,jpg,gif}'],
-                    dest: 'img/'
+                    dest: 'public/2016/img/'
                 }]
             }
         },
@@ -117,5 +129,5 @@ module.exports = function (grunt) {
     // Default task.
     grunt.registerTask('default', ['css']);
     grunt.registerTask('images', ['imagemin']);
-    grunt.registerTask('css', ['clean', 'sass', 'autoprefixer', 'cssmin', 'string-replace']);
+    grunt.registerTask('css', ['clean', 'sass', 'autoprefixer', 'cssmin', 'string-replace', 'htmlmin']);
 };
