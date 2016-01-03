@@ -37,6 +37,9 @@ RewriteCond %{SERVER_PORT} 80
 RewriteCond %{ENV:APP_ENV} !development
 RewriteRule ^(.*)$ https://web.material.is/$1 [R=301,L]
 
-RewriteCond %{HTTP_HOST}   !^web\.material\.is [NC]
+RewriteCond %{HTTP_HOST} !^web\.material\.is [NC]
 RewriteCond %{ENV:APP_ENV} !development
 RewriteRule ^(.*)$ https://web.material.is/$1 [R=301,L]
+
+RewriteCond %{REQUEST_URI} !^/2016/(.*)$
+RewriteRule ^(.*) /2016/$1 [R=302,L]
