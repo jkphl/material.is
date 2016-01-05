@@ -29,6 +29,9 @@ Once we have settled on a venue and the first bits of a schedule, we'll have a k
 ## Keep In Touch
 [Sign-up for our newsletter](https://material.us12.list-manage.com/subscribe?u=47afb33257f1e65f442e8f176&id=c291cb4ea6) so we can let you know when tickets will be available. This helps us gauge our numbers to find the right cozy venue to meet the demand.
 
+## #Material16
+This conference is about understanding materials. The 16th material in the periodic table is Sulfur. If you visit Iceland, you'll understand why that's interesting.
+
 ## Who's behind this?
 The two organizers are [Joschi Kuphal](https://jkphl.is) and [Brian Suda](http://suda.co.uk). You may [contact us via email](mailto:info@material.is).
 
