@@ -121,8 +121,14 @@ input[type=submit] {
 }
 
 footer {
+    padding: 1em 0;
+    background-color: #FCDC3B;
+}
+footer section {
     margin-top: 2em;
-    font-size: smaller;
+    max-width: 48em;
+    margin: 0 auto;
+    padding: 0 1em;
 }
 
 @media all and (min-width: 30em) {
