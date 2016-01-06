@@ -1,0 +1,14 @@
+{
+  "icons": {
+    "16": "/icns/firefox-icon-16x16.png",
+    "30": "/icns/firefox-icon-30x30.png",
+    "32": "/icns/firefox-icon-32x32.png",
+    "48": "/icns/firefox-icon-48x48.png",
+    "60": "/icns/firefox-icon-60x60.png",
+    "64": "/icns/firefox-icon-64x64.png",
+    "90": "/icns/firefox-icon-90x90.png",
+    "120": "/icns/firefox-icon-120x120.png",
+    "128": "/icns/firefox-icon-128x128.png",
+    "256": "/icns/firefox-icon-256x256.png"
+  }
+}
