@@ -17,6 +17,8 @@
     "imagemin-mozjpeg": "^5.1.0",
     "grunt-contrib-imagemin": "^1.0.0",
     "grunt-contrib-htmlmin": "^0.6.0",
+    "grunt-contrib-copy": "^0.8.1",
+    "grunt-favicons": "^0.7.0",
     "matchdep": "~1.0.0"
   }
 }

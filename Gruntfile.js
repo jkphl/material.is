@@ -62,8 +62,31 @@ module.exports = function (grunt) {
             }
         },
 
+        favicons: {
+            options: {
+                html: '.src/logo/favicons.html',
+                HTMLPrefix: '/icns/',
+                precomposed: false,
+                firefox: true,
+                firefoxManifest: 'public/icns/material.webapp',
+                appleTouchBackgroundColor: '#222222'
+            },
+            icons: {
+                src: '.src/logo/m-logo.png',
+                dest: 'public/icns/'
+            }
+        },
+
+        copy: {
+            favicon: {
+                src: 'public/icns/favicon.ico',
+                dest: 'public/favicon.ico'
+            }
+        },
+
         clean: {
             dist: ['.src/css/material.css', '.src/css/material.min.css'],
+            favicon: ['public/favicon.ico'],
         },
 
         'string-replace': {
@@ -76,9 +99,27 @@ module.exports = function (grunt) {
                         {
                             pattern: '<link href=".src/sass/material.min.css" rel="stylesheet"/>',
                             replacement: '<style><%= grunt.file.read(".src/css/material.min.css") %></style>'
+                        },
+                        {
+                            pattern: '<!-- favicon -->',
+                            replacement: '<%= grunt.file.read(".src/logo/favicons.html") %>'
                         }
                     ]
                 }
+            }
+        },
+
+        replace: {
+            favicon: {
+                src: ['public/icons/favicons.html'],
+                overwrite: true,
+                replacements: [{
+                    from: /[\t\r\n]+/g,
+                    to: ''
+                }, {
+                    from: /<link rel="shortcut icon".*/g,
+                    to: '<link rel="shortcut icon" href="favicon.ico" type="image/x-icon"/><link rel="icon" href="favicon.ico" type="image/x-icon"/>'
+                }]
             }
         },
 
@@ -129,5 +170,7 @@ module.exports = function (grunt) {
     // Default task.
     grunt.registerTask('default', ['css']);
     grunt.registerTask('images', ['imagemin']);
-    grunt.registerTask('css', ['clean', 'sass', 'autoprefixer', 'cssmin', 'string-replace', 'htmlmin']);
+    grunt.registerTask('css', ['clean', 'sass', 'autoprefixer', 'cssmin', 'html']);
+    grunt.registerTask('html', ['string-replace', 'htmlmin']);
+    grunt.registerTask('favicon', ['clean:favicon', 'favicons', 'copy:favicon', 'replace:favicon', 'html']);
 };

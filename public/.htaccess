@@ -42,4 +42,6 @@ RewriteCond %{ENV:APP_ENV} !development
 RewriteRule ^(.*)$ https://web.material.is/$1 [R=301,L]
 
 RewriteCond %{REQUEST_URI} !^/2016(/.*)?$
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-l
 RewriteRule ^(.*) /2016/$1 [R=302,L]
