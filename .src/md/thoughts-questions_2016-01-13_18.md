@@ -1,10 +1,60 @@
-January Session — Random Thoughts
-=================================
+January Session — thoughts & questions
+======================================
+
+## General
+
+* The conference must have a well specified name, pronounciation and writing
+* The conference should have a strong visual identitiy. This may include but is not limited to
+	* a logo
+	* a general artwork (corporate design)
+	* a website design
+	* a design for print stuff like flyers, banners etc.
+	* a design for slides during the breaks
+	* opening titles (video)
+
+## Documentation / communication
+
+* We always need to feel attendees welcome.
+* We need (on the website, on the spot and explicitely announced):
+	* a code of conduct
+	* an inclusivity & diversity policy
+	* an accessibility statement (what exactly can we offer to impaired visitors?)
+* We should introduce and establish a hashtag before others do 
+* We should monitor that hashtag and social media coverage in general
+* Will there be a twitter wall or similar running throughout the conference? Where is it shown?
+* Can we provide a backchannel during the talks to discuss them "live"? Or ist this counter-productive (people staring onto their smartphones ...)?
+* Regular reminders in the run-up to the conference
+	* Monthly(?) newsletter
+	* Regular social media postings about speakers, sponsors, etc.
+* We should provide location, travel & public transport information
+	* How to get from the airport to the partnering hotels
+	* How to get to the venue(s)
+	* Nice spots for food & drinks around the venues (e.g. Foursquare list)
+	* Some important things about Iceland, it's people and culture in general 
+	* Information about SIM cards & data plans
+* Attendees might prefer not to be photographed during the conference
+	* A smart solution to communicate this could be two differently colored lanyards to clearly signalize the attendees' preferences
+* We could consider having a [real-time captioner](http://composition.al/blog/2014/05/31/your-next-conference-should-have-real-time-captioning/) and / live [translation to sign language](https://twitter.com/jkphl/status/611832718872215552)
+* Don't forget to say thank you to everyone involved at the end of the conference
+	* the attendees
+	* the speakers
+	* the team
+	* the sponsors
+	* the venue and its staff
+	* our families
+	* and so on
 
 ## Website
 
 * Clearly display the dates and locations of the event
-* 
+* The website must be easy to use and fully accessible
+* The website must provide in an easily usable way
+	* the dates and location
+	* the schedule
+	* the speakers and their talks
+	* travel information (if possible including visa information)
+	* hotel recommendations
+	* 
 
 ## Tickets & prices
 
@@ -15,10 +65,15 @@ January Session — Random Thoughts
 * What are the things we could waive (useless stuff, swag)?
 	* Sustainable / reasonable use of all kinds of materials and resources should be our topmost goal anyway
 * How can we sufficiently communicate where the attendees' money is going into?
-* Ask for some details during ticket purchase (Twitter handle, occupation, age, employed / self-employed, swag preferences, photography preferences, etc.)
+* Ask for some details during ticket purchase (Twitter handle, occupation, age, employed / self-employed, swag preferences, photography preferences,  dietary requirements, childcare demand, etc.)
 	* Does Kickstarter allow that or should do we need to use a separate tool for that?
 * Besides the Kickstarter, what service(s) do we use to sell additional tickets?
+* If we expect tickets to sell out quickly, we shoud consider selling in several smaller batches
+* Consider time zones when opening ticket sales
 * Who is on our guest list?
+* We should consider having "diversity tickets"
+* Should we consider having student tickets? What are the requirements?
+* Same about early bird tickets ... How does that match the Kickstarter approach?
 
 ## Technical
 
@@ -31,6 +86,7 @@ January Session — Random Thoughts
 	* should instruct all speakers before the conference starts
 	* must know all the important key timings
 * Do we provide WiFi for the attendees? Does the venue have that already?
+	* Is it an open WiFi or may it be secure?
 	* How do we communicate WiFi credentials?
 * Do we provide an additional organizer/speaker-only WiFi?
 * Can we provide power sockets for charging devices?
@@ -42,17 +98,25 @@ January Session — Random Thoughts
 	* Presenter
 * Ensure the stage allows safe, quiet walking
 * Can we have video / audio recording?
-	* Even live broadcast? (Do we want that?)
+	* Live broadcast? (Do we want that?)
+* Who is going to take (professional) pictures?
+	* Take care of intellectual property regulations ...
 
-## Volunteers
+## Staff / volunteers
 
+* Who is our staff? Do we have local support?
+	* Registration
+	* Tech staff
+	* etc.
 * Do we need / want to have volunteers?
 	* How do we recruit them?
 	* When do they arrive and how do we instruct them? (should be the day before the conference)
+* Staff must be clearly identifyable, briefed and able to help
 
 ## Talks
 
 * Do we make a call for papers or do we cherry-pick the talks & speakers?
+	* If there's a CFP, it should be made clear that contributions from minorities and groups that are traditionally under-represented are particularly welcome
 * How many talks / time slots to we have (6? 7?)
 * What kind of talks to we aim for?
 	* Length
@@ -97,20 +161,35 @@ January Session — Random Thoughts
 	* Introduce them as they would like to be introduced
 	* Tell a bit about them — some attendees might not know the speakers at all
 	* As for speakers' drink preferences during their talk (drink, temperature, plain/still or not, etc.)
-* In case of recordings: Instruct speakers about the area on stage the have to stick to due to camera / lightning setup; put white tape strips on the floor 
+* In case of recordings
+	* Ensure that we have permission to record them (at best, tell them when accepting their talk proposal)
+	* Instruct speakers about the area on stage the have to stick to due to camera / lightning setup; put white tape strips on the floor 
 * Clearly instruct speakers in advance
 	* About their time slot
 	* About technical stuff
 	* Questions after the talk or not? If so, take questions with a microphone only etc.
 * Tell the speakers as much as possible about the background of the attendees in advance so that they can tailor their contents
 * Provide the speakers a quiet room to prepare or just relax
-* We need to have a speaker dinner to ensure a good atmosphere
+* We need to have a scrum-like speaker dinner
+* We need to have speaker welcome packages with e.g.
+	* some local goods
+	* fruits
+	* a city map
+	* etc.
+* We need to collect quite some information from the speakers to book their flights & hotels (full names, birthdates, identification document numbers, expiry dates, flight & food preferences etc.); Maybe use border:none registration form as a template? Worked out well ...
 
 ## Drinks & snacks
 
-* We need unlimited drinks (water, coffee, tee) on the spot
-	* ideally for free (e.g. if sponsored)
+* We need unlimited drinks (water, good! coffee, tee) on the spot
+	* ideally for free (sponsored?)
 	* ideally taken care of by some professional gastronomy (would be ideal if the venue was a cinema with a bar or something similar)
+* We should have healthy snacks (if any), not only junk food, so that people don't fall asleep because of a sugar crash
+	* We could provide fresh vegetables (carrots, apples, etc.)
+* Do we provide lunch or do we encourage people to go out and grab some food in the area around?
+	* If we provide lunch ... 
+		* it must be healthy and for all sorts of preferences and dietary requirements (meat eaters, vegetarians, vegans, etc.)
+		* We need to make sure that people really get the food they "ordered"
+	* If we don't provide lunch, we should build a list of food / snack spots
 
 ## Post-processing
 
@@ -128,27 +207,13 @@ January Session — Random Thoughts
 * Where are the badges produced (must be pretty just-in-time; Icelandic online printshop?)
 * The badges should include a printed schedule so that people don't need their smartphone to look it up
 
-## Merchandise / swag bags
+## Swag
+
+* People tend to dislike swag in the meantime. There's almost no useful swag.
+* If we provide swag (... sponsors ...), we should let people opt out when buying the ticket
 
 
-## Documentation / communication
 
-* We need a code of conduct (on the website & on the spot) that should be explicitely announced
-* We should introduce and establish a hashtag before others do (#material16)
-* We should monitor that hashtag way in advance
-* We should monitor social media coverage in general
-* Will there be a twitter wall or similar running throughout the conference? Where is it shown?
-* Can we provide a backchannel during the talks to discuss them "live"? Or ist this counter-productive (people staring onto their smartphones ...)?
-* Regular reminders in the run-up to the conference
-	* Monthly(?) newsletter
-	* Regular social media postings about speakers, sponsors, etc.
-* We should provide location, travel & public transport information
-	* How to get from the airport to the partnering hotels
-	* How to get to the venue(s)
-	* Nice spots for food & drinks around the venues (e.g. Foursquare list)
-	* Some important things about Iceland, it's people and culture in general 
-* Attendees might prefer not to be photographed during the conference
-	* A smart solution to communicate this could be two differently colored lanyards to clearly signalize the attendees' preferences
 
 ## Organizer, speaker & attendee accommodation
 
@@ -157,6 +222,13 @@ January Session — Random Thoughts
 
 ## Sponsors
 
+* Should get free tickets if they wish
+
+
+## Exhibitors
+
+* Exhibitors should have a practical way to scan name badges
+* Need the breaks for having conversations
 
 ## Kickstarter
 
@@ -171,6 +243,7 @@ January Session — Random Thoughts
 * Does the venue provide WiFi?
 * Are there any quiet zones for relaxing?
 * How accessible is the venue (e.g. for wheelchair users)
+* Is there a wardrobe?
 
 ## Extra services
 
@@ -185,3 +258,23 @@ January Session — Random Thoughts
 * Speakers?
 * Insurance?
 * Speaker dinner
+
+## Party
+
+* Will there be an official after-party (even if only in a pub)? At which location?
+
+# Misc
+
+* Provide tampons / hygiene products at the restrooms
+
+# Side events / workshops
+
+* What side events / workshops can we provide
+
+___
+
+# Resources
+
+* https://gist.github.com/anselmh/819e724a8e513a61837c
+* https://gist.github.com/doismellburning/6ef44a51df271bca4782
+* https://github.com/erikr/lessobviouschecklist
