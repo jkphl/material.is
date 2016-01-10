@@ -1,5 +1,10 @@
-January Session — thoughts & questions
-======================================
+Material 2016 January Session
+=============================
+> Ideas, thoughts & questions
+
+This is a (still incomplete and very unsorted) list of things we should consider when organizing **_Material 2016_**. It's a rough combination of my experience, learnings from my [border:none](https://border-none.net) events and [many](https://gist.github.com/anselmh/819e724a8e513a61837c) [other](https://gist.github.com/doismellburning/6ef44a51df271bca4782) [people's](https://github.com/erikr/lessobviouschecklist) thoughts.
+
+**_Material 2016_** is all about "doing the right thing" on the Web. In that regard, we should always strive for making **_Material 2016_** the most excellent conference experience we can create — not only for the attendees, but also for the speakers, the venue, the team and ourselves.
 
 ## General
 
@@ -8,13 +13,13 @@ January Session — thoughts & questions
 	* a logo
 	* a general artwork (corporate design)
 	* a website design
-	* a design for print stuff like flyers, banners etc.
-	* a design for slides during the breaks
+	* a design for print stuff like flyers, banners, badges etc.
+	* a design for slides (e.g. during the breaks)
 	* opening titles (video)
 
 ## Documentation / communication
 
-* We always need to feel attendees welcome.
+* We always need to make attendees feel welcome
 * We need (on the website, on the spot and explicitely announced):
 	* a code of conduct
 	* an inclusivity & diversity policy
@@ -54,7 +59,6 @@ January Session — thoughts & questions
 	* the speakers and their talks
 	* travel information (if possible including visa information)
 	* hotel recommendations
-	* 
 
 ## Tickets & prices
 
@@ -269,12 +273,4 @@ January Session — thoughts & questions
 
 # Side events / workshops
 
-* What side events / workshops can we provide
-
-___
-
-# Resources
-
-* https://gist.github.com/anselmh/819e724a8e513a61837c
-* https://gist.github.com/doismellburning/6ef44a51df271bca4782
-* https://github.com/erikr/lessobviouschecklist
+* What side events / workshops can we provide?
