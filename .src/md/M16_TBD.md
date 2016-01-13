@@ -182,12 +182,51 @@ Preparation & setup
 * What are the legal prerequisites for a "temporary kindergarden" in Iceland?
 
 
+## Legal
+* Do we need an event insurance?
+* Does the event have to be registered at some auhority?
+* Are there regulations regarding the number of attendees?
+	* Fire emergencies
+	* Medical support
+	* Etc.
+
+
 ## Costs / calculation
 
 * Venue
-* Speakers?
-* Insurance?
-* Speaker dinner
+	* Rent
+	* Personnel
+	* Other
+* Speakers
+	* Speaker fees
+	* Travel costs (flight, train etc.)
+	* Accommodation
+	* Speaker dinner
+	* Speaker gifts
+* Staff
+	* Travel costs (flight, train etc.)
+	* Accommodation
+* Insurance / registration
+* Equipment & services
+	* Seats / tables
+	* Projector, screen, speaker screen
+	* Presenter, stopwatch
+	* Adapter & fallback equipment
+	* AV equipment (microphones, mixer etc.)
+	* Video / audio recording
+*  Consumables
+	* Snacks (fruits & vegetables)
+	* Hygiene products
+* Childcare
+* Advertisement / promotional
+	* Conference titles
+	* Lanyards (two colors)
+	* Staff clothing (T-Shirts, beanies, scarves ...)
+	* Badges and covers
+	* Goodie / swag bags
+* Workshops
+	* ?
+* Kickstarter fees
 
 
 Right before the event / registration
