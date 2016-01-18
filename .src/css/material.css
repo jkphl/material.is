@@ -106,6 +106,14 @@ footer section {
   margin: 0 auto;
   padding: 0 1em; }
 
+.speaker-list {
+  text-align: center; }
+
+.speaker-list img {
+  width: 100px;
+  height: 100px;
+  padding: 0 0.5em; }
+
 @media all and (min-width: 30em) {
   .fields {
     display: table;
