@@ -1,10 +1,10 @@
 # [Material](https://web.material.is)*
 ## A conference exploring the concept of the Web as a material
 
-> Fall 2016 — Reykjavík, Iceland
+> July 22nd, 2016 — Reykjavík, Iceland
 
-![Picture of Fjaðrárgljúfur canyon in South-Eastern Iceland — Copyright © 2014 Andrés Nieto Porras — https://www.flickr.com/photos/anieto2k/15346976478](public/2016/img/canyon.jpg "Fjaðrárgljúfur canyon, Iceland © 2014 Andrés Nieto Porras (CC BY-SA 2.0)")
-> [Picture of Fjaðrárgljúfur canyon in South-Eastern Iceland — Copyright © 2014 Andrés Nieto Porras](https://www.flickr.com/photos/anieto2k/15346976478)
+![Reykjavík at Dawn — Copyright © 2016 Joschi Kuphal — https://jkphl.is](public/2016/img/coffee.jpg "Reykjavík at Dawn — Copyright © 2016 Joschi Kuphal — https://jkphl.is")
+> Reykjavík at Dawn — Copyright © 2016 [Joschi Kuphal](https://jkphl.is)
 
 The Internet and the Web are still very new to us. We don't fully understand them as a material. For centuries we've worked with wood, metal, glass, ceramic, paper, textiles. More recently, new materials have emerged; plastics, fiberglass, silicon, and more. We understand their limitations, their affordances. We can fold, heat, manipulate and warp some of these materials.
 
@@ -14,14 +14,17 @@ We have lost the Apprentice/Master relationship in the digital world. Spending y
 
 **What properties of materialness exists in the Web is what this conference is meant to explore.**
 
-### Speakers & Venue
-Nothing has been sorted out yet. We are exploring venues and speakers in the next few weeks. We'd like to bring a mix of people internationally and Icelandic locals. The venues on our short-list are all in central Reykjavík, easy to access from various hotels and guesthouses. More importantly, near plenty of great food and shops.
+### Speakers
+Nothing has been sorted out yet. We'd like to bring a mix of people internationally and Icelandic locals. A few invitations have gone out and we are slowly collecting who's available when.
 
-![Picture of Reynisfjara beach in Southern Iceland — Copyright © 2015 Moyan Brenn — https://www.flickr.com/photos/aigle_dore/21202625670](public/2016/img/trolls.jpg "Reynisfjara beach, Iceland © 2015 Moyan Brenn (CC BY 2.0)")
-> [Picture of Reynisfjara beach in Southern Iceland — Copyright © 2015 Moyan Brenn](https://www.flickr.com/photos/aigle_dore/21202625670)
+### Venue: Iðnó
+For July 22nd, we decided to use Iðnó, short for Iðnaðarmannahúsið. Built in 1896, located in the center of Reykjavík, it is easy to access from various hotels and guesthouses. More importantly, near plenty of great food and shops. Rather than use a full-service hotel or conference center, we are trying a smaller, cozier and definitely more memorable location.
 
-### Workshops
-As something extra, we want to try and organize some small workshops around different materials. For example, a Ceramic studio workshop, Leather craft, Letterpress, etc. These are TBD both when, where and what.
+### Field Trip
+As something extra, we want to try and organize a small field trip around town meeting with companies who deal with different materials. For example, a Ceramic studio workshop, Leather craft, Letterpress, Aluminium casting, etc. These are to be determined both when, where and what.
+
+![Join us for some stimulating conversation — Copyright © 2016 Joschi Kuphal — https://jkphl.is](public/2016/img/around-the-fire.jpg "Join us for some stimulating conversation — Copyright © 2016 Joschi Kuphal — https://jkphl.is")
+> [Join us for some stimulating conversation — Copyright © 2016 [Joschi Kuphal](https://jkphl.is)
 
 ### Tickets
 Once we have settled on a venue and the first bits of a schedule, we'll have a kickstarter campaign to sell tickets. We know that travelling to Iceland for a conference might sound like an adventure — and it is! — so please bear with us while we put together the best experience possible.
@@ -35,6 +38,7 @@ This conference is about understanding materials. The 16th material in the perio
 ## Who's behind this?
 The two organizers are [Joschi Kuphal](https://jkphl.is) and [Brian Suda](http://suda.co.uk). You may [contact us via email](mailto:info@material.is).
 
+[Add Material Conference to your calendar](public/2016/assets/material16.ics)
 ___
 
 > \* We use *material.is* as a working title at the moment but it might well become the official conference name. This website is in a very early stage and will be constantly improved.
