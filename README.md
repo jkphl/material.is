@@ -38,7 +38,7 @@ This conference is about understanding materials. The 16th material in the perio
 ## Who's behind this?
 The two organizers are [Joschi Kuphal](https://jkphl.is) and [Brian Suda](http://suda.co.uk). You may [contact us via email](mailto:info@material.is).
 
-[Add Material Conference to your calendar](public/2016/assets/material16.ics)
+[Add Material Conference to your calendar](public/assets/material16.ics)
 ___
 
 > \* We use *material.is* as a working title at the moment but it might well become the official conference name. This website is in a very early stage and will be constantly improved.
