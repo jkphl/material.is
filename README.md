@@ -14,8 +14,14 @@ We have lost the Apprentice/Master relationship in the digital world. Spending y
 
 **What properties of materialness exists in the Web is what this conference is meant to explore.**
 
+
 ### Speakers
-Nothing has been sorted out yet. We'd like to bring a mix of people internationally and Icelandic locals. A few invitations have gone out and we are slowly collecting who's available when.
+
+![Petro Salema "Petro Salema"](public/2016/img/petro.jpg)
+
+Our first confirmed speaker is [Petro Salema](http://www.petrosalema.com/). He is a designer and programmer whose driving mission is to use technology and design to build tools that enable people to do great things in new and inspiring ways. Most recently, he has been doing that by leading the development of the Aloha Editor project. Based in Vienna, Austria, originally from Tanzania, he will be enlightening us on all things in his life dealing with the Web as a Material. We're excited to hear what he comes up with!
+
+Other speakers haven't been sorted out yet. We'd like to bring a mix of people internationally and Icelandic locals. A few invitations have gone out and we are slowly collecting who's available when.
 
 ### Venue: Iðnó
 For July 22nd, we decided to use Iðnó, short for Iðnaðarmannahúsið. Built in 1896, located in the center of Reykjavík, it is easy to access from various hotels and guesthouses. More importantly, near plenty of great food and shops. Rather than use a full-service hotel or conference center, we are trying a smaller, cozier and definitely more memorable location.

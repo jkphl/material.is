@@ -107,12 +107,20 @@ footer section {
   padding: 0 1em; }
 
 .speaker-list {
-  text-align: center; }
-
-.speaker-list img {
-  width: 100px;
-  height: 100px;
-  padding: 0 0.5em; }
+  text-align: center;
+  margin-top: 3em; }
+  .speaker-list a, .speaker-list figure {
+    display: inline-block;
+    text-align: center;
+    max-width: none;
+    vertical-align: top; }
+  .speaker-list figure {
+    padding: 0 1em;
+    margin: 0; }
+  .speaker-list img {
+    width: 6em;
+    height: auto;
+    border-radius: 50%; }
 
 @media all and (min-width: 30em) {
   .fields {
