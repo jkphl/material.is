@@ -21,6 +21,10 @@ We have lost the Apprentice/Master relationship in the digital world. Spending y
 
 Our first confirmed speaker is [Petro Salema](http://www.petrosalema.com/). He is a designer and programmer whose driving mission is to use technology and design to build tools that enable people to do great things in new and inspiring ways. Most recently, he has been doing that by leading the development of the Aloha Editor project. Based in Vienna, Austria, originally from Tanzania, he will be enlightening us on all things in his life dealing with the Web as a Material. We're excited to hear what he comes up with!
 
+![Matt Jones "Matt Jones"](public/2016/img/matt-jones.jpg)
+
+Our second confirmed speaker is [Matt Jones](http://moleitau.com/). Former BERG Principle, now working at Google NYC on various top secret things. He'll be giving us a short presentation and then curating a slot looking at some of the ideas around raw computing. If the Web were a material, he'd brute force his way to the best answer, maybe without even understanding how he got there — and that's OK.
+
 Other speakers haven't been sorted out yet. We'd like to bring a mix of people internationally and Icelandic locals. A few invitations have gone out and we are slowly collecting who's available when.
 
 ### Venue: Iðnó
