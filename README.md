@@ -36,8 +36,15 @@ As something extra, we want to try and organize a small field trip around town m
 ![Join us for some stimulating conversation — Copyright © 2016 Joschi Kuphal — https://jkphl.is](public/2016/img/around-the-fire.jpg "Join us for some stimulating conversation — Copyright © 2016 Joschi Kuphal — https://jkphl.is")
 > [Join us for some stimulating conversation — Copyright © 2016 [Joschi Kuphal](https://jkphl.is)
 
-### Tickets
-Once we have settled on a venue and the first bits of a schedule, we'll have a kickstarter campaign to sell tickets. We know that travelling to Iceland for a conference might sound like an adventure — and it is! — so please bear with us while we put together the best experience possible.
+### Tickets available NOW!
+As of March 9th, tickets are **[available via a Kickstarter campaign](https://www.kickstarter.com/projects/material16/material-conference-2016)** running for 30 days. The regular tickets cost $150 and are limited to 145. There are also rewards for people who can't attend in person and still want to be part of our little adventure.
+
+This is the phase that will decide whether Material 2016 can become reality, so we really need your support now. Please back us with any amount you can, every little bit helps. Also, we'd be very happy if you could help us spreading the word!
+
+### Travel and accomodation
+It's a little bit too early to think about travel stuff until the Kickstarter succeeds, but we started putting together a [Foursquare list](https://foursquare.com/jkphl/list/material-2016) with lots of recommendations in downtown Reykjavík, including lodging opportunities. There are also plenty of nice [AirBnbs](https://www.airbnb.de/s/Reykjavík) around town, so please check them out as well. We plan to open up some sort of communication platform soon where you can discuss travel and accommodation sharing possibilities with other attendees. Stay tuned!
+
+We know that travelling to Iceland for a conference might sound like an adventure — and it is! — so please bear with us while we try to get some special deals for you.
 
 ## Keep In Touch
 [Sign-up for our newsletter](https://material.us12.list-manage.com/subscribe?u=47afb33257f1e65f442e8f176&id=c291cb4ea6) so we can let you know when tickets will be available. This helps us gauge our numbers to find the right cozy venue to meet the demand.
