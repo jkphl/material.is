@@ -28,7 +28,7 @@ Our second confirmed speaker is [Matt Jones](http://moleitau.com/). Former BERG 
 Other speakers haven't been sorted out yet. We'd like to bring a mix of people internationally and Icelandic locals. A few invitations have gone out and we are slowly collecting who's available when.
 
 ![The theatre building Iðnó right at the pond — Copyright © 2016 Joschi Kuphal — https://jkphl.is](public/2016/img/idno.jpg "The theatre building Iðnó right at the pond — Copyright © 2016 Joschi Kuphal — https://jkphl.is")
-> [The theatre building Iðnó right at the pond — Copyright © 2016 [Joschi Kuphal](https://jkphl.is)
+> The theatre building Iðnó right at the pond — Copyright © 2016 [Joschi Kuphal](https://jkphl.is)
 
 ### Venue: Iðnó
 For July 22nd, we decided to use Iðnó, short for Iðnaðarmannahúsið. Built in 1896, located in the center of Reykjavík, it is easy to access from various hotels and guesthouses. More importantly, near plenty of great food and shops. Rather than use a full-service hotel or conference center, we are trying a smaller, cozier and definitely more memorable location.
