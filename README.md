@@ -27,19 +27,22 @@ Our second confirmed speaker is [Matt Jones](http://moleitau.com/). Former BERG 
 
 Other speakers haven't been sorted out yet. We'd like to bring a mix of people internationally and Icelandic locals. A few invitations have gone out and we are slowly collecting who's available when.
 
+![The theatre building Iðnó right at the pond — Copyright © 2016 Joschi Kuphal — https://jkphl.is](public/2016/img/idno.jpg "The theatre building Iðnó right at the pond — Copyright © 2016 Joschi Kuphal — https://jkphl.is")
+> [The theatre building Iðnó right at the pond — Copyright © 2016 [Joschi Kuphal](https://jkphl.is)
+
 ### Venue: Iðnó
 For July 22nd, we decided to use Iðnó, short for Iðnaðarmannahúsið. Built in 1896, located in the center of Reykjavík, it is easy to access from various hotels and guesthouses. More importantly, near plenty of great food and shops. Rather than use a full-service hotel or conference center, we are trying a smaller, cozier and definitely more memorable location.
 
 ### Field Trip
 As something extra, we want to try and organize a small field trip around town meeting with companies who deal with different materials. For example, a Ceramic studio workshop, Leather craft, Letterpress, Aluminium casting, etc. These are to be determined both when, where and what.
 
-![Join us for some stimulating conversation — Copyright © 2016 Joschi Kuphal — https://jkphl.is](public/2016/img/around-the-fire.jpg "Join us for some stimulating conversation — Copyright © 2016 Joschi Kuphal — https://jkphl.is")
-> [Join us for some stimulating conversation — Copyright © 2016 [Joschi Kuphal](https://jkphl.is)
-
 ### Tickets available NOW!
 As of March 9th, tickets are **[available via a Kickstarter campaign](https://www.kickstarter.com/projects/material16/material-conference-2016)** running for 30 days. The regular tickets cost $150 and are limited to 145. There are also rewards for people who can't attend in person and still want to be part of our little adventure.
 
 This is the phase that will decide whether Material 2016 can become reality, so we really need your support now. Please back us with any amount you can, every little bit helps. Also, we'd be very happy if you could help us spreading the word!
+
+![Join us for some stimulating conversation — Copyright © 2016 Joschi Kuphal — https://jkphl.is](public/2016/img/around-the-fire.jpg "Join us for some stimulating conversation — Copyright © 2016 Joschi Kuphal — https://jkphl.is")
+> [Join us for some stimulating conversation — Copyright © 2016 [Joschi Kuphal](https://jkphl.is)
 
 ### Travel and accomodation
 It's a little bit too early to think about travel stuff until the Kickstarter succeeds, but we started putting together a [Foursquare list](https://foursquare.com/jkphl/list/material-2016) with lots of recommendations in downtown Reykjavík, including lodging opportunities. There are also plenty of nice [AirBnbs](https://www.airbnb.de/s/Reykjavík) around town, so please check them out as well. We plan to open up some sort of communication platform soon where you can discuss travel and accommodation sharing possibilities with other attendees. Stay tuned!
