@@ -14,6 +14,9 @@ body, input {
 a {
   color: #121212; }
 
+main, figure, footer {
+  display: block; }
+
 figure {
   margin: 1.5em 0;
   position: relative;
@@ -121,6 +124,18 @@ footer section {
     width: 6em;
     height: auto;
     border-radius: 50%; }
+
+.kickstarter {
+  position: relative;
+  width: 100%;
+  height: 0;
+  padding-bottom: 75%; }
+  .kickstarter iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0; }
 
 @media all and (min-width: 30em) {
   .fields {

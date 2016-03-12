@@ -36,6 +36,8 @@ For July 22nd, we decided to use Iðnó, short for Iðnaðarmannahúsið. Built 
 ### Field Trip
 As something extra, we want to try and organize a small field trip around town meeting with companies who deal with different materials. For example, a Ceramic studio workshop, Leather craft, Letterpress, Aluminium casting, etc. These are to be determined both when, where and what.
 
+[![Material 2016 Kickstarter](public/2016/img/m16-poster.jpg)](https://www.kickstarter.com/projects/material16/material-conference-2016)
+
 ### Tickets available NOW!
 As of March 9th, tickets are **[available via a Kickstarter campaign](https://www.kickstarter.com/projects/material16/material-conference-2016)** running for 30 days. The regular tickets cost $150 and are limited to 145. There are also rewards for people who can't attend in person and still want to be part of our little adventure.
 
