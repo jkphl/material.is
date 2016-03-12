@@ -155,6 +155,20 @@ module.exports = function (grunt) {
             sass: {
                 files: '.src/sass/**/*.scss',
                 tasks: ['css']
+            },
+            html: {
+                files: '.src/html/**/*.html',
+                tasks: ['html']
+            },
+            images: {
+                files: '.src/img/**/*.{png,jpg,gif}',
+                tasks: ['images']
+            },
+            grunt: {
+                files: ['Gruntfile.js'],
+                options: {
+                    reload: true
+                }
             }
         }
     });
