@@ -54,6 +54,8 @@ We know that travelling to Iceland for a conference might sound like an adventur
 ## Keep In Touch
 [Sign-up for our newsletter](https://material.us12.list-manage.com/subscribe?u=47afb33257f1e65f442e8f176&id=c291cb4ea6) so we can let you know when tickets will be available. This helps us gauge our numbers to find the right cozy venue to meet the demand.
 
+Also, let your friends know that you like what we're doing by [tracking Material on Lanyrd](http://lanyrd.com/2016/material16).
+
 ## #Material16
 This conference is about understanding materials. The 16th material in the periodic table is Sulfur. If you visit Iceland, you'll understand why that's interesting.
 
