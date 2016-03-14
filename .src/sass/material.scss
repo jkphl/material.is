@@ -66,6 +66,11 @@ p {
 	font-weight: 300;
 }
 
+em {
+    font-weight: bold;
+    font-style: normal;
+}
+
 .back-us {
 	width: 8em;
 	height: 8em;
@@ -76,7 +81,7 @@ p {
 	color: $sulfur;
     transform: rotate(10deg);
 
-    .animation-wrapper, > span {
+    .animation-wrapper, div {
         width: 100%;
         height: 100%;
         position: absolute;
@@ -99,22 +104,26 @@ p {
         }
     }
 
-    > span {
+    div {
         display: table;
         z-index: 2;
+    }
+
+    figure {
+        display: table-cell;
+        vertical-align: middle;
+    }
+
+    figcaption {
         color: $text;
         font-size: x-small;
-        font-size: .7rem;
-
-        span {
-            display: table-cell;
-            vertical-align: middle;
-        }
+        font-style: normal;
     }
 }
 
 .kickstarter-logo {
     width: 3em;
+    height: 3.556635220125786em;
 }
 
 .schedule-location {
@@ -124,6 +133,12 @@ p {
 
 .em {
 	font-weight: 600;
+}
+
+.tagline {
+    font-weight: 600;
+    font-style: italic;
+    font-size: x-large;
 }
 
 main {
@@ -233,9 +248,8 @@ footer section {
         height: 12em;
         margin: 0 0 2em 2em;
 
-        > span {
+        figcaption {
             font-size: medium;
-            font-size: 1rem;
         }
     }
 

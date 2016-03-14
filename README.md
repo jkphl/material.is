@@ -1,10 +1,17 @@
-# [Material](https://web.material.is)*
+# [Material 2016](https://web.material.is)*
 ## A conference exploring the concept of the Web as a material
 
 > July 22nd, 2016 — Reykjavík, Iceland
 
-![Reykjavík at Dawn — Copyright © 2016 Joschi Kuphal — https://jkphl.is](public/2016/img/coffee.jpg "Reykjavík at Dawn — Copyright © 2016 Joschi Kuphal — https://jkphl.is")
-> Reykjavík at Dawn — Copyright © 2016 [Joschi Kuphal](https://jkphl.is)
+[![Material 2016 Kickstarter](public/2016/img/m16-poster.jpg)](https://www.kickstarter.com/projects/material16/material-conference-2016)
+
+20+ years of the Web and we are still at the very beginning of **understanding and implementing digitization**.
+
+For the first time we are facing a generation that never got to know **the offline world**. By nature they are riding the wave without ever having touched the ground.
+
+Like we might have unlearned our ancestors' knowledge about materials and crafts, it's easy to overlook the **intrinsic characteristics of the Web** in favour of the newest framework or boilerplate.
+
+### Let's re-explore the material Web and evaluate what we have learned so far. Join us to Iceland for a trip through history, views and cultures. [Back us on Kickstarter](https://www.kickstarter.com/projects/material16/material-conference-2016) and let this become real.
 
 The Internet and the Web are still very new to us. We don't fully understand them as a material. For centuries we've worked with wood, metal, glass, ceramic, paper, textiles. More recently, new materials have emerged; plastics, fiberglass, silicon, and more. We understand their limitations, their affordances. We can fold, heat, manipulate and warp some of these materials.
 
@@ -36,10 +43,8 @@ For July 22nd, we decided to use Iðnó, short for Iðnaðarmannahúsið. Built 
 ### Field Trip
 As something extra, we want to try and organize a small field trip around town meeting with companies who deal with different materials. For example, a Ceramic studio workshop, Leather craft, Letterpress, Aluminium casting, etc. These are to be determined both when, where and what.
 
-[![Material 2016 Kickstarter](public/2016/img/m16-poster.jpg)](https://www.kickstarter.com/projects/material16/material-conference-2016)
-
-### Tickets available NOW!
-As of March 9th, tickets are **[available via a Kickstarter campaign](https://www.kickstarter.com/projects/material16/material-conference-2016)** running for 30 days. The regular tickets cost $150 and are limited to 145. There are also rewards for people who can't attend in person and still want to be part of our little adventure.
+### Tickets
+As of March 9th, tickets are **[available via a Kickstarter campaign](https://www.kickstarter.com/projects/material16/material-conference-2016)** that is running for 30 days. The regular tickets cost $150 and are limited to 145. There are also rewards for people who can't attend in person and still want to be part of our little adventure.
 
 This is the phase that will decide whether Material 2016 can become reality, so we really need your support now. Please back us with any amount you can, every little bit helps. Also, we'd be very happy if you could help us spreading the word!
 
