@@ -1,4 +1,5 @@
 $sulfur: #FBEC5D;
+$text: #121212;
 
 html, body, h1, h2, h3, p, div, form {
 	padding: 0;
@@ -13,11 +14,11 @@ html, body {
 body, input {
 	font-family: "Open Sans", Arial, Helvetica, sans-serif;
 	font-size: medium;
-	color: #121212;
+	color: $text;
 }
 
 a {
-	color: #121212;
+	color: $text;
 }
 
 main, figure, footer {
@@ -63,6 +64,50 @@ p {
 	margin: 1em 0;
 	line-height: 1.5;
 	font-weight: 300;
+}
+
+.back-us {
+	width: 8em;
+	height: 8em;
+	position: relative;
+	float: right;
+	margin: 0;
+	text-align: center;
+	color: $sulfur;
+
+    .animation-wrapper, > span {
+        width: 100%;
+        height: 100%;
+        position: absolute;
+    }
+    .animation-wrapper {
+        z-index: 1;
+        animation: kickstarter 12s infinite;
+        fill: currentColor;
+
+        &.foreground {
+             top: 0;
+             right: 0;
+             color: $sulfur;
+        }
+
+        &.background {
+             top: .25em;
+             right: -.3em;
+             color: transparentize($sulfur, .8);
+        }
+    }
+
+    > span {
+        display: table;
+        z-index: 2;
+        color: $text;
+
+        span {
+            display: table-cell;
+            vertical-align: middle;
+        }
+    }
 }
 
 .schedule-location {
@@ -165,7 +210,7 @@ footer section {
 	position: relative;
 	width: 100%;
 	height: 0;
-	padding-bottom: 75%;
+	padding-bottom: 56.25%;
 
 	iframe {
 		position: absolute;
@@ -198,6 +243,11 @@ footer section {
 @media all and (min-width: 40em) {
 	figure {
 		max-width: 50%;
+
+		&.video {
+			max-width: none;
+			width: 50%;
+		}
 	}
 
 	figure.left {
@@ -230,4 +280,27 @@ footer section {
 		margin-right: -10em;
 		max-width: 34em;
 	}
+
+	figure.video {
+		max-width: none;
+		width: 34em;
+	}
+}
+
+@keyframes kickstarter {
+    0%{
+        transform: rotate(0deg) scale(1);
+    }
+    10% {
+        transform: rotate(180deg) scale(1);
+    }
+    12% {
+        transform: rotate(180deg) scale(1.1);
+    }
+    15% {
+        transform: rotate(180deg) scale(1);
+    }
+    100% {
+        transform: rotate(180deg) scale(1);
+    }
 }
