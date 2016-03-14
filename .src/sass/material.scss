@@ -71,9 +71,10 @@ p {
 	height: 8em;
 	position: relative;
 	float: right;
-	margin: 0;
+	margin: 0 0 .5em .5em;
 	text-align: center;
 	color: $sulfur;
+    transform: rotate(10deg);
 
     .animation-wrapper, > span {
         width: 100%;
@@ -94,7 +95,7 @@ p {
         &.background {
              top: .25em;
              right: -.3em;
-             color: transparentize($sulfur, .8);
+             color: transparentize($sulfur, .6);
         }
     }
 
@@ -102,6 +103,8 @@ p {
         display: table;
         z-index: 2;
         color: $text;
+        font-size: x-small;
+        font-size: .7rem;
 
         span {
             display: table-cell;
@@ -110,9 +113,12 @@ p {
     }
 }
 
+.kickstarter-logo {
+    width: 3em;
+}
+
 .schedule-location {
 	margin: 0 0 2em 0;
-	line-height: 1.2;
 	font-size: larger;
 }
 
@@ -222,6 +228,17 @@ footer section {
 }
 
 @media all and (min-width: 30em) {
+    .back-us {
+        width: 12em;
+        height: 12em;
+        margin: 0 0 2em 2em;
+
+        > span {
+            font-size: medium;
+            font-size: 1rem;
+        }
+    }
+
 	.fields {
 		display: table;
 		width: 100%;
@@ -270,6 +287,9 @@ footer section {
 }
 
 @media all and (min-width: 72em) {
+    .back-us {
+        margin-right: -3em;
+    }
 
 	figure.left {
 		margin-left: -10em;
