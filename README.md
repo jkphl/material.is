@@ -32,7 +32,11 @@ Our first confirmed speaker is [Petro Salema](http://www.petrosalema.com/). He i
 
 Our second confirmed speaker is [Matt Jones](http://moleitau.com/). Former BERG Principle, now working at Google NYC on various top secret things. He'll be giving us a short presentation and then curating a slot looking at some of the ideas around raw computing. If the Web were a material, he'd brute force his way to the best answer, maybe without even understanding how he got there — and that's OK.
 
-Other speakers haven't been sorted out yet. We'd like to bring a mix of people internationally and Icelandic locals. A few invitations have gone out and we are slowly collecting who's available when.
+![Molly E. Holzschlag "Molly E. Holzschlag"](public/2016/img/molly-holzschlag.jpg)
+
+It's a little sensation that [Molly E. Holzschlag](https://en.wikipedia.org/wiki/Molly_Holzschlag) confirmed to be our third speaker. She needs no introduction. She's been working with the web for longer than many people have been alive. We are honoured that she will take Material as opportunity, after her long and serious illness, to return to the stage and talk about what she refers to as "organic Web" where the first thing to do is get off the computer and go out into the sensory world of doing and making — "material" as we put it.
+
+Other speakers haven't been sorted out yet. We'll bring a mix of people internationally and Icelandic locals. A few invitations have gone out and we are slowly collecting who's available when.
 
 ![The theatre building Iðnó right at the pond — Copyright © 2016 Joschi Kuphal — https://jkphl.is](public/2016/img/idno.jpg "The theatre building Iðnó right at the pond — Copyright © 2016 Joschi Kuphal — https://jkphl.is")
 > The theatre building Iðnó right at the pond — Copyright © 2016 [Joschi Kuphal](https://jkphl.is)
