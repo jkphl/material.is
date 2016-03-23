@@ -26,15 +26,19 @@ We have lost the Apprentice/Master relationship in the digital world. Spending y
 
 ![Petro Salema "Petro Salema"](public/2016/img/petro.jpg)
 
-Our first confirmed speaker is [Petro Salema](http://www.petrosalema.com/). He is a designer and programmer whose driving mission is to use technology and design to build tools that enable people to do great things in new and inspiring ways. Most recently, he has been doing that by leading the development of the Aloha Editor project. Based in Vienna, Austria, originally from Tanzania, he will be enlightening us on all things in his life dealing with the Web as a Material. We're excited to hear what he comes up with!
+Our first confirmed speaker is **[Petro Salema](http://www.petrosalema.com/)**. He is a designer and programmer whose driving mission is to use technology and design to build tools that enable people to do great things in new and inspiring ways. Most recently, he has been doing that by leading the development of the Aloha Editor project. Based in Vienna, Austria, originally from Tanzania, he will be enlightening us on all things in his life dealing with the Web as a Material. We're excited to hear what he comes up with!
 
 ![Matt Jones "Matt Jones"](public/2016/img/matt-jones.jpg)
 
-Our second confirmed speaker is [Matt Jones](http://moleitau.com/). Former BERG Principle, now working at Google NYC on various top secret things. He'll be giving us a short presentation and then curating a slot looking at some of the ideas around raw computing. If the Web were a material, he'd brute force his way to the best answer, maybe without even understanding how he got there — and that's OK.
+Our second confirmed speaker is **[Matt Jones](http://moleitau.com/)**. Former BERG Principle, now working at Google NYC on various top secret things. He'll be giving us a short presentation and then curating a slot looking at some of the ideas around raw computing. If the Web were a material, he'd brute force his way to the best answer, maybe without even understanding how he got there — and that's OK.
 
 ![Molly E. Holzschlag "Molly E. Holzschlag"](public/2016/img/molly-holzschlag.jpg)
 
-It's a little sensation that [Molly E. Holzschlag](https://en.wikipedia.org/wiki/Molly_Holzschlag) confirmed to be our third speaker. She needs no introduction. She's been working with the web for longer than many people have been alive. We are honoured that she will take Material as opportunity, after her long absense, to return to the stage and talk about what she refers to as "organic Web" where the first thing to do is get off the computer and go out into the sensory world of doing and making — "material" as we put it.
+It's a little sensation that **[Molly E. Holzschlag](https://en.wikipedia.org/wiki/Molly_Holzschlag)** confirmed to be our third speaker. She needs no introduction. She's been working with the web for longer than many people have been alive. We are honoured that she will take Material as opportunity, after her long absense, to return to the stage and talk about what she refers to as "organic Web" where the first thing to do is get off the computer and go out into the sensory world of doing and making — "material" as we put it.
+
+![Goddur "Goddur"](public/2016/img/goddur.jpg)
+
+Our forth speaker, **[Goddur](http://cargocollective.com/goddur)**, works as a graphic design professor at the Icelandic Academy of the Arts in Reykjavík and is without a doubt Iceland’s best-known commentator on design issues. He teaches mostly theory courses and will be discussing the history of technology and design with examples of perspective tesselations and other patterns. He's been working in design since before the first Macintosh computers and has grown and learned with the technology. Now he has a few choice words to say about artificial intelligence, virtual reality and superficial design using computers — this should be interesting discussion to say the least.
 
 Other speakers haven't been sorted out yet. We'll bring a mix of people internationally and Icelandic locals. A few invitations have gone out and we are slowly collecting who's available when.
 
