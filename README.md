@@ -36,11 +36,11 @@ Our second confirmed speaker is **[Matt Jones](http://moleitau.com/)**. Former B
 
 It's a little sensation that **[Molly E. Holzschlag](https://en.wikipedia.org/wiki/Molly_Holzschlag)** confirmed to be our third speaker. She needs no introduction. She's been working with the web for longer than many people have been alive. We are honoured that she will take Material as opportunity, after her long absense, to return to the stage and talk about what she refers to as "organic Web" where the first thing to do is get off the computer and go out into the sensory world of doing and making — "material" as we put it.
 
-![Goddur "Goddur"](public/2016/img/goddur.jpg)
+![Dan Rubin "Dan Rubin"](public/2016/img/dan-rubin.jpg)
 
-Our forth speaker, **[Goddur](http://cargocollective.com/goddur)**, works as a graphic design professor at the Icelandic Academy of the Arts in Reykjavík and is without a doubt Iceland’s best-known commentator on design issues. He teaches mostly theory courses and will be discussing the history of technology and design with examples of perspective tesselations and other patterns. He's been working in design since before the first Macintosh computers and has grown and learned with the technology. Now he has a few choice words to say about artificial intelligence, virtual reality and superficial design using computers — this should be interesting discussion to say the least.
+We already mentioned **[Dan Rubin](http://danrubin.is/)** in our Kickstarter video and some of you were asking, so here we go. Many will know Dan as designer, photographer and "[Instagram Guru](https://www.instagram.com/danrubin/)" famous for his stunning travel photography and more. As former creative director at MOO he's based in London but spends a couple of weeks in Iceland each year, so we consider him a "semi-local". Dan will not just be a regular speaker but support us on stage as host and MC and will most like be up for one of his famous photowalks. You shouldn't miss that!
 
-Other speakers haven't been sorted out yet. We'll bring a mix of people internationally and Icelandic locals. A few invitations have gone out and we are slowly collecting who's available when.
+We'll bring a mix of **6-7 people** internationally and Icelandic locals. A few invitations have gone out and we are slowly collecting who's available when, so stay tuned for updates!
 
 ![The theatre building Iðnó right at the pond — Copyright © 2016 Joschi Kuphal — https://jkphl.is](public/2016/img/idno.jpg "The theatre building Iðnó right at the pond — Copyright © 2016 Joschi Kuphal — https://jkphl.is")
 > The theatre building Iðnó right at the pond — Copyright © 2016 [Joschi Kuphal](https://jkphl.is)

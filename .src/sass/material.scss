@@ -141,6 +141,10 @@ em {
     font-size: x-large;
 }
 
+.clear {
+	clear: both;
+}
+
 main {
 	max-width: 48em;
 	margin: 1em auto 3em auto;
@@ -204,29 +208,6 @@ footer section {
 	padding: 0 1em;
 }
 
-.speaker-list {
-	text-align: center;
-	margin-top: 3em;
-
-	a, figure {
-		display: inline-block;
-		text-align: center;
-		max-width: none;
-		vertical-align: top;
-	}
-
-	figure {
-		padding: 0 1em;
-		margin: 0;
-	}
-
-	img {
-		width: 6em;
-		height: auto;
-		border-radius: 50%;
-	}
-}
-
 .kickstarter {
 	position: relative;
 	width: 100%;
@@ -239,6 +220,20 @@ footer section {
 		left: 0;
 		right: 0;
 		bottom: 0;
+	}
+}
+
+.speaker {
+	display: block;
+	text-align: center;
+	text-decoration: none;
+
+	figure {
+		margin-top: 0;
+	}
+
+	img {
+		border-radius: 50%;
 	}
 }
 
@@ -292,6 +287,26 @@ footer section {
 		padding-left: 1em;
 		margin: 1em 0 1em 1em;
 	}
+
+	.speaker {
+		display: inline-block;
+
+		&.left {
+			float: left;
+			clear: left;
+			margin-right: 1.5em;
+		}
+
+		&.right {
+			float: right;
+			clear: right;
+			margin-left: 1.5em;
+		}
+
+		figure {
+			max-width: 100%;
+		}
+	}
 }
 
 @media all and (min-width: 50em) {
@@ -318,6 +333,17 @@ footer section {
 	figure.video {
 		max-width: none;
 		width: 34em;
+	}
+
+	.speaker {
+
+		&.left {
+			margin-left: -6em;
+		}
+
+		&.right {
+			margin-right: -6em;
+		}
 	}
 }
 
