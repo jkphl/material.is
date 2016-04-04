@@ -196,16 +196,23 @@ input[type=submit] {
 	color: #6B0505;
 }
 
-footer {
+footer, header {
 	padding: 1em 0;
 	background-color: $sulfur;
+
+	section {
+		max-width: 48em;
+		margin: 0 auto;
+		padding: 0 1em;
+	}
+}
+
+header h2 {
+	margin-top: .5em;
 }
 
 footer section {
 	margin-top: 2em;
-	max-width: 48em;
-	margin: 0 auto;
-	padding: 0 1em;
 }
 
 .kickstarter {
