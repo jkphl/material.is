@@ -92,7 +92,7 @@ module.exports = function (grunt) {
         'string-replace': {
             dist: {
                 files: {
-                    'public/2016/index.html': '.src/html/index.html',
+                    'public/2017/index.html': '.src/html/index.html',
                 },
                 options: {
                     replacements: [
@@ -130,7 +130,7 @@ module.exports = function (grunt) {
                     collapseWhitespace: true
                 },
                 files: {
-                    'public/2016/index.html': 'public/2016/index.html',
+                    'public/2017/index.html': 'public/2017/index.html',
                 }
             },
         },
@@ -146,7 +146,7 @@ module.exports = function (grunt) {
                     expand: true,
                     cwd: '.src/img/',
                     src: ['**/*.{png,jpg,gif}'],
-                    dest: 'public/2016/img/'
+                    dest: 'public/2017/img/'
                 }]
             }
         },
