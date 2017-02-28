@@ -1,7 +1,7 @@
 # [Material 2017](https://web.material.is)
 ## A conference exploring the concept of the Web as a material
 
-> August ??th, 2017 — Reykjavík, Iceland
+> August 17th, 2017 — Reykjavík, Iceland
 
 [![Material 2016 Kickstarter](public/2016/img/poster.jpg)](https://www.kickstarter.com/projects/material16/material-conference-2016)
 
@@ -23,7 +23,7 @@ We have lost the Apprentice/Master relationship in the digital world. Spending y
 
 
 ### Tickets
-This is a very small conference, only around 60 attendees. Tickets are available now for €180 (~$190 USD, £150 GBP). [They're limited — so get your's today!](https://ti.to/material-conference/material-2017)
+This is a very small conference, only around 60 attendees. Tickets are available now for $150 (~€140 EUR, £120 GBP). [They're limited — so get your's today!](https://ti.to/material-conference/material-2017)
 
 
 ![Join us for some stimulating conversation — Copyright © 2016 Joschi Kuphal — https://jkphl.is](public/2016/img/around-the-fire.jpg "Join us for some stimulating conversation — Copyright © 2016 Joschi Kuphal — https://jkphl.is")
