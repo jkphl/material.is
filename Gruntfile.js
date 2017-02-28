@@ -2,6 +2,8 @@
 module.exports = function (grunt) {
     require('matchdep').filterDev('grunt-*').forEach(grunt.loadNpmTasks);
     var mozjpeg = require('imagemin-mozjpeg');
+    console.log(mozjpeg);
+
     grunt.initConfig({
 
         sass: {
@@ -138,9 +140,8 @@ module.exports = function (grunt) {
         imagemin: {
             dist: {
                 options: {
-                    optimizationLevel: 3,
-                    svgoPlugins: [{ removeViewBox: false }],
-                    use: [mozjpeg()]
+                    optimizationLevel: 6,
+                    svgoPlugins: [{ removeViewBox: false }]
                 },
                 files: [{
                     expand: true,
