@@ -1,4 +1,6 @@
 $sulfur: #FBEC5D;
+$chlorine: #c1ffc8;
+$background: #d8ffe0;
 $text: #121212;
 
 html, body, h1, h2, h3, p, div, form {
@@ -78,7 +80,7 @@ em {
 	float: right;
 	margin: 0 0 .5em .5em;
 	text-align: center;
-	color: $sulfur;
+	color: $chlorine;
     transform: rotate(10deg);
 
     .animation-wrapper, div {
@@ -94,13 +96,13 @@ em {
         &.foreground {
              top: 0;
              right: 0;
-             color: $sulfur;
+             color: $chlorine;
         }
 
         &.background {
              top: .25em;
              right: -.3em;
-             color: transparentize($sulfur, .6);
+             color: transparentize($chlorine, .6);
         }
     }
 
@@ -196,9 +198,18 @@ input[type=submit] {
 	color: #6B0505;
 }
 
+#tickets {
+	background-color: $chlorine;
+	text-align: center;
+	font-size: 200%;
+	border-radius: 5px;
+	padding: 1em;
+
+}
+
 footer, header {
 	padding: 1em 0;
-	background-color: $sulfur;
+	background-color: $chlorine;
 
 	section {
 		max-width: 48em;
