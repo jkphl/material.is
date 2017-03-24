@@ -13,7 +13,7 @@ Like we might have unlearned our ancestors' knowledge about materials and crafts
 
 ### Let's re-explore the material Web and evaluate what we have learned so far. Join us to Iceland for a trip through history, views and cultures.
 
-The Internet and the Web are still very new to us. We don't fully understand them as a material. For centuries we've worked with wood, metal, glass, ceramic, paper, textiles. More recently, new materials have emerged; plastics, fiberglass, silicon, and more. We understand their limitations, their affordances. We can fold, heat, manipulate and warp some of these materials.
+For centuries we've worked with wood, metal, glass, ceramic, paper, textiles. More recently, new materials have emerged; plastics, fiberglass, silicon, and more. We understand their limitations, their affordances. We can fold, heat, manipulate and warp some of these materials. But the Internet and the Web are still very new to us. We don't fully understand them as a material.
 
 **What does this mean for the Web? What are the properties of the Web as a Material?**
 
@@ -23,14 +23,14 @@ We have lost the Apprentice/Master relationship in the digital world. Spending y
 
 
 ### Tickets
-This is a very small conference, only around 60 attendees. Tickets are available now for $150 (~€140 EUR, £120 GBP). [They're limited — so get your's today!](https://ti.to/material-conference/material-2017)
+This is a very small conference, only around 60 attendees. Tickets are available now for $150 (~€140 EUR, £120 GBP). [Tickets are limited. Only $150. Get yours today!](https://ti.to/material-conference/material-2017)
 
 
 ![Join us for some stimulating conversation — Copyright © 2016 Joschi Kuphal — https://jkphl.is](public/2016/img/around-the-fire.jpg "Join us for some stimulating conversation — Copyright © 2016 Joschi Kuphal — https://jkphl.is")
 > Join us for some stimulating conversation — Copyright © 2016 [Joschi Kuphal](https://jkphl.is)
 
 ### Travel and accomodation
-It's a little bit too early to think about travel stuff until the Kickstarter succeeds, but we started putting together a [Foursquare list](https://foursquare.com/jkphl/list/material-2016) with lots of recommendations in downtown Reykjavík, including lodging opportunities. There are also plenty of nice [AirBnbs](https://www.airbnb.de/s/Reykjavík) around town, so please check them out as well. We plan to open up some sort of communication platform soon where you can discuss travel and accommodation sharing possibilities with other attendees. Stay tuned!
+It's a little bit too early to think about travel stuff until the Kickstarter succeeds, but we started putting together a [Foursquare list](https://foursquare.com/jkphl/list/material-2016) with lots of recommendations in downtown Reykjavík, including lodging opportunities. There are also plenty of nice [AirBnbs](https://www.airbnb.com/s/Reykjavík) around town, so please check them out as well. We plan to open up some sort of communication platform soon where you can discuss travel and accommodation sharing possibilities with other attendees. Stay tuned!
 
 We know that travelling to Iceland for a conference might sound like an adventure — and it is! — so please bear with us while we try to get some special deals for you.
 
