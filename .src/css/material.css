@@ -112,6 +112,11 @@ em {
 .clear {
   clear: both; }
 
+#sponsors section {
+  max-width: 48em;
+  margin: 1em 0 0 0;
+  padding: 1.5em 1em 1em 1em; }
+
 main {
   max-width: 48em;
   margin: 1em auto 3em auto;
@@ -154,7 +159,7 @@ input[type=submit] {
   color: #6B0505; }
 
 #tickets {
-  background-color: #c1ffc8;
+  background-color: #c6ffe6;
   text-align: center;
   font-size: 200%;
   border-radius: 5px;
@@ -241,7 +246,9 @@ footer section {
 
 @media all and (min-width: 50em) {
   main {
-    margin: 3em auto; } }
+    margin: 3em auto; }
+  #sponsors section {
+    margin: 0 auto; } }
 
 @media all and (min-width: 72em) {
   .back-us {

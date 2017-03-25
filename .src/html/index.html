@@ -25,6 +25,11 @@
         <!-- favicon -->
 
         <script>!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,document,'script','//connect.facebook.net/en_US/fbevents.js');fbq('init','801545139951207');fbq('track','PageView');</script><noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=801545139951207&ev=PageView&noscript=1"/></noscript>
+
+        <!-- place this in your head tag for Ti.to Ticket Form -->
+        <script src='https://js.tito.io/v1' async></script>
+        <link rel="stylesheet" type="text/css" href='https://css.tito.io/v1.1' />
+        
     </head>
     <body class="h-event" itemscope="itemscope" itemtype="http://schema.org/Event">
 
@@ -87,9 +92,11 @@
             -->
 
             <section>
-                <h3>Tickets</h3>
+                <h2>Tickets</h2>
                 <p>This is a very small conference, only around 60 attendees. Tickets are available now for $150 (~€140 EUR, £120 GBP).</p>
                 <p id="tickets"><a href="https://ti.to/material-conference/material-2017">Tickets are limited. Only $150. Get yours today!</a></p>
+
+                <tito-widget event="material-conference/material-2017"></tito-widget>
             </section>
 
             <section>
@@ -99,10 +106,12 @@
                          title="Sitting around the fire">
                     <figcaption>Join us for some stimulating conversation</figcaption>
                 </figure>
-                <h3>Travel and accomodation</h3>
+                <h2>Travel and accomodation</h2>
                 <p>We started putting together a <a href="https://foursquare.com/jkphl/list/material-2016" target="_blank">Foursquare list</a> with lots of recommendations in downtown Reykjavík, including lodging opportunities. There are also plenty of nice <a href="https://www.airbnb.com/s/Reykjavík" target="_blank">AirBnbs</a> around town, so please check them out as well.</p>
                 <p>We know that travelling to Iceland for a conference might sound like an adventure — and it is! — if you need any help or suggestions, just let us know.</p>
             </section>
+
+
 
             <section>
                 <h2>Keep In Touch</h2>
@@ -131,6 +140,20 @@
                 <p>Also, let your friends know that you like what we're doing by <a href="http://lanyrd.com/2017/material17" target="_blank">tracking Material on Lanyrd</a>.</p>
             </section>
         </main>
+        <div id="sponsors" style="background-color: #ddffbc;">
+            <section>
+                <h2>Sponsors</h2>
+                <p>We are on the look-out for some great companies to help fund specific parts of the conference.</p>
+                <h3>Coffee Sponsor: $2,500</h3>
+                <p>Your sponsorship will pay for the morning and afternoon breaks in your name.</p>
+                <h3>Lunch Sponsor: $2,500</h3>
+                <p>Your sponsorship will make sure lunch is free for all attendees in your name.</p>
+                <h3>Video Sponsor: $5,000</h3>
+                <p>We plan to record the conference, but with better funding we can be more professional, add more cameras and better post-production. Your name will be included in all the videos.</p>
+                <h3>Gold Sponsor: $5,000</h3>
+                <p>Your contribution will help make the conference an even better event.</p>
+            </section>
+        </div>
         <footer>
             <section>
                 <h2>#Material17</h2>
