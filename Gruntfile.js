@@ -95,6 +95,7 @@ module.exports = function (grunt) {
             dist: {
                 files: {
                     'public/2017/index.html': '.src/html/index.html',
+                    'public/2017/code-of-conduct/index.html': '.src/html/coc.html',
                 },
                 options: {
                     replacements: [
@@ -133,6 +134,7 @@ module.exports = function (grunt) {
                 },
                 files: {
                     'public/2017/index.html': 'public/2017/index.html',
+                    'public/2017/code-of-conduct/index.html': 'public/2017/coc.html',
                 }
             },
         },
