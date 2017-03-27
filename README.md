@@ -23,7 +23,7 @@ We have lost the Apprentice/Master relationship in the digital world. Spending y
 
 
 ### Tickets
-This is a very small conference, only around 60 attendees. Tickets are available now for $150 (~€140 EUR, £120 GBP). [Tickets are limited. Only $150. Get yours today!](https://ti.to/material-conference/material-2017)
+This is a very small conference, only around 60 attendees. Tickets are available now for $159 (~€150 EUR, £130 GBP). [Tickets are limited. Only $159. Get yours today!](https://ti.to/material-conference/material-2017)
 
 
 ![Join us for some stimulating conversation — Copyright © 2016 Joschi Kuphal — https://jkphl.is](public/2016/img/around-the-fire.jpg "Join us for some stimulating conversation — Copyright © 2016 Joschi Kuphal — https://jkphl.is")
