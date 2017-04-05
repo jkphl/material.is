@@ -33,7 +33,7 @@
     <body class="h-event" itemscope="itemscope" itemtype="http://schema.org/Event">
 
         <main>
-            <section>
+            <section id="intro">
                 <h1><a href="https://web.material.is/2017/" class="u-url" itemprop="url"><span class="p-name" itemprop="name">Material 2017</span></a></h1>
                 <h2 class="p-summary" itemprop="summary">A conference exploring the concept of the Web as a material</h2>
                 <p class="schedule-location">
@@ -59,7 +59,7 @@
                 </div>
             </section>
 
-            <section>
+            <section id="speakers">
                 <h2>Speakers</h2>
 
                 <p class="clear">We'll bring a mix of <strong>5-6 people</strong> internationally and Icelandic locals. A few invitations have gone out and we are slowly collecting who's available when, so stay tuned for updates!</p>
@@ -71,8 +71,10 @@
                     </figure>
                 </a>
                 <p>Our first confirmed speaker is <strong><a href="http://amberwilson.co.uk" target="_blank">Amber Wilson</a></strong>. Amber is a budding designer continually getting excited about everything to do with the Web whether it's front-end development, server side languages or user experience. Last July she discovered the Web development community in sunny Brighton, UK, and began to build her skills while enjoying getting to know people. She's had an appreciation and love of both design and science from a really young age and is always seeking to learn more about both. Also fascinated by people, she pursued a Master's degree in Child Psychology and with this can bring a unique perspective on respecting both where we've come from and where we'll go in terms of the Web.</p>
+            </section>
 
-                <figure class="right clear square">
+            <section id="venue" class="clear">
+                <figure class="right square">
                     <img src="img/norraena-husid.jpg"
                          alt="Norræna húsið — the Nordic House"
                          title="Norræna húsið — the Nordic House">
@@ -87,15 +89,15 @@
                 <p>Rather than use a full-service hotel or conference center, we are trying a smaller, cozier and definitely more memorable location.</p>
             </section>
 
-            <section>
+            <section id="tickets" class="clear">
                 <h2>Tickets</h2>
                 <p>This is a very small conference, only around 60 attendees. Tickets are available now for $159 (~€150 EUR, £130 GBP).</p>
-                <p id="tickets"><a href="https://ti.to/material-conference/material-2017">Tickets are limited. Only $159. Get yours today!</a></p>
+                <p id="tickets-bg"><a href="https://ti.to/material-conference/material-2017">Tickets are limited. Only $159. Get yours today!</a></p>
 
                 <tito-widget event="material-conference/material-2017"></tito-widget>
             </section>
 
-            <section>
+            <section id="travel">
                 <figure class="left">
                     <img src="img/around-the-fire.jpg"
                          alt="Sitting around the fire"
@@ -107,9 +109,7 @@
                 <p>We know that travelling to Iceland for a conference might sound like an adventure — and it is! — if you need any help or suggestions, just let us know.</p>
             </section>
 
-
-
-            <section>
+            <section id="contact">
                 <h2>Keep In Touch</h2>
                 <p>Sign-up for our newsletter so we can let you know about new developments.</p>
                 <div id="mc_embed_signup">
@@ -136,7 +136,8 @@
                 <p>Also, let your friends know that you like what we're doing by <a href="http://lanyrd.com/2017/material17" target="_blank">tracking Material on Lanyrd</a>.</p>
             </section>
         </main>
-        <div id="sponsors" style="background-color: #ddffbc;">
+
+        <aside id="sponsors">
             <section>
                 <h2>Sponsors</h2>
                 <p>We are on the look-out for some great companies to help fund specific parts of the conference.</p>
@@ -149,7 +150,8 @@
                 <h3>Gold Sponsor: $5,000</h3>
                 <p>Your contribution will help make the conference an even better event.</p>
             </section>
-        </div>
+        </aside>
+
         <footer>
             <section>
                 <h2>#Material17</h2>
