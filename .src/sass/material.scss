@@ -23,7 +23,7 @@ a {
 	color: $text;
 }
 
-main, figure, footer {
+main, figure, aside, footer {
 	display: block;
 }
 
@@ -71,6 +71,10 @@ p {
 em {
     font-weight: bold;
     font-style: normal;
+}
+
+aside {
+	background-color: #ddffbc;
 }
 
 .back-us {
@@ -204,7 +208,7 @@ input[type=submit] {
 	color: #6B0505;
 }
 
-#tickets {
+#tickets-bg {
 	background-color: #c6ffe6;
 	text-align: center;
 	font-size: 200%;

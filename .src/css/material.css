@@ -14,7 +14,7 @@ body, input {
 a {
   color: #121212; }
 
-main, figure, footer {
+main, figure, aside, footer {
   display: block; }
 
 figure {
@@ -54,6 +54,9 @@ em {
   font-weight: bold;
   font-style: normal; }
 
+aside {
+  background-color: #ddffbc; }
+
 .back-us {
   width: 8em;
   height: 8em;
@@ -62,15 +65,17 @@ em {
   margin: 0 0 .5em .5em;
   text-align: center;
   color: #c1ffc8;
-  -ms-transform: rotate(10deg);
-      transform: rotate(10deg); }
+  -webkit-transform: rotate(10deg);
+      -ms-transform: rotate(10deg);
+          transform: rotate(10deg); }
   .back-us .animation-wrapper, .back-us div {
     width: 100%;
     height: 100%;
     position: absolute; }
   .back-us .animation-wrapper {
     z-index: 1;
-    animation: kickstarter 12s infinite;
+    -webkit-animation: kickstarter 12s infinite;
+            animation: kickstarter 12s infinite;
     fill: currentColor; }
     .back-us .animation-wrapper.foreground {
       top: 0;
@@ -156,7 +161,7 @@ input[type=submit] {
 #mce-error-response {
   color: #6B0505; }
 
-#tickets {
+#tickets-bg {
   background-color: #c6ffe6;
   text-align: center;
   font-size: 200%;
@@ -267,14 +272,36 @@ footer section {
   .speaker.right {
     margin-right: -6em; } }
 
+@-webkit-keyframes kickstarter {
+  0% {
+    -webkit-transform: rotate(0deg) scale(1);
+            transform: rotate(0deg) scale(1); }
+  10% {
+    -webkit-transform: rotate(180deg) scale(1);
+            transform: rotate(180deg) scale(1); }
+  12% {
+    -webkit-transform: rotate(180deg) scale(1.1);
+            transform: rotate(180deg) scale(1.1); }
+  15% {
+    -webkit-transform: rotate(180deg) scale(1);
+            transform: rotate(180deg) scale(1); }
+  100% {
+    -webkit-transform: rotate(180deg) scale(1);
+            transform: rotate(180deg) scale(1); } }
+
 @keyframes kickstarter {
   0% {
-    transform: rotate(0deg) scale(1); }
+    -webkit-transform: rotate(0deg) scale(1);
+            transform: rotate(0deg) scale(1); }
   10% {
-    transform: rotate(180deg) scale(1); }
+    -webkit-transform: rotate(180deg) scale(1);
+            transform: rotate(180deg) scale(1); }
   12% {
-    transform: rotate(180deg) scale(1.1); }
+    -webkit-transform: rotate(180deg) scale(1.1);
+            transform: rotate(180deg) scale(1.1); }
   15% {
-    transform: rotate(180deg) scale(1); }
+    -webkit-transform: rotate(180deg) scale(1);
+            transform: rotate(180deg) scale(1); }
   100% {
-    transform: rotate(180deg) scale(1); } }
+    -webkit-transform: rotate(180deg) scale(1);
+            transform: rotate(180deg) scale(1); } }
