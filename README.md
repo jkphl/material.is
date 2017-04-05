@@ -22,6 +22,28 @@ We have lost the Apprentice/Master relationship in the digital world. Spending y
 **What properties of materialness exists in the Web is what this conference is meant to explore.**
 
 
+### Speakers
+
+We'll bring a mix of **5-6 people** internationally and Icelandic locals. A few invitations have gone out and we are slowly collecting who's available when, so stay tuned for updates!
+
+#### Amber Wilson
+
+![Amber Wilson "Amber Wilson"](public/2017/img/amber-wilson.jpg)
+
+Our first confirmed speaker is **[Amber Wilson](http://amberwilson.co.uk/)** . Amber is a budding designer continually getting excited about everything to do with the Web whether it's front-end development, server side languages or user experience. Last July she discovered the Web development community in sunny Brighton, UK, and began to build her skills while enjoying getting to know people. She's had an appreciation and love of both design and science from a really young age and is always seeking to learn more about both. Also fascinated by people, she pursued a Master's degree in Child Psychology and with this can bring a unique perspective on respecting both where we've come from and where we'll go in terms of the Web.
+
+
+![Norræna húsið, the Nordic House — Copyright © 2017 Brian Suda — http://suda.co.uk](public/2017/img/norraena-husid.jpg "Norræna húsið, the Nordic House — Copyright © 2017 Brian Suda — http://suda.co.uk")
+> Norræna húsið, the Nordic House — Copyright © 2017 [Brian Suda](http://suda.co.uk)
+
+### The Nordic House
+
+For our first pilot conference on August 17th, we decided to use Norræna húsið, the **[Nordic House](http://nordichouse.is/en/)**. Built in 1968 by acclaimed Finnish modernist architect Alvar Aalto, located close to the center of Reykjavík, it is easy to access from various hotels and guesthouses within short walking distance.
+
+The house maintains a library and the Nordic Region in Focus information service. In addition, there is a shop for Nordic design and food products, exhibition space and auditoriums. The house also features an acclaimed restaurant serving New Nordic food — this is where we will have lunch together.
+
+Rather than use a full-service hotel or conference center, we are trying a smaller, cozier and definitely more memorable location.
+
 ### Tickets
 This is a very small conference, only around 60 attendees. Tickets are available now for $159 (~€150 EUR, £130 GBP). [Tickets are limited. Only $159. Get yours today!](https://ti.to/material-conference/material-2017)
 
