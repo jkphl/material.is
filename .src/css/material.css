@@ -55,50 +55,12 @@ em {
   font-style: normal; }
 
 aside {
-  background-color: #ddffbc; }
+  background-color: #D6FFDB; }
 
-.back-us {
-  width: 8em;
-  height: 8em;
-  position: relative;
+.logo {
   float: right;
-  margin: 0 0 .5em .5em;
-  text-align: center;
-  color: #c1ffc8;
-  -webkit-transform: rotate(10deg);
-      -ms-transform: rotate(10deg);
-          transform: rotate(10deg); }
-  .back-us .animation-wrapper, .back-us div {
-    width: 100%;
-    height: 100%;
-    position: absolute; }
-  .back-us .animation-wrapper {
-    z-index: 1;
-    -webkit-animation: kickstarter 12s infinite;
-            animation: kickstarter 12s infinite;
-    fill: currentColor; }
-    .back-us .animation-wrapper.foreground {
-      top: 0;
-      right: 0;
-      color: #c1ffc8; }
-    .back-us .animation-wrapper.background {
-      top: .25em;
-      right: -.3em;
-      color: rgba(193, 255, 200, 0.4); }
-  .back-us div {
-    display: table;
-    z-index: 2; }
-  .back-us figure {
-    display: table-cell;
-    vertical-align: middle; }
-  .back-us figcaption {
-    color: #121212;
-    font-size: x-small;
-    font-style: normal; }
-
-.kickstarter-logo {
-  width: 3em;
-  height: 3.556635220125786em; }
+  margin: 0 0 1em 1em;
+  max-width: 5em; }
 
 .schedule-location {
   margin: 0 0 2em 0;
@@ -162,7 +124,7 @@ input[type=submit] {
   color: #6B0505; }
 
 #tickets-bg {
-  background-color: #c6ffe6;
+  background-color: #c1ffc8;
   text-align: center;
   font-size: 200%;
   border-radius: 5px;
@@ -194,6 +156,9 @@ footer section {
     right: 0;
     bottom: 0; }
 
+.wrap-speaker {
+  clear: both; }
+
 .speaker {
   display: block;
   text-align: center;
@@ -204,12 +169,8 @@ footer section {
     border-radius: 50%; }
 
 @media all and (min-width: 30em) {
-  .back-us {
-    width: 12em;
-    height: 12em;
-    margin: 0 0 2em 2em; }
-    .back-us figcaption {
-      font-size: medium; }
+  .logo {
+    max-width: 8em; }
   .fields {
     display: table;
     width: 100%; }
@@ -221,6 +182,9 @@ footer section {
     border-right-width: 0; } }
 
 @media all and (min-width: 40em) {
+  .logo {
+    max-width: 10em;
+    margin-left: 2em; }
   figure {
     max-width: 50%; }
     figure.video {
@@ -254,8 +218,6 @@ footer section {
     margin: 0 auto; } }
 
 @media all and (min-width: 72em) {
-  .back-us {
-    margin-right: -3em; }
   figure.left {
     margin-left: -10em;
     max-width: 34em; }
@@ -272,36 +234,14 @@ footer section {
   .speaker.right {
     margin-right: -6em; } }
 
-@-webkit-keyframes kickstarter {
-  0% {
-    -webkit-transform: rotate(0deg) scale(1);
-            transform: rotate(0deg) scale(1); }
-  10% {
-    -webkit-transform: rotate(180deg) scale(1);
-            transform: rotate(180deg) scale(1); }
-  12% {
-    -webkit-transform: rotate(180deg) scale(1.1);
-            transform: rotate(180deg) scale(1.1); }
-  15% {
-    -webkit-transform: rotate(180deg) scale(1);
-            transform: rotate(180deg) scale(1); }
-  100% {
-    -webkit-transform: rotate(180deg) scale(1);
-            transform: rotate(180deg) scale(1); } }
-
 @keyframes kickstarter {
   0% {
-    -webkit-transform: rotate(0deg) scale(1);
-            transform: rotate(0deg) scale(1); }
+    transform: rotate(0deg) scale(1); }
   10% {
-    -webkit-transform: rotate(180deg) scale(1);
-            transform: rotate(180deg) scale(1); }
+    transform: rotate(180deg) scale(1); }
   12% {
-    -webkit-transform: rotate(180deg) scale(1.1);
-            transform: rotate(180deg) scale(1.1); }
+    transform: rotate(180deg) scale(1.1); }
   15% {
-    -webkit-transform: rotate(180deg) scale(1);
-            transform: rotate(180deg) scale(1); }
+    transform: rotate(180deg) scale(1); }
   100% {
-    -webkit-transform: rotate(180deg) scale(1);
-            transform: rotate(180deg) scale(1); } }
+    transform: rotate(180deg) scale(1); } }

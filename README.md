@@ -30,8 +30,19 @@ We'll bring a mix of **5-6 people** internationally and Icelandic locals. A few 
 
 ![Amber Wilson "Amber Wilson"](public/2017/img/amber-wilson.jpg)
 
-Our first confirmed speaker is **[Amber Wilson](http://amberwilson.co.uk/)** . Amber is a budding designer continually getting excited about everything to do with the Web whether it's front-end development, server side languages or user experience. Last July she discovered the Web development community in sunny Brighton, UK, and began to build her skills while enjoying getting to know people. She's had an appreciation and love of both design and science from a really young age and is always seeking to learn more about both. Also fascinated by people, she pursued a Master's degree in Child Psychology and with this can bring a unique perspective on respecting both where we've come from and where we'll go in terms of the Web.
+Our first confirmed speaker is **[Amber Wilson](http://amberwilson.co.uk/)** . Amber is a budding designer continually getting excited about everything to do with the Web whether it's front-end development, server side languages or user experience. Last July she discovered the Web development community in sunny Brighton, UK, and began to build her skills while enjoying getting to know people.
 
+She's had an appreciation and love of both design and science from a really young age and is always seeking to learn more about both. Also fascinated by people, she pursued a Master's degree in Child Psychology and with this can bring a unique perspective on respecting both where we've come from and where we'll go in terms of the Web.
+
+#### Hannah & Justin Floyd
+
+![Hannah & Justin Floyd "Hannah & Justin Floyd"](public/2017/img/hannah-justin-floyd.jpg)
+
+**[Hannah and Justin Floyd](http://www.solidwool.com)** had an idea. What if they could find a new way of working with wool and so perhaps bring something back to their small market town, a once thriving part of the woollen industry?
+
+They learnt that the coarse wool from hill-farmed, upland sheep had dramatically lost its value in recent years. So they started to play. To turn the way wool is worked on it's head. The end result is [Solidwool](http://www.solidwool.com/) — a strong, beautiful and unique composite material. Think fibreglass, but with wool.
+
+They know better than anyone else, literally down to the micron scale about wool. That deep understanding is what we're going to talk about in relation to knowing your material and its affordances.
 
 ![Norræna húsið, the Nordic House — Copyright © 2017 Brian Suda — http://suda.co.uk](public/2017/img/norraena-husid.jpg "Norræna húsið, the Nordic House — Copyright © 2017 Brian Suda — http://suda.co.uk")
 > Norræna húsið, the Nordic House — Copyright © 2017 [Brian Suda](http://suda.co.uk)

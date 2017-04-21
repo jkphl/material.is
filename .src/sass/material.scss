@@ -1,5 +1,7 @@
 $sulfur: #FBEC5D;
 $chlorine: #c1ffc8;
+$chlorineDark: #00B815;
+$chlorineLight: #D6FFDB;
 $background: #d8ffe0;
 $text: #121212;
 
@@ -74,62 +76,13 @@ em {
 }
 
 aside {
-	background-color: #ddffbc;
+	background-color: $chlorineLight;
 }
 
-.back-us {
-	width: 8em;
-	height: 8em;
-	position: relative;
-	float: right;
-	margin: 0 0 .5em .5em;
-	text-align: center;
-	color: $chlorine;
-    transform: rotate(10deg);
-
-    .animation-wrapper, div {
-        width: 100%;
-        height: 100%;
-        position: absolute;
-    }
-    .animation-wrapper {
-        z-index: 1;
-        animation: kickstarter 12s infinite;
-        fill: currentColor;
-
-        &.foreground {
-             top: 0;
-             right: 0;
-             color: $chlorine;
-        }
-
-        &.background {
-             top: .25em;
-             right: -.3em;
-             color: transparentize($chlorine, .6);
-        }
-    }
-
-    div {
-        display: table;
-        z-index: 2;
-    }
-
-    figure {
-        display: table-cell;
-        vertical-align: middle;
-    }
-
-    figcaption {
-        color: $text;
-        font-size: x-small;
-        font-style: normal;
-    }
-}
-
-.kickstarter-logo {
-    width: 3em;
-    height: 3.556635220125786em;
+.logo {
+    float: right;
+	margin: 0 0 1em 1em;
+	max-width: 5em;
 }
 
 .schedule-location {
@@ -209,7 +162,7 @@ input[type=submit] {
 }
 
 #tickets-bg {
-	background-color: #c6ffe6;
+	background-color: $chlorine;
 	text-align: center;
 	font-size: 200%;
 	border-radius: 5px;
@@ -251,6 +204,10 @@ footer section {
 	}
 }
 
+.wrap-speaker {
+	clear: both;
+}
+
 .speaker {
 	display: block;
 	text-align: center;
@@ -266,15 +223,9 @@ footer section {
 }
 
 @media all and (min-width: 30em) {
-    .back-us {
-        width: 12em;
-        height: 12em;
-        margin: 0 0 2em 2em;
-
-        figcaption {
-            font-size: medium;
-        }
-    }
+	.logo {
+		max-width: 8em;
+	}
 
 	.fields {
 		display: table;
@@ -295,6 +246,11 @@ footer section {
 }
 
 @media all and (min-width: 40em) {
+	.logo {
+		max-width: 10em;
+		margin-left: 2em;
+	}
+
 	figure {
 		max-width: 50%;
 
@@ -347,10 +303,6 @@ footer section {
 }
 
 @media all and (min-width: 72em) {
-    .back-us {
-        margin-right: -3em;
-    }
-
 	figure.left {
 		margin-left: -10em;
 		max-width: 34em;
