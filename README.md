@@ -44,6 +44,16 @@ They learnt that the coarse wool from hill-farmed, upland sheep had dramatically
 
 They know better than anyone else, literally down to the micron scale about wool. That deep understanding is what we're going to talk about in relation to knowing your material and its affordances.
 
+#### Cindy Hsin-Liu Kao (高新綠)
+
+![Cindy Hsin-Liu Kao "Cindy Hsin-Liu Kao; Photo by Jimmy Day"](public/2017/img/cindy-hsin-liu-kao.jpg)
+
+**[Cindy Hsin-Liu Kao](http://www.cindykao.com)** is a Taiwanese born engineer and artist, currently a PhD student at the MIT Media Lab. Her research practice, themed Hybrid Body Craft, blends aesthetic and cultural perspectives into the design of on-body interfaces. She also creates novel processes for crafting technology close to the body.
+
+One of Cindy's most recent projects is [DuoSkin](http://duoskin.media.mit.edu/), a fabrication process that enables anyone to create customized functional devices that can be attached directly on their skin. Using gold metal leaf, a material that is cheap, skin-friendly, and robust for everyday wear, it demonstrates three types of on-skin interfaces: sensing touch input, displaying output, and wireless communication.
+
+Cindy will be coming along to talk about her experience looking at controlling computers with alternative methods of input.
+
 ![Norræna húsið, the Nordic House — Copyright © 2017 Brian Suda — http://suda.co.uk](public/2017/img/norraena-husid.jpg "Norræna húsið, the Nordic House — Copyright © 2017 Brian Suda — http://suda.co.uk")
 > Norræna húsið, the Nordic House — Copyright © 2017 [Brian Suda](http://suda.co.uk)
 
@@ -58,22 +68,22 @@ Rather than use a full-service hotel or conference center, we are trying a small
 ### Tickets
 This is a very small conference, only around 60 attendees. Tickets are available now for $159 (~€150 EUR, £130 GBP). [Tickets are limited. Only $159. Get yours today!](https://ti.to/material-conference/material-2017)
 
-## Keep In Touch
+### Travel and accomodation
+We started putting together a [Foursquare list](https://foursquare.com/jkphl/list/material-2016) with lots of recommendations in downtown Reykjavík, including lodging opportunities. There are also plenty of nice [AirBnbs](https://www.airbnb.com/s/Reykjav%C3%ADk) around town, so please check them out as well.
+
+We know that travelling to Iceland for a conference might sound like an adventure — and it is! — if you need any help or suggestions, just let us know while we'll keep reaching out to hotels and potential sponsors to get some good deals for you.
+
+Also, let your friends know that you like what we're doing by [tracking Material on Lanyrd](http://lanyrd.com/2017/material17).
+
+## Visiting Iceland Slack Team
+
+To help you planning your stay in Iceland, we've set up the [Visiting Iceland Slack Team](https://visitingiceland.slack.com) where you can meet other attendees, exchange experiences and team up with others to find shared Airbnbs, hotel rooms and similar. To request an invite to this Slack team please [use the form on our website](http://web.material.is/2017/index.html#slack).
+
+## Keep In Touch — Material newsletter
 [Sign-up for our newsletter](https://material.us12.list-manage.com/subscribe?u=47afb33257f1e65f442e8f176&id=c291cb4ea6) so we can let you know when tickets will be available. This helps us gauge our numbers to find the right cozy venue to meet the demand.
 
 ![Join us for some stimulating conversation — Copyright © 2016 Joschi Kuphal — https://jkphl.is](public/2016/img/around-the-fire.jpg "Join us for some stimulating conversation — Copyright © 2016 Joschi Kuphal — https://jkphl.is")
 > Join us for some stimulating conversation — Copyright © 2016 [Joschi Kuphal](https://jkphl.is)
-
-### Travel and accomodation
-It's a little bit too early to think about travel stuff until the Kickstarter succeeds, but we started putting together a [Foursquare list](https://foursquare.com/jkphl/list/material-2016) with lots of recommendations in downtown Reykjavík, including lodging opportunities. There are also plenty of nice [AirBnbs](https://www.airbnb.com/s/Reykjavík) around town, so please check them out as well. We plan to open up some sort of communication platform soon where you can discuss travel and accommodation sharing possibilities with other attendees. Stay tuned!
-
-We know that travelling to Iceland for a conference might sound like an adventure — and it is! — so please bear with us while we try to get some special deals for you.
-
-Also, let your friends know that you like what we're doing by [tracking Material on Lanyrd](http://lanyrd.com/2017/material17).
-
-### Visiting Iceland Slack Team
-
-To help you planning your stay in Iceland, we've set up the [Visiting Iceland Slack Team](https://visitingiceland.slack.com) where you can meet other attendees, exchange experiences and team up with others to find shared Airbnbs, hotel rooms and similar. To request an invite to this Slack team please [use the form on our website](http://web.material.is/2017/index.html#slack).
 
 ## #Material17
 This conference is about understanding materials. The 17th material in the periodic table is Chlorine. If you visit any of Iceland's swimming pools, you'll understand why that's interesting.
