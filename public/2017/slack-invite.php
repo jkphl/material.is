@@ -50,7 +50,7 @@
 			</section><?php
 
 			$token = empty($_SERVER['SLACK_TOKEN']) ? false : $_SERVER['SLACK_TOKEN']; // admin token generated at https://api.slack.com/docs/oauth-test-tokens
-			$email = (empty($_POST['email']) || !filter_var(trim($_POST['email']), FILTER_VALIDATE_EMAIL)) ? trim($_POST['email']) : false;
+			$email = (empty($_POST['email']) || !filter_var(trim($_POST['email']), FILTER_VALIDATE_EMAIL)) ? false : trim($_POST['email']);
 			$error = true;
 
 			// If a slack API token is given
