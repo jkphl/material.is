@@ -67,9 +67,14 @@
 				$ch = curl_init();
 				curl_setopt($ch, CURLOPT_URL, $url);
 				curl_setopt($ch, CURLOPT_POST, count($data));
+				curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
 				curl_setopt($ch, CURLOPT_POSTFIELDS, http_build_query($data));
-				$error = !curl_exec($ch);
+				$result = curl_exec($ch);
 				curl_close($ch);
+
+				if (strlen($result) && is_object($status = @json_decode($result)) && isset($status->ok) && $status->ok) {
+					$error = false;
+				}
 			}
 
 			if ($error):
