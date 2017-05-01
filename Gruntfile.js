@@ -5,7 +5,6 @@ module.exports = function (grunt) {
     console.log(mozjpeg);
 
     grunt.initConfig({
-
         sass: {
             dist: {
                 files: [{
@@ -95,7 +94,8 @@ module.exports = function (grunt) {
             dist: {
                 files: {
                     'public/2017/index.html': '.src/html/index.html',
-                    'public/2017/code-of-conduct/index.html': '.src/html/coc.html',
+                    'public/2017/code-of-conduct.html': '.src/html/code-of-conduct.html',
+                    'public/2017/slack-invite.php': '.src/html/slack-invite.php',
                 },
                 options: {
                     replacements: [
@@ -160,7 +160,7 @@ module.exports = function (grunt) {
                 tasks: ['css']
             },
             html: {
-                files: '.src/html/**/*.html',
+                files: '.src/html/**/*.{html,php}',
                 tasks: ['html']
             },
             images: {

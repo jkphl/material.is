@@ -58,6 +58,8 @@ Rather than use a full-service hotel or conference center, we are trying a small
 ### Tickets
 This is a very small conference, only around 60 attendees. Tickets are available now for $159 (~€150 EUR, £130 GBP). [Tickets are limited. Only $159. Get yours today!](https://ti.to/material-conference/material-2017)
 
+## Keep In Touch
+[Sign-up for our newsletter](https://material.us12.list-manage.com/subscribe?u=47afb33257f1e65f442e8f176&id=c291cb4ea6) so we can let you know when tickets will be available. This helps us gauge our numbers to find the right cozy venue to meet the demand.
 
 ![Join us for some stimulating conversation — Copyright © 2016 Joschi Kuphal — https://jkphl.is](public/2016/img/around-the-fire.jpg "Join us for some stimulating conversation — Copyright © 2016 Joschi Kuphal — https://jkphl.is")
 > Join us for some stimulating conversation — Copyright © 2016 [Joschi Kuphal](https://jkphl.is)
@@ -67,10 +69,11 @@ It's a little bit too early to think about travel stuff until the Kickstarter su
 
 We know that travelling to Iceland for a conference might sound like an adventure — and it is! — so please bear with us while we try to get some special deals for you.
 
-## Keep In Touch
-[Sign-up for our newsletter](https://material.us12.list-manage.com/subscribe?u=47afb33257f1e65f442e8f176&id=c291cb4ea6) so we can let you know when tickets will be available. This helps us gauge our numbers to find the right cozy venue to meet the demand.
-
 Also, let your friends know that you like what we're doing by [tracking Material on Lanyrd](http://lanyrd.com/2017/material17).
+
+### Visiting Iceland Slack Team
+
+To help you planning your stay in Iceland, we've set up the [Visiting Iceland Slack Team](https://visitingiceland.slack.com) where you can meet other attendees, exchange experiences and team up with others to find shared Airbnbs, hotel rooms and similar. To request an invite to this Slack team please [use the form on our website](http://web.material.is/2017/index.html#slack).
 
 ## #Material17
 This conference is about understanding materials. The 17th material in the periodic table is Chlorine. If you visit any of Iceland's swimming pools, you'll understand why that's interesting.
