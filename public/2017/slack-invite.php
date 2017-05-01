@@ -51,7 +51,7 @@
 
 			$token = empty($_SERVER['SLACK_TOKEN']) ? false : $_SERVER['SLACK_TOKEN']; // admin token generated at https://api.slack.com/docs/oauth-test-tokens
 			$email = (empty($_POST['email']) || !filter_var(trim($_POST['email']), FILTER_VALIDATE_EMAIL)) ? false : trim($_POST['email']);
-			$error = true;
+			$error = 'unknown';
 
 			// If a slack API token is given
 			if ($token && $email) {
@@ -72,14 +72,19 @@
 				$result = curl_exec($ch);
 				curl_close($ch);
 
-				if (strlen($result) && is_object($status = @json_decode($result)) && isset($status->ok) && $status->ok) {
-					$error = false;
+				// Validate the result
+				if (strlen($result) && is_object($status = @json_decode($result))) {
+					if (isset($status->ok) && $status->ok) {
+						$error = false;
+					} else {
+						$error = empty($status->error) ? 'unknown' : $status->error;
+					}
 				}
 			}
 
 			if ($error):
 
-				?><h2>Ooops! Something went wrong ...</h2>
+				?><h2 data-error="<?= htmlspecialchars($error); ?>">Ooops! Something went wrong ...</h2>
 				<p>An error occured while requesting an invite to our <a href="https://visitingiceland.slack.com" target="_blank">Visiting Iceland Slack Team</a>. Please <a href="mailto:info@material.is">get in touch with us</a> to sort this out. Sorry for the inconvenience!</p><?php
 
 			else:
