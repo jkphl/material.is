@@ -44,15 +44,15 @@ They learnt that the coarse wool from hill-farmed, upland sheep had dramatically
 
 They know better than anyone else, literally down to the micron scale about wool. That deep understanding is what we're going to talk about in relation to knowing your material and its affordances.
 
-#### Cindy Hsin-Liu Kao (高新綠)
+#### Tommy Stadlen
 
-![Cindy Hsin-Liu Kao "Cindy Hsin-Liu Kao; Photo by Jimmy Day"](public/2017/img/cindy-hsin-liu-kao.jpg)
+![Tommy Stadlen "Tommy Stadlen"](public/2017/img/tommy-stadlen.jpg)
 
-**[Cindy Hsin-Liu Kao](http://www.cindykao.com)** is a Taiwanese born engineer and artist, currently a PhD student at the MIT Media Lab. Her research practice, themed Hybrid Body Craft, blends aesthetic and cultural perspectives into the design of on-body interfaces. She also creates novel processes for crafting technology close to the body.
+**[Tommy Stadlen](https://twitter.com/TommyStadlen)** is the co-creator of [Polaroid Swing](https://www.polaroidswing.com/), a Silicon Valley startup writing the next chapter in Polaroid's iconic history alongside Twitter founder Biz Stone. Swing's vision is to reimagine the photograph.
 
-One of Cindy's most recent projects is [DuoSkin](http://duoskin.media.mit.edu/), a fabrication process that enables anyone to create customized functional devices that can be attached directly on their skin. Using gold metal leaf, a material that is cheap, skin-friendly, and robust for everyday wear, it demonstrates three types of on-skin interfaces: sensing touch input, displaying output, and wireless communication.
+Tommy is going to enlighten us about some of the challenges that Polaroid and other companies are facing. He's going to look at Polaroid's history and the intersection of art and science, the importance of tangibility and will explore the resurgence of physicality and nostalgia. Why are we all so interested in vinyl records to film photography?
 
-Cindy will be coming along to talk about her experience looking at controlling computers with alternative methods of input.
+We now have the power to capture and explore how memories move, how does that impact the way we think about or digital lives?
 
 ![Norræna húsið, the Nordic House — Copyright © 2017 Brian Suda — http://suda.co.uk](public/2017/img/norraena-husid.jpg "Norræna húsið, the Nordic House — Copyright © 2017 Brian Suda — http://suda.co.uk")
 > Norræna húsið, the Nordic House — Copyright © 2017 [Brian Suda](http://suda.co.uk)
