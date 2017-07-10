@@ -54,6 +54,18 @@ Tommy is going to enlighten us about some of the challenges that Polaroid and ot
 
 We now have the power to capture and explore how memories move, how does that impact the way we think about or digital lives?
 
+#### Tristan Ferne
+
+![Tristan Ferne "Tristan Ferne"](public/2017/img/tristan-ferne.jpg)
+
+**[Tristan Ferne](http://www.bbc.co.uk/rd/people/tristan-ferne)** is the lead producer at [BBC Research & Development](http://www.bbc.co.uk/rd) where he uses technology and design to prototype the future of media and the Web.
+
+He'll be exploring more about stories, their form, structure, beginnings, middles, endings, people, places, things, setbacks, climaxes and conflict. The Web also has form and structure, pages, links, javascript, audio, video, text, control, personalisation and adaptation.
+
+When we take stories onto the Web we can do things that haven't been possible before. Giving you control over how much detail you get in the news, adapt a podcast to fit your commuting time, present fiction in different forms and across different media.
+
+Through a series of examples from the BBC and elsewhere he'll look at some experiments with storytelling on the Web and explore some of the future directions we could take.
+
 ![Norræna húsið, the Nordic House — Copyright © 2017 Brian Suda — http://suda.co.uk](public/2017/img/norraena-husid.jpg "Norræna húsið, the Nordic House — Copyright © 2017 Brian Suda — http://suda.co.uk")
 > Norræna húsið, the Nordic House — Copyright © 2017 [Brian Suda](http://suda.co.uk)
 
