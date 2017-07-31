@@ -56,8 +56,12 @@ h1 {
 	margin: 0;
 }
 
-h2, h3 {
+h2 {
 	margin: 2em 0 .5em 0;
+}
+
+h3 {
+	margin: 1em 0 .5em 0;
 }
 
 h1 + h2 {
@@ -160,6 +164,12 @@ input[type=submit] {
 #mce-error-response {
 	color: #6B0505;
 }
+
+#schedule {
+	background-color: $chlorineLight;
+	padding: 0.25em 1em 1em 1em;
+}
+
 
 #tickets-bg, #tickets-stream {
 	background-color: $chlorine;
