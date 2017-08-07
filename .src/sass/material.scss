@@ -265,7 +265,8 @@ footer section {
 	figure {
 		max-width: 50%;
 
-		&.video {
+		&.video,
+		&.still {
 			max-width: none;
 			width: 50%;
 		}
@@ -324,7 +325,8 @@ footer section {
 		max-width: 34em;
 	}
 
-	figure.video {
+	figure.video,
+	figure.still {
 		max-width: none;
 		width: 34em;
 	}
