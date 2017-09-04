@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+    <channel>
+        <title>Material Conference 2017</title>
+        <itunes:summary>Material Conference 2017</itunes:summary>
+        <description>Material Conference 2017</description>
+        <itunes:image href="https://podcast-512.png" />
+        <image>
+            <title>Material Conference 2017</title>
+            <link>https://material.is/</link>
+            <url>https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;refresh=2592000&amp;resize_w=1440&amp;resize_h=1440&amp;url=https://huffduffer.com/images/podcast.jpg</url>
+        </image>
+        <language>en</language>
+        <link>https://web.material.is/2017/</link>
+        <atom:link href="https://web.material.is/assets/material17.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title>Material Conference 2017: Fine Art Ingredients of the Web - Goddur</title>
+            <description>The context of ideas from classical art such as the vanishing point and the perspective of the renaissance to the pixels of Mondrian and Kazimir Malevich. The devices and the tools that the creators of the web have permanently at hand.
+
+Goddur works as a graphic design professor at the Icelandic Academy of the Arts in Reykjavík and is without a doubt Iceland's best-known commentator on design issues.
+
+He teaches mostly theory courses and will be discussing the history of technology and design with examples of perspective tesselations and other patterns. He's been working in design since before the first Macintosh computers and has grown and learned with the technology.</description>
+            <guid>https://huffduffer.com/briansuda/427807</guid>
+            <link>https://huffduffer.com/briansuda/427807</link>
+            <enclosure url="https://archive.org/download/MaterialConference2017/5-Goddur.mp3" type="audio/mpeg" length="0"/>
+            <pubDate>Fri, 1 Sep 2017 17:19:56 GMT</pubDate>
+            <category>material conference</category>
+            <category>material</category>
+            <category>2017</category>
+            <category>goddur</category>
+            <category>material17</category>
+            <itunes:image href="https://huffduffer.com/images/podcast.jpg" />
+        </item>
+        <item>
+            <title>Material Conference 2017: Poco Apollo - Halldór Eldjárn</title>
+            <description>Halldór Eldjárn is a musician &amp; audio developer who tells us a little story about how he took 15,000 public domain photos from NASA's Apollo Space Mission and created a unique soundscape for every single one. Hint: They were programatically generated!
+
+Halldór created the piece to open up this incredible photo library. The mood in the pictures is somewhat unusual as some of them quite casual unlike the most famous and polished pictures we are so used to seeing, from these missions. Some are even quite bad, but still they are taken during one of the most incredible journeys mankind has embarked upon and thus become mysterious and exciting. The web app selects pictures at random and the browser then starts playing the soundtrack for that picture.
+
+When dealing with the Web, we tend to think solely about the screen and visual experience, but in this mini-talk we'll explore the material of sound and what that means.</description>
+            <guid>https://huffduffer.com/briansuda/427806</guid>
+            <link>https://huffduffer.com/briansuda/427806</link>
+            <enclosure url="https://archive.org/download/MaterialConference2017/4-Halldor_Eldjarn.mp3" type="audio/mpeg" length="0"/>
+            <pubDate>Fri, 1 Sep 2017 17:19:01 GMT</pubDate>
+            <category>material conference</category>
+            <category>2017</category>
+            <category>material</category>
+            <category>sound</category>
+            <category>nasa</category>
+            <category>halldor eldjarn</category>
+            <category>material17</category>
+            <itunes:image href="https://huffduffer.com/images/podcast.jpg" />
+        </item>
+        <item>
+            <title>Material Conference 2017: Solidwool - A new way of working with wool</title>
+            <description>Hannah and Justin Floyd had an idea. What if they could find a new way of working with wool and so perhaps bring something back to their small market town, a once thriving part of the woollen industry?
+
+They learnt that the coarse wool from hill-farmed, upland sheep had dramatically lost its value in recent years. So they started to play. To turn the way wool is worked on its head. The end result is Solidwool — a strong, beautiful and unique composite material. Think fibreglass, but with wool.
+
+They know better than anyone else, literally down to the micron scale about wool. That deep understanding is what we're going to talk about in relation to knowing your material and its affordances.</description>
+            <guid>https://huffduffer.com/briansuda/427804</guid>
+            <link>https://huffduffer.com/briansuda/427804</link>
+            <enclosure url="https://archive.org/download/MaterialConference2017/1-Solidwool.mp3" type="audio/mpeg" length="0"/>
+            <pubDate>Fri, 1 Sep 2017 17:16:36 GMT</pubDate>
+            <category>solidwool</category>
+            <category>wool</category>
+            <category>material conference</category>
+            <category>2017</category>
+            <category>material17</category>
+            <itunes:image href="https://huffduffer.com/images/podcast.jpg" />
+        </item>
+    </channel>
+</rss>
