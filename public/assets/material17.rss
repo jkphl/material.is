@@ -4,7 +4,9 @@
         <title>Material Conference 2017</title>
         <itunes:summary>Material Conference 2017</itunes:summary>
         <description>Material Conference 2017</description>
-        <itunes:image href="https://podcast-512.png" />
+        <itunes:image href="https://web.material.is/2017/img/podcast-2000.png" />
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:category>Technology</itunes:category>
         <image>
             <title>Material Conference 2017</title>
             <link>https://material.is/</link>
@@ -29,7 +31,7 @@ He teaches mostly theory courses and will be discussing the history of technolog
             <category>2017</category>
             <category>goddur</category>
             <category>material17</category>
-            <itunes:image href="https://huffduffer.com/images/podcast.jpg" />
+            <itunes:image href="https://web.material.is/2017/img/podcast-2000.png" />
         </item>
         <item>
             <title>Material Conference 2017: Poco Apollo - Halldór Eldjárn</title>
@@ -49,7 +51,7 @@ When dealing with the Web, we tend to think solely about the screen and visual e
             <category>nasa</category>
             <category>halldor eldjarn</category>
             <category>material17</category>
-            <itunes:image href="https://huffduffer.com/images/podcast.jpg" />
+            <itunes:image href="https://web.material.is/2017/img/podcast-2000.png" />
         </item>
         <item>
             <title>Material Conference 2017: Solidwool - A new way of working with wool</title>
@@ -67,7 +69,7 @@ They know better than anyone else, literally down to the micron scale about wool
             <category>material conference</category>
             <category>2017</category>
             <category>material17</category>
-            <itunes:image href="https://huffduffer.com/images/podcast.jpg" />
+            <itunes:image href="https://web.material.is/2017/img/podcast-2000.png" />
         </item>
     </channel>
 </rss>
