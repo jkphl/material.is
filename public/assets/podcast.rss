@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
     <channel>
-        <title>Material Conference 2017</title>
-        <itunes:summary>Material Conference 2017</itunes:summary>
-        <description>Material Conference 2017</description>
-        <itunes:image href="https://web.material.is/2017/img/podcast-2000.png" />
+        <title>Material Conference</title>
+        <itunes:summary>Material Conference</itunes:summary>
+        <description>Material Conference session audio starting with 2017.</description>
+        <itunes:image href="https://web.material.is/2017/img/podcast17-2000.png" />
         <itunes:explicit>no</itunes:explicit>
             <itunes:category text="Technology"/>
         <image>
             <title>Material Conference 2017</title>
             <link>https://material.is/</link>
-            <url>https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;refresh=2592000&amp;resize_w=1440&amp;resize_h=1440&amp;url=https://huffduffer.com/images/podcast.jpg</url>
+            <url>https://web.material.is/2017/img/podcast17-2000.png</url>
         </image>
         <language>en</language>
         <link>https://web.material.is/2017/</link>
-        <atom:link href="https://web.material.is/assets/material17.rss" rel="self" type="application/rss+xml"/>
+        <atom:link href="https://web.material.is/assets/podcast.rss" rel="self" type="application/rss+xml"/>
         <item>
             <title>Fine Art Ingredients of the Web - Goddur</title>
             <description>The context of ideas from classical art such as the vanishing point and the perspective of the renaissance to the pixels of Mondrian and Kazimir Malevich. The devices and the tools that the creators of the web have permanently at hand.
@@ -33,7 +33,7 @@ He teaches mostly theory courses and will be discussing the history of technolog
             <category>material17</category>
             <itunes:category text="Technology"/>
 
-            <itunes:image href="https://web.material.is/2017/img/podcast-2000.png" />
+            <itunes:image href="https://web.material.is/2017/img/podcast17-2000.png" />
         </item>
         <item>
             <title>Poco Apollo - Halldór Eldjárn</title>
@@ -55,7 +55,7 @@ When dealing with the Web, we tend to think solely about the screen and visual e
             <category>material17</category>
             <itunes:category text="Technology"/>
 
-            <itunes:image href="https://web.material.is/2017/img/podcast-2000.png" />
+            <itunes:image href="https://web.material.is/2017/img/podcast17-2000.png" />
         </item>
         <item>
             <title>Psychology and the Web - Amber Wilson</title>
@@ -74,7 +74,7 @@ She is excited to bring along her unique perspective on Web development through 
             <category>2017</category>
             <category>material17</category>
             <itunes:category text="Technology"/>
-            <itunes:image href="https://web.material.is/2017/img/podcast-2000.png" />
+            <itunes:image href="https://web.material.is/2017/img/podcast17-2000.png" />
         </item>
         <item>
             <title>Solidwool - A new way of working with wool</title>
@@ -93,7 +93,7 @@ They know better than anyone else, literally down to the micron scale about wool
             <category>2017</category>
             <category>material17</category>
             <itunes:category text="Technology"/>
-            <itunes:image href="https://web.material.is/2017/img/podcast-2000.png" />
+            <itunes:image href="https://web.material.is/2017/img/podcast17-2000.png" />
         </item>
     </channel>
 </rss>
