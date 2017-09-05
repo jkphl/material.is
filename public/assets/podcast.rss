@@ -4,6 +4,7 @@
         <title>Material Conference</title>
         <itunes:summary>Material Conference</itunes:summary>
         <description>Material Conference session audio starting with 2017.</description>
+        <itunes:author>Brian Suda &amp; Joschi Kuphal</itunes:author>
         <itunes:image href="https://web.material.is/2017/img/podcast17-2000.png" />
         <itunes:explicit>no</itunes:explicit>
             <itunes:category text="Technology"/>
@@ -16,6 +17,7 @@
         <link>https://web.material.is/2017/</link>
         <atom:link href="https://web.material.is/assets/podcast.rss" rel="self" type="application/rss+xml"/>
         <item>
+            <author>Goddur</author>
             <title>Fine Art Ingredients of the Web - Goddur</title>
             <description>The context of ideas from classical art such as the vanishing point and the perspective of the renaissance to the pixels of Mondrian and Kazimir Malevich. The devices and the tools that the creators of the web have permanently at hand.
 
@@ -36,6 +38,7 @@ He teaches mostly theory courses and will be discussing the history of technolog
             <itunes:image href="https://web.material.is/2017/img/podcast17-2000.png" />
         </item>
         <item>
+            <author>Halldór Eldjárn</author>
             <title>Poco Apollo - Halldór Eldjárn</title>
             <description>Halldór Eldjárn is a musician &amp; audio developer who tells us a little story about how he took 15,000 public domain photos from NASA's Apollo Space Mission and created a unique soundscape for every single one. Hint: They were programatically generated!
 
@@ -58,6 +61,7 @@ When dealing with the Web, we tend to think solely about the screen and visual e
             <itunes:image href="https://web.material.is/2017/img/podcast17-2000.png" />
         </item>
         <item>
+            <author>Amber Wilson</author>
             <title>Psychology and the Web - Amber Wilson</title>
             <description>Amber Wilson Amber Wilson worked in the field of Psychology for many years and is now a budding Web developer at a design agency in Brighton. New to Web development, she is continually eager to improve her skills.
 
@@ -77,6 +81,7 @@ She is excited to bring along her unique perspective on Web development through 
             <itunes:image href="https://web.material.is/2017/img/podcast17-2000.png" />
         </item>
         <item>
+            <author>Solidwool</author>
             <title>Solidwool - A new way of working with wool</title>
             <description>Hannah and Justin Floyd had an idea. What if they could find a new way of working with wool and so perhaps bring something back to their small market town, a once thriving part of the woollen industry?
 
