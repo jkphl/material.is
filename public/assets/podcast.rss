@@ -17,6 +17,28 @@
         <link>https://web.material.is/2017/</link>
         <atom:link href="https://web.material.is/assets/podcast.rss" rel="self" type="application/rss+xml"/>
         <item>
+            <author>Tristan Ferne</author>
+            <title>Stories and the Web - BBC R&amp;D - Tristan Ferne</title>
+            <description>Stories have form and structure. Beginnings, middles and endings. People, places and things. Setbacks, climaxes and conflict. And the web has form and structure. Sites, pages &amp; links. Interactivity, personalisation and adaptation.
+
+He'll look at how stories and the web can interconnect and overlap in forms and structure, showing examples of some of the new ways that people are telling stories using the web. From choosing your level of detail, varying the length, personalising a story and interacting with explanations, to the latest BBC experiments with voice-controlled stories and atomised news.
+
+And he'll explain how the BBC is experimenting with atomising media and deconstructing stories into fundamental, structured building blocks that we can present in new and powerful ways; building responsive stories for the web.</description>
+            <guid>https://archive.org/download/MaterialConference2017/6-Tristan_Ferne.mp3</guid>
+            <link>https://archive.org/details/MaterialConference2017</link>
+            <enclosure url="https://archive.org/download/MaterialConference2017/6-Tristan_Ferne.mp3" type="audio/mpeg" length="0"/>
+            <pubDate>Thu, 17 Aug 2017 13:30:00 GMT</pubDate>
+            <category>material conference</category>
+            <category>material</category>
+            <category>2017</category>
+            <category>bbc</category>
+            <category>storytelling</category>
+            <category>material17</category>
+            <itunes:category text="Technology"/>
+
+            <itunes:image href="https://web.material.is/2017/img/podcast17-2000.png" />
+        </item>
+        <item>
             <author>Goddur</author>
             <title>Fine Art Ingredients of the Web - Goddur</title>
             <description>The context of ideas from classical art such as the vanishing point and the perspective of the renaissance to the pixels of Mondrian and Kazimir Malevich. The devices and the tools that the creators of the web have permanently at hand.
@@ -74,6 +96,25 @@ She is excited to bring along her unique perspective on Web development through 
             <pubDate>Thu, 17 Aug 2017 10:30:00 GMT</pubDate>
             <category>Psychology</category>
             <category>web</category>
+            <category>material conference</category>
+            <category>2017</category>
+            <category>material17</category>
+            <itunes:category text="Technology"/>
+            <itunes:image href="https://web.material.is/2017/img/podcast17-2000.png" />
+        </item>
+        <item>
+            <author>OmNom Chocolate</author>
+            <title>OmNon Chocolate - Bean School</title>
+            <description>OmNom Chocolate will be giving us a mini-bean school, taking us through the stages of production through to all the new product development. They have a deep understanding in their material: chocolate.
+
+In this short talk, they'll surprise you with what you thought their ingredients were as well as their ingenious use of waste-materials repackages as a new product.</description>
+            <guid>https://archive.org/download/MaterialConference2017/2-OmNom.mp3</guid>
+            <link>https://archive.org/details/MaterialConference2017</link>
+            <enclosure url="https://archive.org/download/MaterialConference2017/2-OmNom.mp3" type="audio/mpeg" length="0"/>
+            <pubDate>Thu, 17 Aug 2017 09:45:00 GMT</pubDate>
+            <category>cacao</category>
+            <category>chocolate</category>
+            <category>omnom</category>
             <category>material conference</category>
             <category>2017</category>
             <category>material17</category>
