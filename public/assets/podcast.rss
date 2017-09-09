@@ -17,6 +17,66 @@
         <link>https://web.material.is/2017/</link>
         <atom:link href="https://web.material.is/assets/podcast.rss" rel="self" type="application/rss+xml"/>
         <item>
+            <author>Tommy Stadlen</author>
+            <title>Polaroid's Next Chapter: The Photograph, Reimagined - Tommy Stadlen</title>
+            <description>Tommy Stadlen is the co-creator of Polaroid Swing, a Silicon Valley startup writing the next chapter in Polaroid's iconic history alongside Twitter founder Biz Stone. Swing's vision is to reimagine the photograph.
+
+Tommy is going to enlighten us about some of the challenges that Polaroid and other companies are facing. He's going to look at Polaroid's history and the intersection of art and science, the importance of tangibility and will explore the resurgence of physicality and nostalgia. Why are we all so interested in vinyl records to film photography?
+
+We now have the power to capture and explore how memories move, how does that impact the way we think about or digital lives?</description>
+            <guid>https://archive.org/download/MaterialConference2017/9-Tommy_Stadlen.mp3</guid>
+            <link>https://archive.org/details/MaterialConference2017</link>
+            <enclosure url="https://archive.org/download/MaterialConference2017/9-Tommy_Stadlen.mp3" type="audio/mpeg" length="0"/>
+            <pubDate>Thu, 17 Aug 2017 13:30:00 GMT</pubDate>
+            <category>material conference</category>
+            <category>material</category>
+            <category>2017</category>
+            <category>bbc</category>
+            <category>storytelling</category>
+            <category>material17</category>
+            <itunes:category text="Technology"/>
+
+            <itunes:image href="https://web.material.is/2017/img/podcast17-2000.png" />
+        </item>
+        <item>
+            <author>Dan Rubin</author>
+            <title>A short little talk - Dan Rubin</title>
+            <description>Dan Rubin takes everything he's learnt and rolls it up into some observations about the physicality of things.</description>
+            <guid>https://archive.org/download/MaterialConference2017/8-Dan_Rubin.mp3</guid>
+            <link>https://archive.org/details/MaterialConference2017</link>
+            <enclosure url="https://archive.org/download/MaterialConference2017/8-Dan_Rubin.mp3" type="audio/mpeg" length="0"/>
+            <pubDate>Thu, 17 Aug 2017 15:15:00 GMT</pubDate>
+            <category>material conference</category>
+            <category>material</category>
+            <category>2017</category>
+            <category>Dan Rubin</category>
+            <category>photography</category>
+            <category>material17</category>
+            <itunes:category text="Technology"/>
+
+            <itunes:image href="https://web.material.is/2017/img/podcast17-2000.png" />
+        </item>
+        <item>
+            <author>Tristan Gribbin</author>
+            <title>Flow Meditation - Tristan Gribbin</title>
+            <description>Tristan Gribbin is the creator and CEO of FLOW and is passionate about helping bring meditation to the world. She has been practicing meditation with serious dedication since the year 2000 and is a recognised meditation teacher in Iceland.
+
+Flow has a VR meditation app which has won the opportunity to pitch in the US at TechCrunch Disrupt this September. Tristan will walk us through meditation, Virtual Reality and how this new material impacts our senses and where the Web might be headed.</description>
+            <guid>https://archive.org/download/MaterialConference2017/7-Tristan_Gribbin.mp3</guid>
+            <link>https://archive.org/details/MaterialConference2017</link>
+            <enclosure url="https://archive.org/download/MaterialConference2017/7-Tristan_Gribbin.mp3" type="audio/mpeg" length="0"/>
+            <pubDate>Thu, 17 Aug 2017 14:30:00 GMT</pubDate>
+            <category>material conference</category>
+            <category>material</category>
+            <category>2017</category>
+            <category>flowvr</category>
+            <category>meditation</category>
+            <category>material17</category>
+            <itunes:category text="Technology"/>
+
+            <itunes:image href="https://web.material.is/2017/img/podcast17-2000.png" />
+        </item>
+        <item>
             <author>Tristan Ferne</author>
             <title>Stories and the Web - BBC R&amp;D - Tristan Ferne</title>
             <description>Stories have form and structure. Beginnings, middles and endings. People, places and things. Setbacks, climaxes and conflict. And the web has form and structure. Sites, pages &amp; links. Interactivity, personalisation and adaptation.
@@ -27,7 +87,7 @@ And he'll explain how the BBC is experimenting with atomising media and deconstr
             <guid>https://archive.org/download/MaterialConference2017/6-Tristan_Ferne.mp3</guid>
             <link>https://archive.org/details/MaterialConference2017</link>
             <enclosure url="https://archive.org/download/MaterialConference2017/6-Tristan_Ferne.mp3" type="audio/mpeg" length="0"/>
-            <pubDate>Thu, 17 Aug 2017 13:30:00 GMT</pubDate>
+            <pubDate>Thu, 17 Aug 2017 13:45:00 GMT</pubDate>
             <category>material conference</category>
             <category>material</category>
             <category>2017</category>
