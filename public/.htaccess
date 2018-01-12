@@ -33,15 +33,13 @@ FileETag MTime Size
 </IfModule>
 
 RewriteEngine On
-RewriteCond %{SERVER_PORT} 80
-RewriteCond %{ENV:APP_ENV} !development
-RewriteRule ^(.*)$ https://web.material.is/$1 [R=301,L]
-
 RewriteCond %{HTTP_HOST} !^web\.material\.is [NC]
 RewriteCond %{ENV:APP_ENV} !development
+RewriteCond %{REQUEST_URI} !^/\.well\-known
 RewriteRule ^(.*)$ https://web.material.is/$1 [R=301,L]
 
 RewriteCond %{REQUEST_URI} !^/2017(/.*)?$
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-l
+RewriteCond %{REQUEST_URI} !^/\.well\-known
 RewriteRule ^(.*) /2017/$1 [R=302,L]
