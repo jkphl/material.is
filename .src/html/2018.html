@@ -31,24 +31,88 @@
         <script src='https://js.tito.io/v1' async></script>
         <link rel="stylesheet" type="text/css" href='https://css.tito.io/v1.1' />
 
+
+        <style>
+        html, body { padding: 0; margin: 0; font-family: "Open Sans", Arial, Helvetica, sans-serif;
+ }
+        #info {
+        	color: #fff;
+        	text-align: center;
+        	padding: 1em;
+
+        	margin: 0 auto;
+        	max-width: 100%;
+
+        	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#bd3bdd+0,7c26c1+100 */
+background: #bd3bdd; /* Old browsers */
+background: -moz-linear-gradient(top, #bd3bdd 0%, #7c26c1 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top, #bd3bdd 0%,#7c26c1 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom, #bd3bdd 0%,#7c26c1 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#bd3bdd', endColorstr='#7c26c1',GradientType=0 ); /* IE6-9 */
+        }
+        .ticket-link { color: #bd3bdd; text-decoration: none; background-color: #fff; padding: 1em 5em; border-radius: 6px; }
+        footer {
+        	background-color: #333;
+        	color: #fff;
+        	padding: 1em 0;
+        	text-align: center;
+        	margin: auto;
+        }
+        section {
+        	margin: 0 auto;
+        	padding: 0 2em;
+        	max-width: 48em;
+        	text-align: left;
+        }
+        footer section a {
+        	color: #fff;
+        }
+        #material2017 {
+        	background-color: rgb(193, 255, 201);
+        	padding: 1em;
+        	text-align: center;
+        	margin: 0 auto;
+        	max-width: 100%;
+        }
+        #material2017 p {
+        	text-align: left;
+        	max-width: 48em;
+        	padding: 1em 2em;
+        	margin: 0 auto;
+        }
+	    </style>
     </head>
     <body class="h-event" itemscope="itemscope" itemtype="http://schema.org/Event">
         <main>
-            <section>
+            <section id="info">
                 <img src="" alt="Material Logo"/>
                 <h1>Material 2018</h1>
                 <h2>A conference exploring the concept of the Web as a material</h2>
                 <p>MMM DDth, 2018 — Reykjavík, Iceland</p>
-                <tito-widget event="material-conference/material-2017"></tito-widget>
+
+                <div style="margin: 2em 0"><a class="ticket-link" href="https://ti.to/material-conference/material-2018">Get A Ticket</a></div>
             </section>
             <section>
                 <h2>Save the date!</h2>
+                <tito-widget event="material-conference/material-2017"></tito-widget>
                 <p>With more than 6 months to go, we're getting organized, but you should too. Start to book your flights, hotel and travel plans now.</p>
             </section>
-            <section>
-                <h2>Learn more</h2>
+            <section id="material2017">
+                <h2>Sessions from Material 2017</h2>
                 <p>This will be a 1-day, 1-track confernce with some full-length and mini-talks throughout the day. If you want to see the types of presentations, you can checkout all the videos from last year.</p>
-                <p>YouTube embed here</p>
+                <div>
+                	<iframe width="200" height="112" src="https://www.youtube.com/embed/ofli-jzAMo8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                	<iframe width="200" height="112" src="https://www.youtube.com/embed/P0QCF4W9uog" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                	<iframe width="200" height="112" src="https://www.youtube.com/embed/5f7ZuMOyJhs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+					<iframe width="200" height="112" src="https://www.youtube.com/embed/H3ZUPv3mER8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+					<iframe width="200" height="112" src="https://www.youtube.com/embed/gUYYsAPXgQ8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+	            </div>
+	            <div>
+	            	<iframe width="200" height="112" src="https://www.youtube.com/embed/bXTTKLY3f3c" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+	            	<iframe width="200" height="112" src="https://www.youtube.com/embed/kJ-H7qKULss" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+	            	<iframe width="200" height="112" src="https://www.youtube.com/embed/Q-XBUnhMXX0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+	            	<iframe width="200" height="112" src="https://www.youtube.com/embed/UW_NHpV71oI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+	            </div>
             </section>
         </main>
         <footer>
