@@ -93,9 +93,9 @@ module.exports = function (grunt) {
         'string-replace': {
             dist: {
                 files: {
-                    'public/2017/index.html': '.src/html/index.html',
-                    'public/2017/code-of-conduct.html': '.src/html/code-of-conduct.html',
-                    'public/2017/slack-invite.php': '.src/html/slack-invite.php',
+                    'public/2018/index.html': '.src/html/2018.html',
+                    'public/2018/code-of-conduct.html': '.src/html/code-of-conduct.html',
+                    'public/2018/slack-invite.php': '.src/html/slack-invite.php',
 
                     'public/archive/index.html': '.src/html/archive.html',
                 },
@@ -135,10 +135,10 @@ module.exports = function (grunt) {
                     collapseWhitespace: true
                 },
                 files: {
-                    'public/2017/index.html': 'public/2017/index.html',
-                    'public/2017/code-of-conduct/index.html': 'public/2017/coc.html',
+                    'public/2018/index.html': 'public/2018/index.html',
+                    'public/2018/code-of-conduct/index.html': 'public/2018/coc.html',
 
-                    'public/archive/index.html': 'public/2017/archive.html',
+                    'public/archive/index.html': 'public/2018/archive.html',
 
                 }
             },
@@ -154,7 +154,7 @@ module.exports = function (grunt) {
                     expand: true,
                     cwd: '.src/img/',
                     src: ['**/*.{png,jpg,gif}'],
-                    dest: 'public/2017/img/'
+                    dest: 'public/2018/img/'
                 }]
             }
         },
