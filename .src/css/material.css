@@ -60,6 +60,12 @@ em {
 aside {
   background-color: #D6FFDB; }
 
+iframe {
+  width: 200px;
+  height: 112px;
+  margin: 0 .5em .5em 0;
+  vertical-align: middle; }
+
 .logo {
   float: right;
   margin: 0 0 1em 1em;
@@ -87,8 +93,8 @@ aside {
 
 main {
   max-width: 48em;
-  margin: 1em auto 3em auto;
-  padding: 0 1em; }
+  margin: 1em auto 0;
+  padding: 0 1em 3em; }
 
 sup {
   font-weight: 300; }
@@ -137,31 +143,54 @@ input[type=submit] {
   border-radius: 5px;
   padding: 1em; }
 
+.ticket-link {
+  color: #bd3bdd;
+  text-decoration: none;
+  background-color: #fff;
+  padding: 1em 5em;
+  border-radius: .5em;
+  font-weight: bold; }
+
 footer, header {
-  padding: 1em 0;
+  padding: 0;
   background-color: #c1ffc8; }
   footer section, header section {
     max-width: 48em;
     margin: 0 auto;
     padding: 0 1em; }
 
-header h2 {
-  margin-top: .5em; }
+header {
+  color: #fff;
+  text-align: center;
+  padding: 2em 1em;
+  /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#bd3bdd+0,7c26c1+100 */
+  background: #bd3bdd;
+  /* Old browsers */
+  /* FF3.6-15 */
+  /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(to bottom, #bd3bdd 0%, #7c26c1 100%);
+  /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#bd3bdd', endColorstr='#7c26c1', GradientType=0);
+  /* IE6-9 */ }
+  header h2 {
+    margin-top: .5em; }
 
-footer section {
-  margin-top: 2em; }
-
-.kickstarter {
-  position: relative;
-  width: 100%;
-  height: 0;
-  padding-bottom: 56.25%; }
-  .kickstarter iframe {
-    position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0; }
+footer {
+  background-color: #333;
+  padding: 0 0 2em; }
+  footer, footer a {
+    color: #fff; }
+  footer #material2017 {
+    background-color: #c1ffc9;
+    padding: 2em 1em; }
+    footer #material2017, footer #material2017 a {
+      color: #121212; }
+    footer #material2017 h2 {
+      margin-top: 0; }
+    footer #material2017 p {
+      margin: 0 0 2em; }
+  footer section:first-child h2 {
+    margin-top: 0; }
 
 .wrap-speaker {
   margin-top: 3em;
@@ -220,8 +249,6 @@ footer section {
       max-width: 100%; } }
 
 @media all and (min-width: 50em) {
-  main {
-    margin: 3em auto; }
   #sponsors section {
     margin: 0 auto; } }
 
@@ -243,36 +270,14 @@ footer section {
   .speaker.right {
     margin-right: -6em; } }
 
-@-webkit-keyframes kickstarter {
-  0% {
-    -webkit-transform: rotate(0deg) scale(1);
-            transform: rotate(0deg) scale(1); }
-  10% {
-    -webkit-transform: rotate(180deg) scale(1);
-            transform: rotate(180deg) scale(1); }
-  12% {
-    -webkit-transform: rotate(180deg) scale(1.1);
-            transform: rotate(180deg) scale(1.1); }
-  15% {
-    -webkit-transform: rotate(180deg) scale(1);
-            transform: rotate(180deg) scale(1); }
-  100% {
-    -webkit-transform: rotate(180deg) scale(1);
-            transform: rotate(180deg) scale(1); } }
-
 @keyframes kickstarter {
   0% {
-    -webkit-transform: rotate(0deg) scale(1);
-            transform: rotate(0deg) scale(1); }
+    transform: rotate(0deg) scale(1); }
   10% {
-    -webkit-transform: rotate(180deg) scale(1);
-            transform: rotate(180deg) scale(1); }
+    transform: rotate(180deg) scale(1); }
   12% {
-    -webkit-transform: rotate(180deg) scale(1.1);
-            transform: rotate(180deg) scale(1.1); }
+    transform: rotate(180deg) scale(1.1); }
   15% {
-    -webkit-transform: rotate(180deg) scale(1);
-            transform: rotate(180deg) scale(1); }
+    transform: rotate(180deg) scale(1); }
   100% {
-    -webkit-transform: rotate(180deg) scale(1);
-            transform: rotate(180deg) scale(1); } }
+    transform: rotate(180deg) scale(1); } }
