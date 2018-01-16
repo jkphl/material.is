@@ -61,8 +61,8 @@ aside {
   background-color: #D6FFDB; }
 
 iframe {
-  width: 200px;
-  height: 112px;
+  width: 175px;
+  height: 99px;
   margin: 0 .5em .5em 0;
   vertical-align: middle; }
 
@@ -177,7 +177,7 @@ header {
 
 footer {
   background-color: #333;
-  padding: 0 0 2em; }
+  padding: 1px 0 2em 0; }
   footer, footer a {
     color: #fff; }
   footer #material2017 {
@@ -189,8 +189,11 @@ footer {
       margin-top: 0; }
     footer #material2017 p {
       margin: 0 0 2em; }
-  footer section:first-child h2 {
-    margin-top: 0; }
+    footer #material2017 section h2 {
+      margin-top: 0; }
+    footer #material2017 div {
+      margin: 0 auto;
+      text-align: center; }
 
 .wrap-speaker {
   margin-top: 3em;
@@ -270,14 +273,36 @@ footer {
   .speaker.right {
     margin-right: -6em; } }
 
+@-webkit-keyframes kickstarter {
+  0% {
+    -webkit-transform: rotate(0deg) scale(1);
+            transform: rotate(0deg) scale(1); }
+  10% {
+    -webkit-transform: rotate(180deg) scale(1);
+            transform: rotate(180deg) scale(1); }
+  12% {
+    -webkit-transform: rotate(180deg) scale(1.1);
+            transform: rotate(180deg) scale(1.1); }
+  15% {
+    -webkit-transform: rotate(180deg) scale(1);
+            transform: rotate(180deg) scale(1); }
+  100% {
+    -webkit-transform: rotate(180deg) scale(1);
+            transform: rotate(180deg) scale(1); } }
+
 @keyframes kickstarter {
   0% {
-    transform: rotate(0deg) scale(1); }
+    -webkit-transform: rotate(0deg) scale(1);
+            transform: rotate(0deg) scale(1); }
   10% {
-    transform: rotate(180deg) scale(1); }
+    -webkit-transform: rotate(180deg) scale(1);
+            transform: rotate(180deg) scale(1); }
   12% {
-    transform: rotate(180deg) scale(1.1); }
+    -webkit-transform: rotate(180deg) scale(1.1);
+            transform: rotate(180deg) scale(1.1); }
   15% {
-    transform: rotate(180deg) scale(1); }
+    -webkit-transform: rotate(180deg) scale(1);
+            transform: rotate(180deg) scale(1); }
   100% {
-    transform: rotate(180deg) scale(1); } }
+    -webkit-transform: rotate(180deg) scale(1);
+            transform: rotate(180deg) scale(1); } }

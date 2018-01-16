@@ -84,8 +84,8 @@ aside {
 }
 
 iframe {
-  width: 200px;
-  height: 112px;
+  width: 175px;
+  height: 99px;
   margin: 0 .5em .5em 0;
   vertical-align: middle;
 }
@@ -225,7 +225,7 @@ header {
 
 footer {
   background-color: #333;
-  padding: 0 0 2em;
+  padding: 1px 0 2em 0;
 
   &, & a {
     color: #fff;
@@ -246,11 +246,18 @@ footer {
     p {
       margin: 0 0 2em;
     }
+    
+    section h2 {
+     margin-top: 0;
+    }
+
+    div {
+      margin: 0 auto;
+      text-align: center;
+    }
+
   }
 
-  section:first-child h2 {
-    margin-top: 0;
-  }
 }
 
 .wrap-speaker {
