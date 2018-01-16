@@ -32,7 +32,7 @@ FileETag MTime Size
     FileETag none
 </IfModule>
 
-RewriteEngine On
+#RewriteEngine On
 #RewriteRule .* https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
 #RewriteCond %{HTTP_HOST} !^web\. [NC]
 #RewriteRule .* https://web.%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
