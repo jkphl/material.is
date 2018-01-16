@@ -34,7 +34,7 @@ FileETag MTime Size
 
 RewriteEngine On
 
-RewriteCond %{HTTP_HOST} !^web\.material\.is [NC]
+RewriteCond %{HTTP_HOST} !^material\.is [NC]
 RewriteCond %{ENV:APP_ENV} !development
 RewriteCond %{REQUEST_URI} !^/\.well\-known
 RewriteRule ^(.*)$ https://material.is/$1 [R=301,L]
