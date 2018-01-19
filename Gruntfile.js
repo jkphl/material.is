@@ -96,8 +96,6 @@ module.exports = function (grunt) {
                     'public/2018/index.html': '.src/html/2018.html',
                     'public/2018/code-of-conduct.html': '.src/html/code-of-conduct.html',
                     'public/2018/slack-invite.php': '.src/html/slack-invite.php',
-
-                    'public/archive/index.html': '.src/html/archive.html',
                 },
                 options: {
                     replacements: [
