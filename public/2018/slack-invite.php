@@ -26,7 +26,7 @@
 	<meta name="msapplication-square150x150logo" content="/icns/windows-tile-150x150.png">
 	<meta name="msapplication-square310x310logo" content="/icns/windows-tile-310x310.png">
 	<meta name="msapplication-TileImage" content="/icns/windows-tile-144x144.png">
-	<meta name="msapplication-TileColor" content="#A89E3E">
+	<meta name="msapplication-TileColor" content="#C85CE3">
 	<link rel="apple-touch-icon-precomposed" sizes="152x152" href="/icns/apple-touch-icon-152x152-precomposed.png">
 	<link rel="apple-touch-icon-precomposed" sizes="120x120" href="/icns/apple-touch-icon-120x120-precomposed.png">
 	<link rel="apple-touch-icon-precomposed" sizes="76x76" href="/icns/apple-touch-icon-76x76-precomposed.png">
