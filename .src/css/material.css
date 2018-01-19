@@ -208,6 +208,18 @@ footer {
   .speaker img {
     border-radius: 50%; }
 
+.colloq {
+  margin-top: 1em;
+  display: table; }
+  .colloq > * {
+    display: table-cell;
+    vertical-align: middle; }
+  .colloq > a:first-child {
+    width: 4em;
+    padding-right: 1em; }
+    .colloq > a:first-child img {
+      vertical-align: middle; }
+
 @media all and (min-width: 30em) {
   .logo {
     max-width: 8em; }
