@@ -2,35 +2,35 @@
 <html lang="en" xmlns="http://www.w3.org/1999/html">
 	<head>
 		<meta charset="utf-8">
-		<title>Material 2017 — The Web as a material — Thursday, August 17th, Reykjavík</title>
+		<title>Material 2018 — The Web as a material — Friday, November 16th, Reykjavík</title>
 		<link href='https://www.google.com/fonts#UsePlace:use/Collection:Open+Sans:300,600,600italic,400italic' rel='stylesheet' type='text/css'>
 		<link href=".src/sass/material.min.css" rel="stylesheet"/>
-		<link rel="canonical" href="https://web.material.is/2017/">
+		<link rel="canonical" href="https://material.is/2018/">
 		<meta name="description" content="A friendly 1-day, 1-track conference exploring the concept of the Web as a material — Reykjavík, Iceland — by Joschi Kuphal &amp; Brian Suda">
 		<meta name="author" content="Joschi Kuphal (@jkphl) &amp; Brian Suda (@briansuda)">
 		<meta name="robots" content="index,follow">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
-		<meta property="og:site_name" content="Material 2017">
+		<meta property="og:site_name" content="Material 2018">
 		<meta property="og:type" content="website">
 		<meta property="og:locale" content="en_US">
 		<meta name="twitter:card" content="summary">
 		<meta name="twitter:site" content="@jkphl">
 		<meta name="twitter:creator" content="@jkphl">
-		<meta property="og:url" content="https://web.material.is/2017/">
-		<meta property="og:title" name="twitter:title" content="Material 2017 — The Web as a material — Reykjavík">
-		<meta property="og:description" name="twitter:description" content="A friendly 1-day, 1-track conference exploring the concept of the Web as a material — August 17th, 2017, Reykjavík, Iceland — by Joschi Kuphal &amp; Brian Suda">
-		<meta property="og:image" content="https://web.material.is/2017/img/m17-poster.jpg">
-		<meta name="twitter:image" content="https://web.material.is/2017/img/m17-poster.jpg">
+		<meta property="og:url" content="https://material.is/2018/">
+		<meta property="og:title" name="twitter:title" content="Material 2018 — Friday, November 16th — Reykjavík, Iceland">
+		<meta property="og:description" name="twitter:description" content="A friendly 1-day, 1-track conference exploring the concept of the Web as a material — Reykjavík, Iceland — by Joschi Kuphal &amp; Brian Suda">
+		<meta property="og:image" content="https://material.is/2018/img/m18-poster.jpg">
+		<meta name="twitter:image" content="https://material.is/2018/img/m18-poster.jpg">
 		<meta name="google-site-verification" content="pnkWehmDSC4i8Uq9n-0X3wKUqTuMPIybn4vbScdeUNQ" />
 		<!-- favicon -->
 	</head>
 	<body class="h-event" itemscope="itemscope" itemtype="http://schema.org/Event">
 		<main>
 			<section>
-				<h1><a href="https://web.material.is/2017/" class="u-url" itemprop="url"><span class="p-name" itemprop="name">Material 2017</span></a></h1>
+				<h1><a href="https://material.is/2018/" class="u-url" itemprop="url"><span class="p-name" itemprop="name">Material 2018</span></a></h1>
 				<h2 class="p-summary" itemprop="summary">A conference exploring the concept of the Web as a material</h2>
 				<p class="schedule-location">
-					<time class="dt-start" itemprop="startDate" datetime="2017-08-17">August 17th, 2017</time> — <span class="p-location h-adr" itemprop="location" itemscope="itemscope" itemtype="http://schema.org/Address"><span class="p-locality" itemprop="locality">Reykjavík</span>, <span class="p-country-name" itemprop="country-name">Iceland</span></span>
+					<time class="dt-start" itemprop="startDate" datetime="2018-11-18">November 16th, 2018</time> — <span class="p-location h-adr" itemprop="location" itemscope="itemscope" itemtype="http://schema.org/Address"><span class="p-locality" itemprop="locality">Reykjavík</span>, <span class="p-country-name" itemprop="country-name">Iceland</span></span>
 				</p>
 			</section><?php
 
