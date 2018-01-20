@@ -100,9 +100,9 @@
 		</main>
 		<footer>
 			<section>
-				<h2>#Material17</h2>
-				<p>This conference is about understanding materials. The 17th material in the periodic table is Chlorine. If you visit any of Iceland's swimming pools, you'll understand why that's interesting.</p>
-				<p><a href="/assets/material17.ics">Add Material Conference to your calendar</a></p>
+				<h2>#Material18</h2>
+				<p>This conference is about understanding materials. The 18th material in the periodic table is Argon. If you visit any of Iceland in the dark and see some purple northen lights, you'll understand why that's interesting.</p>
+				<p><a href="https://ti.to/material-conference/material-2018.ics">Add Material Conference to your calendar</a></p>
 			</section>
 			<section>
 				<h2>Who's behind this?</h2>
