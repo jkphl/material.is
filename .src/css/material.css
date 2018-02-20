@@ -66,6 +66,9 @@ iframe {
   margin: 0 .5em .5em 0;
   vertical-align: middle; }
 
+.mlogo {
+  max-width: 8em; }
+
 .logo {
   float: right;
   margin: 0 0 1em 1em;
