@@ -81,7 +81,8 @@ iframe {
 .tagline {
   font-weight: 600;
   font-style: italic;
-  font-size: x-large; }
+  font-size: x-large;
+  color: #7C26C1; }
 
 .clear {
   clear: both; }
@@ -285,14 +286,36 @@ footer {
   .speaker.right {
     margin-right: -6em; } }
 
+@-webkit-keyframes kickstarter {
+  0% {
+    -webkit-transform: rotate(0deg) scale(1);
+            transform: rotate(0deg) scale(1); }
+  10% {
+    -webkit-transform: rotate(180deg) scale(1);
+            transform: rotate(180deg) scale(1); }
+  12% {
+    -webkit-transform: rotate(180deg) scale(1.1);
+            transform: rotate(180deg) scale(1.1); }
+  15% {
+    -webkit-transform: rotate(180deg) scale(1);
+            transform: rotate(180deg) scale(1); }
+  100% {
+    -webkit-transform: rotate(180deg) scale(1);
+            transform: rotate(180deg) scale(1); } }
+
 @keyframes kickstarter {
   0% {
-    transform: rotate(0deg) scale(1); }
+    -webkit-transform: rotate(0deg) scale(1);
+            transform: rotate(0deg) scale(1); }
   10% {
-    transform: rotate(180deg) scale(1); }
+    -webkit-transform: rotate(180deg) scale(1);
+            transform: rotate(180deg) scale(1); }
   12% {
-    transform: rotate(180deg) scale(1.1); }
+    -webkit-transform: rotate(180deg) scale(1.1);
+            transform: rotate(180deg) scale(1.1); }
   15% {
-    transform: rotate(180deg) scale(1); }
+    -webkit-transform: rotate(180deg) scale(1);
+            transform: rotate(180deg) scale(1); }
   100% {
-    transform: rotate(180deg) scale(1); } }
+    -webkit-transform: rotate(180deg) scale(1);
+            transform: rotate(180deg) scale(1); } }
