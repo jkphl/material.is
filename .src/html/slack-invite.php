@@ -5,7 +5,7 @@
 		<title>Material 2018 — The Web as a material — Friday, November 16th, Reykjavík</title>
 		<link href='https://www.google.com/fonts#UsePlace:use/Collection:Open+Sans:300,600,600italic,400italic' rel='stylesheet' type='text/css'>
 		<link href=".src/sass/material.min.css" rel="stylesheet"/>
-		<link rel="canonical" href="https://material.is/2018/">
+        <link rel="canonical" href="https://material.is/slack-invite.php">
 		<meta name="description" content="A friendly 1-day, 1-track conference exploring the concept of the Web as a material — Reykjavík, Iceland — by Joschi Kuphal &amp; Brian Suda">
 		<meta name="author" content="Joschi Kuphal (@jkphl) &amp; Brian Suda (@briansuda)">
 		<meta name="robots" content="index,follow">
@@ -28,7 +28,7 @@
         <header role="banner">
             <section>
                 <img src="img/m-logo-white.svg" class="mlogo" alt="Material Logo"/>
-                <h1><a href="https://web.material.is/2018/" class="u-url" itemprop="url"><span class="p-name"
+                <h1><a href="https://material.is/2018/" class="u-url" itemprop="url"><span class="p-name"
                                                                                                itemprop="name">Material 2018</span></a>
                 </h1>
                 <h2 class="p-summary" itemprop="summary">A conference exploring the concept of the Web as a
