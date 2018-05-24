@@ -4,6 +4,7 @@ $chlorineDark: #00B815;
 $chlorineLight: #D6FFDB;
 $background: #d8ffe0;
 $text: #121212;
+$purple: #7C26C1;
 
 html, body, h1, h2, h3, p, div, form {
 	padding: 0;
@@ -118,7 +119,7 @@ iframe {
 	font-weight: 600;
 	font-style: italic;
 	font-size: x-large;
-	color: #7C26C1;
+	color: $purple;
 }
 
 .clear {
@@ -223,10 +224,10 @@ header {
 
 	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#bd3bdd+0,7c26c1+100 */
 	background: #bd3bdd; /* Old browsers */
-	background: -moz-linear-gradient(top, #bd3bdd 0%, #7c26c1 100%); /* FF3.6-15 */
-	background: -webkit-linear-gradient(top, #bd3bdd 0%, #7c26c1 100%); /* Chrome10-25,Safari5.1-6 */
-	background: linear-gradient(to bottom, #bd3bdd 0%, #7c26c1 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#bd3bdd', endColorstr='#7c26c1', GradientType=0); /* IE6-9 */
+	background: -moz-linear-gradient(top, #bd3bdd 0%, $purple 100%); /* FF3.6-15 */
+	background: -webkit-linear-gradient(top, #bd3bdd 0%, $purple 100%); /* Chrome10-25,Safari5.1-6 */
+	background: linear-gradient(to bottom, #bd3bdd 0%, $purple 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#bd3bdd', endColorstr='$purple', GradientType=0); /* IE6-9 */
 
 	a {
 		color: #fff;
