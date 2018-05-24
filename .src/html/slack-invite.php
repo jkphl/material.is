@@ -25,14 +25,28 @@
 		<!-- favicon -->
 	</head>
 	<body class="h-event" itemscope="itemscope" itemtype="http://schema.org/Event">
+        <header role="banner">
+            <section>
+                <img src="img/m-logo-white.svg" class="mlogo" alt="Material Logo"/>
+                <h1><a href="https://web.material.is/2018/" class="u-url" itemprop="url"><span class="p-name"
+                                                                                               itemprop="name">Material 2018</span></a>
+                </h1>
+                <h2 class="p-summary" itemprop="summary">A conference exploring the concept of the Web as a
+                    material</h2>
+                <p class="schedule-location">
+                    <time class="dt-start" itemprop="startDate" datetime="2018-11-16">November 16th, 2017</time>
+                    — <span class="p-location h-adr" itemprop="location" itemscope="itemscope"
+                            itemtype="http://schema.org/Address"><span class="p-locality"
+                                                                       itemprop="locality">Reykjavík</span>, <span
+                                class="p-country-name" itemprop="country-name">Iceland</span></span>
+                </p>
+                <div style="margin: 2em 0"><a class="ticket-link"
+                                              href="https://ti.to/material-conference/material-2018">Get your Early Bird
+                        Ticket</a></div>
+            </section>
+        </header>
 		<main>
-			<section>
-				<h1><a href="https://material.is/2018/" class="u-url" itemprop="url"><span class="p-name" itemprop="name">Material 2018</span></a></h1>
-				<h2 class="p-summary" itemprop="summary">A conference exploring the concept of the Web as a material</h2>
-				<p class="schedule-location">
-					<time class="dt-start" itemprop="startDate" datetime="2018-11-18">November 16th, 2018</time> — <span class="p-location h-adr" itemprop="location" itemscope="itemscope" itemtype="http://schema.org/Address"><span class="p-locality" itemprop="locality">Reykjavík</span>, <span class="p-country-name" itemprop="country-name">Iceland</span></span>
-				</p>
-			</section><?php
+			<?php
 
 			$token = empty($_SERVER['SLACK_TOKEN']) ? false : $_SERVER['SLACK_TOKEN']; // admin token generated at https://api.slack.com/docs/oauth-test-tokens
 			$email = (empty($_POST['email']) || !filter_var(trim($_POST['email']), FILTER_VALIDATE_EMAIL)) ? false : trim($_POST['email']);
@@ -93,9 +107,13 @@
 				<h2>Who's behind this?</h2>
 				<p>The two organizers are <a href="https://jkphl.is">Joschi Kuphal</a> and <a href="http://suda.co.uk/">Brian Suda</a>. You may <a href="mailto:info@material.is">contact us via email</a>.
 			</section>
-			<section>
-				<p><a href="code-of-conduct.html">Code of Conduct</a></p>
-			</section>
+            <section>
+                <p>
+                    <a href="site-notice.html">Site Notice</a> |
+                    <a href="data-protection.html">Data Protection</a> |
+                    <a href="code-of-conduct.html">Code of Conduct</a>
+                </p>
+            </section>
 		</footer>
 	</body>
 </html>

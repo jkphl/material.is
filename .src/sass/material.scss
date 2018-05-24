@@ -68,6 +68,11 @@ h1 + h2 {
 	margin-top: .5em;
 }
 
+h5 {
+	font-size: medium;
+	font-style: italic;
+}
+
 p {
 	margin: 1em 0;
 	line-height: 1.5;
@@ -222,6 +227,11 @@ header {
 	background: -webkit-linear-gradient(top, #bd3bdd 0%, #7c26c1 100%); /* Chrome10-25,Safari5.1-6 */
 	background: linear-gradient(to bottom, #bd3bdd 0%, #7c26c1 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
 	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#bd3bdd', endColorstr='#7c26c1', GradientType=0); /* IE6-9 */
+
+	a {
+		color: #fff;
+		text-decoration: none;
+	}
 
 	h2 {
 		margin-top: .5em;

@@ -48,6 +48,10 @@ h3 {
 h1 + h2 {
   margin-top: .5em; }
 
+h5 {
+  font-size: medium;
+  font-style: italic; }
+
 p {
   margin: 1em 0;
   line-height: 1.5;
@@ -176,6 +180,9 @@ header {
   /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#bd3bdd', endColorstr='#7c26c1', GradientType=0);
   /* IE6-9 */ }
+  header a {
+    color: #fff;
+    text-decoration: none; }
   header h2 {
     margin-top: .5em; }
 
@@ -289,36 +296,14 @@ footer {
   .speaker.right {
     margin-right: -6em; } }
 
-@-webkit-keyframes kickstarter {
-  0% {
-    -webkit-transform: rotate(0deg) scale(1);
-            transform: rotate(0deg) scale(1); }
-  10% {
-    -webkit-transform: rotate(180deg) scale(1);
-            transform: rotate(180deg) scale(1); }
-  12% {
-    -webkit-transform: rotate(180deg) scale(1.1);
-            transform: rotate(180deg) scale(1.1); }
-  15% {
-    -webkit-transform: rotate(180deg) scale(1);
-            transform: rotate(180deg) scale(1); }
-  100% {
-    -webkit-transform: rotate(180deg) scale(1);
-            transform: rotate(180deg) scale(1); } }
-
 @keyframes kickstarter {
   0% {
-    -webkit-transform: rotate(0deg) scale(1);
-            transform: rotate(0deg) scale(1); }
+    transform: rotate(0deg) scale(1); }
   10% {
-    -webkit-transform: rotate(180deg) scale(1);
-            transform: rotate(180deg) scale(1); }
+    transform: rotate(180deg) scale(1); }
   12% {
-    -webkit-transform: rotate(180deg) scale(1.1);
-            transform: rotate(180deg) scale(1.1); }
+    transform: rotate(180deg) scale(1.1); }
   15% {
-    -webkit-transform: rotate(180deg) scale(1);
-            transform: rotate(180deg) scale(1); }
+    transform: rotate(180deg) scale(1); }
   100% {
-    -webkit-transform: rotate(180deg) scale(1);
-            transform: rotate(180deg) scale(1); } }
+    transform: rotate(180deg) scale(1); } }
