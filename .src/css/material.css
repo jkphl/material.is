@@ -65,8 +65,8 @@ aside {
   background-color: #D6FFDB; }
 
 iframe {
-  width: 175px;
-  height: 99px;
+  width: 236px;
+  height: 132px;
   margin: 0 .5em .5em 0;
   vertical-align: middle; }
 
@@ -167,7 +167,26 @@ footer, header {
     margin: 0 auto;
     padding: 0 1em; }
 
-header {
+#archive header {
+  color: #fff;
+  text-align: center;
+  padding: 2em 1em;
+  /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#bd3bdd+0,7c26c1+100 */
+  background: #333;
+  /* Old browsers */
+  /* FF3.6-15 */
+  /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(to bottom, #666 0%, #333 100%);
+  /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#666', endColorstr='#333', GradientType=0);
+  /* IE6-9 */ }
+  #archive header a {
+    color: #fff;
+    text-decoration: none; }
+  #archive header h2 {
+    margin-top: .5em; }
+
+#m2018 header {
   color: #fff;
   text-align: center;
   padding: 2em 1em;
@@ -180,15 +199,15 @@ header {
   /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#bd3bdd', endColorstr='$purple', GradientType=0);
   /* IE6-9 */ }
-  header a {
+  #m2018 header a {
     color: #fff;
     text-decoration: none; }
-  header h2 {
+  #m2018 header h2 {
     margin-top: .5em; }
 
 footer {
   background-color: #333;
-  padding: 0 0 2em 0; }
+  padding: 1px 0 2em 0; }
   footer, footer a {
     color: #fff; }
   footer #material2017 {
@@ -296,14 +315,36 @@ footer {
   .speaker.right {
     margin-right: -6em; } }
 
+@-webkit-keyframes kickstarter {
+  0% {
+    -webkit-transform: rotate(0deg) scale(1);
+            transform: rotate(0deg) scale(1); }
+  10% {
+    -webkit-transform: rotate(180deg) scale(1);
+            transform: rotate(180deg) scale(1); }
+  12% {
+    -webkit-transform: rotate(180deg) scale(1.1);
+            transform: rotate(180deg) scale(1.1); }
+  15% {
+    -webkit-transform: rotate(180deg) scale(1);
+            transform: rotate(180deg) scale(1); }
+  100% {
+    -webkit-transform: rotate(180deg) scale(1);
+            transform: rotate(180deg) scale(1); } }
+
 @keyframes kickstarter {
   0% {
-    transform: rotate(0deg) scale(1); }
+    -webkit-transform: rotate(0deg) scale(1);
+            transform: rotate(0deg) scale(1); }
   10% {
-    transform: rotate(180deg) scale(1); }
+    -webkit-transform: rotate(180deg) scale(1);
+            transform: rotate(180deg) scale(1); }
   12% {
-    transform: rotate(180deg) scale(1.1); }
+    -webkit-transform: rotate(180deg) scale(1.1);
+            transform: rotate(180deg) scale(1.1); }
   15% {
-    transform: rotate(180deg) scale(1); }
+    -webkit-transform: rotate(180deg) scale(1);
+            transform: rotate(180deg) scale(1); }
   100% {
-    transform: rotate(180deg) scale(1); } }
+    -webkit-transform: rotate(180deg) scale(1);
+            transform: rotate(180deg) scale(1); } }
