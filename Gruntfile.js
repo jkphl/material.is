@@ -154,7 +154,7 @@ module.exports = function (grunt) {
                 files: [{
                     expand: true,
                     cwd: '.src/img/',
-                    src: ['**/*.{png,jpg,gif}'],
+                    src: ['**/*.{png,jpg,gif,svg}'],
                     dest: 'public/2018/img/'
                 }]
             }
@@ -170,7 +170,7 @@ module.exports = function (grunt) {
                 tasks: ['html']
             },
             images: {
-                files: '.src/img/**/*.{png,jpg,gif}',
+                files: '.src/img/**/*.{png,jpg,gif,svg}',
                 tasks: ['images']
             },
             grunt: {
