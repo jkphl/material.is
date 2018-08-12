@@ -151,7 +151,7 @@ input[type=submit] {
   border-radius: 5px;
   padding: 1em; }
 
-.ticket-link {
+#m2018 header a.ticket-link {
   color: #bd3bdd;
   text-decoration: none;
   background-color: #fff;
