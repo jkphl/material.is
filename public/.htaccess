@@ -43,4 +43,5 @@ RewriteCond %{REQUEST_URI} !^/201\d(/.*)?$
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-l
 RewriteCond %{REQUEST_URI} !^/\.well\-known
+RewriteCond %{REQUEST_URI} !^/archive
 RewriteRule ^(.*) /2018/$1 [R=302,L]
