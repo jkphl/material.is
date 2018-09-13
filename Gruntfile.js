@@ -89,10 +89,11 @@ module.exports = function (grunt) {
             dist: ['.src/css/material.css', '.src/css/material.min.css'],
             favicon: ['public/favicon.ico'],
         },
-
+        
         'string-replace': {
             dist: {
                 files: {
+                    'public/2018/sky.html': '.src/html/sky.html',
                     'public/2018/index.html': '.src/html/2018.html',
                     'public/2018/code-of-conduct.html': '.src/html/code-of-conduct.html',
                     'public/2018/site-notice.html': '.src/html/site-notice.html',
@@ -136,6 +137,7 @@ module.exports = function (grunt) {
                     collapseWhitespace: true
                 },
                 files: {
+                    'public/2018/sky.html': 'public/2018/sky.html',
                     'public/2018/index.html': 'public/2018/index.html',
                     'public/2018/code-of-conduct.html': 'public/2018/code-of-conduct.html',
                     'public/2018/site-notice.html': 'public/2018/site-notice.html',
