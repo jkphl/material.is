@@ -198,12 +198,30 @@ input[type=submit] {
 }
 
 #m2018 header a.ticket-link {
-	color: #bd3bdd;
+	color: $purple;
 	text-decoration: none;
 	background-color: #fff;
 	padding: 1em 2em;
 	border-radius: .5em;
 	font-weight: bold;
+}
+
+.ticket-link-sky {
+	color: #fff;
+	text-decoration: none;
+	background-color: $purple;
+	padding: .8em 0;
+	border-radius: .5em;
+	font-weight: bold;
+	margin: 2em 0;
+	display: block;
+	text-align: center;
+	border: 2px solid $purple;
+
+	&:hover {
+		background-color: #fff;
+		color: $purple;
+	}
 }
 
 footer, header {

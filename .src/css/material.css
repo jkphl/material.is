@@ -152,12 +152,27 @@ input[type=submit] {
   padding: 1em; }
 
 #m2018 header a.ticket-link {
-  color: #bd3bdd;
+  color: #7C26C1;
   text-decoration: none;
   background-color: #fff;
   padding: 1em 2em;
   border-radius: .5em;
   font-weight: bold; }
+
+.ticket-link-sky {
+  color: #fff;
+  text-decoration: none;
+  background-color: #7C26C1;
+  padding: .8em 0;
+  border-radius: .5em;
+  font-weight: bold;
+  margin: 2em 0;
+  display: block;
+  text-align: center;
+  border: 2px solid #7C26C1; }
+  .ticket-link-sky:hover {
+    background-color: #fff;
+    color: #7C26C1; }
 
 footer, header {
   padding: 0;
