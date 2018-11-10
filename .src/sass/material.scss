@@ -175,6 +175,14 @@ input[type=submit] {
 	font-weight: 600;
 }
 
+.visually-hidden {
+	position: absolute !important;
+	height: 1px; width: 1px;
+	overflow: hidden;
+	clip: rect(1px 1px 1px 1px); /* IE6, IE7 */
+	clip: rect(1px, 1px, 1px, 1px);
+}
+
 #mce-success-response {
 	color: #2ca02c;
 }
@@ -183,8 +191,9 @@ input[type=submit] {
 	color: #6B0505;
 }
 
-#schedule {
-	background-color: #efefef;
+.schedule-times {
+	border: 1px solid #ccc;
+	background-color: rgba(0,0,0,0.02);
 	padding: 0.25em 1em 1em 1em;
 }
 

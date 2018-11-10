@@ -134,14 +134,24 @@ input[type=submit] {
   margin: .5em 0;
   font-weight: 600; }
 
+.visually-hidden {
+  position: absolute !important;
+  height: 1px;
+  width: 1px;
+  overflow: hidden;
+  clip: rect(1px 1px 1px 1px);
+  /* IE6, IE7 */
+  clip: rect(1px, 1px, 1px, 1px); }
+
 #mce-success-response {
   color: #2ca02c; }
 
 #mce-error-response {
   color: #6B0505; }
 
-#schedule {
-  background-color: #efefef;
+.schedule-times {
+  border: 1px solid #ccc;
+  background-color: rgba(0, 0, 0, 0.02);
   padding: 0.25em 1em 1em 1em; }
 
 #tickets-bg, #tickets-stream, #youtube-callout {
@@ -332,36 +342,14 @@ footer {
   .speaker.right {
     margin-right: -6em; } }
 
-@-webkit-keyframes kickstarter {
-  0% {
-    -webkit-transform: rotate(0deg) scale(1);
-            transform: rotate(0deg) scale(1); }
-  10% {
-    -webkit-transform: rotate(180deg) scale(1);
-            transform: rotate(180deg) scale(1); }
-  12% {
-    -webkit-transform: rotate(180deg) scale(1.1);
-            transform: rotate(180deg) scale(1.1); }
-  15% {
-    -webkit-transform: rotate(180deg) scale(1);
-            transform: rotate(180deg) scale(1); }
-  100% {
-    -webkit-transform: rotate(180deg) scale(1);
-            transform: rotate(180deg) scale(1); } }
-
 @keyframes kickstarter {
   0% {
-    -webkit-transform: rotate(0deg) scale(1);
-            transform: rotate(0deg) scale(1); }
+    transform: rotate(0deg) scale(1); }
   10% {
-    -webkit-transform: rotate(180deg) scale(1);
-            transform: rotate(180deg) scale(1); }
+    transform: rotate(180deg) scale(1); }
   12% {
-    -webkit-transform: rotate(180deg) scale(1.1);
-            transform: rotate(180deg) scale(1.1); }
+    transform: rotate(180deg) scale(1.1); }
   15% {
-    -webkit-transform: rotate(180deg) scale(1);
-            transform: rotate(180deg) scale(1); }
+    transform: rotate(180deg) scale(1); }
   100% {
-    -webkit-transform: rotate(180deg) scale(1);
-            transform: rotate(180deg) scale(1); } }
+    transform: rotate(180deg) scale(1); } }
