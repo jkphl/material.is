@@ -93,12 +93,12 @@ module.exports = function (grunt) {
         'string-replace': {
             dist: {
                 files: {
-                    'public/2018/sky.html': '.src/html/sky.html',
                     'public/2018/index.html': '.src/html/2018.html',
-                    'public/2018/code-of-conduct.html': '.src/html/code-of-conduct.html',
-                    'public/2018/site-notice.html': '.src/html/site-notice.html',
-                    'public/2018/data-protection.html': '.src/html/data-protection.html',
-                    'public/2018/slack-invite.php': '.src/html/slack-invite.php',
+                    'public/2019/index.html': '.src/html/2019.html',
+                    'public/2019/code-of-conduct.html': '.src/html/code-of-conduct.html',
+                    'public/2019/site-notice.html': '.src/html/site-notice.html',
+                    'public/2019/data-protection.html': '.src/html/data-protection.html',
+                    'public/2019/slack-invite.php': '.src/html/slack-invite.php',
                     'public/archive/index.html': '.src/html/archive.html',
                 },
                 options: {
@@ -137,12 +137,12 @@ module.exports = function (grunt) {
                     collapseWhitespace: true
                 },
                 files: {
-                    'public/2018/sky.html': 'public/2018/sky.html',
                     'public/2018/index.html': 'public/2018/index.html',
-                    'public/2018/code-of-conduct.html': 'public/2018/code-of-conduct.html',
-                    'public/2018/site-notice.html': 'public/2018/site-notice.html',
-                    'public/2018/data-protection.html': 'public/2018/data-protection.html',
-                    'public/archive/index.html': 'public/2018/archive.html',
+                    'public/2019/index.html': 'public/2019/index.html',
+                    'public/2019/code-of-conduct.html': 'public/2019/code-of-conduct.html',
+                    'public/2019/site-notice.html': 'public/2019/site-notice.html',
+                    'public/2019/data-protection.html': 'public/2019/data-protection.html',
+                    'public/archive/index.html': 'public/2019/archive.html',
                 }
             },
         },
@@ -157,7 +157,7 @@ module.exports = function (grunt) {
                     expand: true,
                     cwd: '.src/img/',
                     src: ['**/*.{png,jpg,gif,svg}'],
-                    dest: 'public/2018/img/'
+                    dest: 'public/2019/img/'
                 }]
             }
         },
