@@ -5,17 +5,46 @@
         <itunes:summary>Material Conference</itunes:summary>
         <description>Material Conference session audio starting with 2017.</description>
         <itunes:author>Brian Suda &amp; Joschi Kuphal</itunes:author>
-        <itunes:image href="https://web.material.is/2017/img/podcast17-2000.png" />
+        <itunes:image href="https://material.is/2017/img/podcast17-2000.png" />
         <itunes:explicit>no</itunes:explicit>
             <itunes:category text="Technology"/>
         <image>
-            <title>Material Conference 2017</title>
+            <title>Material Conference</title>
             <link>https://material.is/</link>
-            <url>https://web.material.is/2017/img/podcast17-2000.png</url>
+            <url>https://material.is/2017/img/podcast17-2000.png</url>
         </image>
         <language>en</language>
-        <link>https://web.material.is/2017/</link>
-        <atom:link href="https://web.material.is/assets/podcast.rss" rel="self" type="application/rss+xml"/>
+        <link>https://material.is/2018/</link>
+        <atom:link href="https://material.is/assets/podcast.rss" rel="self" type="application/rss+xml"/>
+
+        <!-- Material 2018 -->
+        <item>
+            <author>Dewi Gwyn Uridge</author>
+            <title>The Bailer - Dewi Gwyn Uridge</title>
+            <description>Dewi is a designer who recently completed his BA in Design at Goldsmiths University, London. His approach to design is process driven, experimenting with people, location and material. Using his making abilities as a means to collect data, influencing the direction of his thoughts and practice.
+
+His talk will be based on the theme of urban and rural, discussing the similarities, differences, and the ability to bridge both together as one. He will tell the story through objects he has designed, which has lead him to a new destination: living on a farm outside of London, a future farm for creativity.</description>
+            <guid>https://archive.org/download/MaterialConference2018/05-Dewi.mp3</guid>
+            <link>https://archive.org/details/MaterialConference2018</link>
+            <enclosure url="https://archive.org/download/MaterialConference2018/05-Dewi.mp3" type="audio/mpeg" length="0"/>
+            <pubDate>Fri, 16 Nov 2018 11:50:00 GMT</pubDate>
+            <category>material conference</category>
+            <category>material</category>
+            <category>2018</category>
+            <category>rural</category>
+            <category>bailer</category>
+            <category>material18</category>
+            <itunes:category text="Technology"/>
+
+            <itunes:image href="https://material.is/2018/img/podcast18-2000.png" />
+        </item>
+
+
+
+
+
+
+        <!-- Material 2017 -->
         <item>
             <author>Tommy Stadlen</author>
             <title>Polaroid's Next Chapter: The Photograph, Reimagined - Tommy Stadlen</title>
@@ -36,7 +65,7 @@ We now have the power to capture and explore how memories move, how does that im
             <category>material17</category>
             <itunes:category text="Technology"/>
 
-            <itunes:image href="https://web.material.is/2017/img/podcast17-2000.png" />
+            <itunes:image href="https://material.is/2017/img/podcast17-2000.png" />
         </item>
         <item>
             <author>Dan Rubin</author>
@@ -54,7 +83,7 @@ We now have the power to capture and explore how memories move, how does that im
             <category>material17</category>
             <itunes:category text="Technology"/>
 
-            <itunes:image href="https://web.material.is/2017/img/podcast17-2000.png" />
+            <itunes:image href="https://material.is/2017/img/podcast17-2000.png" />
         </item>
         <item>
             <author>Tristan Gribbin</author>
@@ -74,7 +103,7 @@ Flow has a VR meditation app which has won the opportunity to pitch in the US at
             <category>material17</category>
             <itunes:category text="Technology"/>
 
-            <itunes:image href="https://web.material.is/2017/img/podcast17-2000.png" />
+            <itunes:image href="https://material.is/2017/img/podcast17-2000.png" />
         </item>
         <item>
             <author>Tristan Ferne</author>
@@ -96,7 +125,7 @@ And he'll explain how the BBC is experimenting with atomising media and deconstr
             <category>material17</category>
             <itunes:category text="Technology"/>
 
-            <itunes:image href="https://web.material.is/2017/img/podcast17-2000.png" />
+            <itunes:image href="https://material.is/2017/img/podcast17-2000.png" />
         </item>
         <item>
             <author>Goddur</author>
@@ -117,7 +146,7 @@ He teaches mostly theory courses and will be discussing the history of technolog
             <category>material17</category>
             <itunes:category text="Technology"/>
 
-            <itunes:image href="https://web.material.is/2017/img/podcast17-2000.png" />
+            <itunes:image href="https://material.is/2017/img/podcast17-2000.png" />
         </item>
         <item>
             <author>Halldór Eldjárn</author>
@@ -140,7 +169,7 @@ When dealing with the Web, we tend to think solely about the screen and visual e
             <category>material17</category>
             <itunes:category text="Technology"/>
 
-            <itunes:image href="https://web.material.is/2017/img/podcast17-2000.png" />
+            <itunes:image href="https://material.is/2017/img/podcast17-2000.png" />
         </item>
         <item>
             <author>Amber Wilson</author>
@@ -160,7 +189,7 @@ She is excited to bring along her unique perspective on Web development through 
             <category>2017</category>
             <category>material17</category>
             <itunes:category text="Technology"/>
-            <itunes:image href="https://web.material.is/2017/img/podcast17-2000.png" />
+            <itunes:image href="https://material.is/2017/img/podcast17-2000.png" />
         </item>
         <item>
             <author>OmNom Chocolate</author>
@@ -179,7 +208,7 @@ In this short talk, they'll surprise you with what you thought their ingredients
             <category>2017</category>
             <category>material17</category>
             <itunes:category text="Technology"/>
-            <itunes:image href="https://web.material.is/2017/img/podcast17-2000.png" />
+            <itunes:image href="https://material.is/2017/img/podcast17-2000.png" />
         </item>
         <item>
             <author>Solidwool</author>
@@ -199,7 +228,7 @@ They know better than anyone else, literally down to the micron scale about wool
             <category>2017</category>
             <category>material17</category>
             <itunes:category text="Technology"/>
-            <itunes:image href="https://web.material.is/2017/img/podcast17-2000.png" />
+            <itunes:image href="https://material.is/2017/img/podcast17-2000.png" />
         </item>
     </channel>
 </rss>
