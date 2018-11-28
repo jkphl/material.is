@@ -18,42 +18,21 @@
         <atom:link href="https://material.is/assets/podcast.rss" rel="self" type="application/rss+xml"/>
 
         <!-- Material 2018 -->
+        
+
         <item>
-            <author>Charlotte Dann</author>
-            <title>Craft on the Web - Charlotte Dann</title>
-            <description>Charlotte Dann is a designer/developer based in London, working across a wide spectrum of disciplines ranging from electronics to fine glasswork; she has not yet found a craft she does not wish to master.
-
-While undertaking an MA in Computational Arts she created Hexatope, a combination of her two central vocations of jewellery design and web development. Hexatope allows anyone to design their own jewellery by intuitively interacting with a hexagonal grid entirely in the browser. Designs are then produced in precious metal using 3D-printing technology and traditional metalwork.
-
-Charlotte's going to talk about the integration of artistry to the web and how practical design techniques can evolve with computational thinking.</description>
-            <guid>https://archive.org/download/MaterialConference2018/01%20-%20Charlotte.mp3</guid>
+            <author>Dan Rubin</author>
+            <title>Being an inter-multi-disciplinary Creative - Dan Rubin</title>
+            <description></description>
+            <guid>https://archive.org/download/MaterialConference2018/06%20-%20dan.mp3</guid>
             <link>https://archive.org/details/MaterialConference2018</link>
-            <enclosure url="https://archive.org/download/MaterialConference2018/01%20-%20Charlotte.mp3" type="audio/mpeg" length="0"/>
-            <pubDate>Fri, 16 Nov 2018 09:15:00 GMT</pubDate>
+            <enclosure url="https://archive.org/download/MaterialConference2018/06%20-%20dan.mp3" type="audio/mpeg" length="0"/>
+            <pubDate>Fri, 16 Nov 2018 11:50:00 GMT</pubDate>
             <category>material conference</category>
             <category>material</category>
             <category>2018</category>
-            <category>jewlery</category>
-            <category>maker</category>
-            <category>material18</category>
-            <itunes:category text="Technology"/>
-
-            <itunes:image href="https://material.is/2018/img/podcast18-2000.png" />
-        </item>
-
-        <item>
-            <author>Benjamin Hennig</author>
-            <title>Worldmapper - Benjamin Hennig</title>
-            <description>Ben is a geographer who works on spatial data analysis and geovisualisation. His research interests include social and spatial inequalities, humanity's impact on Earth, global sustainability and new concepts for the visualisation of these issues. Ben works at the University of Iceland and is a research associate at the University of Oxford. He is also involved in the Worldmapper project which will be the main focus of his talk. The talk will make us rediscover maps with novel cartographic approaches. Be prepared to see the world as you’ve never seen it before!</description>
-            <guid>https://archive.org/download/MaterialConference2018/02%20-%20Ben.mp3</guid>
-            <link>https://archive.org/details/MaterialConference2018</link>
-            <enclosure url="https://archive.org/download/MaterialConference2018/02%20-%20Ben.mp3" type="audio/mpeg" length="0"/>
-            <pubDate>Fri, 16 Nov 2018 10:00:00 GMT</pubDate>
-            <category>material conference</category>
-            <category>material</category>
-            <category>2018</category>
-            <category>cartogram</category>
-            <category>worldmapper</category>
+            <category>creative</category>
+            <category>hobbies</category>
             <category>material18</category>
             <itunes:category text="Technology"/>
 
@@ -83,26 +62,53 @@ His talk will be based on the theme of urban and rural, discussing the similarit
         </item>
 
 
+
+
+
+
+
+
         <item>
-            <author>Dan Rubin</author>
-            <title>Being an inter-multi-disciplinary Creative - Dan Rubin</title>
-            <description></description>
-            <guid>https://archive.org/download/MaterialConference2018/06%20-%20dan.mp3</guid>
+            <author>Benjamin Hennig</author>
+            <title>Worldmapper - Benjamin Hennig</title>
+            <description>Ben is a geographer who works on spatial data analysis and geovisualisation. His research interests include social and spatial inequalities, humanity's impact on Earth, global sustainability and new concepts for the visualisation of these issues. Ben works at the University of Iceland and is a research associate at the University of Oxford. He is also involved in the Worldmapper project which will be the main focus of his talk. The talk will make us rediscover maps with novel cartographic approaches. Be prepared to see the world as you’ve never seen it before!</description>
+            <guid>https://archive.org/download/MaterialConference2018/02%20-%20Ben.mp3</guid>
             <link>https://archive.org/details/MaterialConference2018</link>
-            <enclosure url="https://archive.org/download/MaterialConference2018/06%20-%20dan.mp3" type="audio/mpeg" length="0"/>
-            <pubDate>Fri, 16 Nov 2018 11:50:00 GMT</pubDate>
+            <enclosure url="https://archive.org/download/MaterialConference2018/02%20-%20Ben.mp3" type="audio/mpeg" length="0"/>
+            <pubDate>Fri, 16 Nov 2018 10:00:00 GMT</pubDate>
             <category>material conference</category>
             <category>material</category>
             <category>2018</category>
-            <category>creative</category>
-            <category>hobbies</category>
+            <category>cartogram</category>
+            <category>worldmapper</category>
             <category>material18</category>
             <itunes:category text="Technology"/>
 
             <itunes:image href="https://material.is/2018/img/podcast18-2000.png" />
         </item>
 
+        <item>
+            <author>Charlotte Dann</author>
+            <title>Craft on the Web - Charlotte Dann</title>
+            <description>Charlotte Dann is a designer/developer based in London, working across a wide spectrum of disciplines ranging from electronics to fine glasswork; she has not yet found a craft she does not wish to master.
 
+While undertaking an MA in Computational Arts she created Hexatope, a combination of her two central vocations of jewellery design and web development. Hexatope allows anyone to design their own jewellery by intuitively interacting with a hexagonal grid entirely in the browser. Designs are then produced in precious metal using 3D-printing technology and traditional metalwork.
+
+Charlotte's going to talk about the integration of artistry to the web and how practical design techniques can evolve with computational thinking.</description>
+            <guid>https://archive.org/download/MaterialConference2018/01%20-%20Charlotte.mp3</guid>
+            <link>https://archive.org/details/MaterialConference2018</link>
+            <enclosure url="https://archive.org/download/MaterialConference2018/01%20-%20Charlotte.mp3" type="audio/mpeg" length="0"/>
+            <pubDate>Fri, 16 Nov 2018 09:15:00 GMT</pubDate>
+            <category>material conference</category>
+            <category>material</category>
+            <category>2018</category>
+            <category>jewlery</category>
+            <category>maker</category>
+            <category>material18</category>
+            <itunes:category text="Technology"/>
+
+            <itunes:image href="https://material.is/2018/img/podcast18-2000.png" />
+        </item>
 
 
 
