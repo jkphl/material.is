@@ -43,7 +43,24 @@ Björn will get us thinking about all the physical waste we are producing as par
             <itunes:image href="https://material.is/2018/img/podcast18-2000.png" />
         </item>
 
+        <item>
+            <author>Matt Jones</author>
+            <title>Misanthropic Principals - Matt Jones</title>
+            <description>Former Principal at BERG, now working at Google in London on various top secret projects as Principal Designer in Google Research &amp; Machine Intelligence. Matt Jones' talk will look at some of the ideas around raw computing. If the Web were a material, he'd brute force his way to the best answer, maybe without even understanding how he got there — and that's OK.</description>
+            <guid>https://archive.org/download/MaterialConference2018/07%20-%20Matt.mp3</guid>
+            <link>https://archive.org/details/MaterialConference2018</link>
+            <enclosure url="https://archive.org/download/MaterialConference2018/07%20-%20Matt.mp3" type="audio/mpeg" length="0"/>
+            <pubDate>Fri, 16 Nov 2018 11:50:00 GMT</pubDate>
+            <category>material conference</category>
+            <category>material</category>
+            <category>2018</category>
+            <category>AI</category>
+            <category>TPU</category>
+            <category>material18</category>
+            <itunes:category text="Technology"/>
 
+            <itunes:image href="https://material.is/2018/img/podcast18-2000.png" />
+        </item>
 
         <item>
             <author>Dan Rubin</author>
