@@ -9,10 +9,10 @@ html, body {
 body, input {
   font-family: "Open Sans", Arial, Helvetica, sans-serif;
   font-size: medium;
-  color: #121212; }
+  color: #475A56; }
 
 a {
-  color: #121212; }
+  color: #475A56; }
 
 main, figure, aside, footer {
   display: block; }
@@ -89,7 +89,7 @@ iframe {
   font-weight: 600;
   font-style: italic;
   font-size: x-large;
-  color: #7C26C1; }
+  color: #96B5AF; }
 
 .clear {
   clear: both; }
@@ -211,6 +211,20 @@ footer, header {
   #archive header h2 {
     margin-top: .5em; }
 
+#m2019 header {
+  color: #96B5AF;
+  text-align: center;
+  padding: 4em 1em;
+  background: linear-gradient(to bottom, #CBDFD6 0%, #F4FDFB 100%); }
+  #m2019 header .mlogo {
+    max-width: 24em; }
+  #m2019 header a {
+    color: #96B5AF;
+    text-decoration: none; }
+  #m2019 header h1, #m2019 header h2 {
+    color: #96B5AF;
+    margin-top: .5em; }
+
 #m2018 header {
   color: #fff;
   text-align: center;
@@ -239,7 +253,7 @@ footer {
     background-color: #c1ffc9;
     padding: 2em 1em; }
     footer #material2017, footer #material2017 a {
-      color: #121212; }
+      color: #475A56; }
     footer #material2017 h2 {
       margin-top: 0; }
     footer #material2017 p {
@@ -342,14 +356,36 @@ footer {
   .speaker.right {
     margin-right: -6em; } }
 
+@-webkit-keyframes kickstarter {
+  0% {
+    -webkit-transform: rotate(0deg) scale(1);
+            transform: rotate(0deg) scale(1); }
+  10% {
+    -webkit-transform: rotate(180deg) scale(1);
+            transform: rotate(180deg) scale(1); }
+  12% {
+    -webkit-transform: rotate(180deg) scale(1.1);
+            transform: rotate(180deg) scale(1.1); }
+  15% {
+    -webkit-transform: rotate(180deg) scale(1);
+            transform: rotate(180deg) scale(1); }
+  100% {
+    -webkit-transform: rotate(180deg) scale(1);
+            transform: rotate(180deg) scale(1); } }
+
 @keyframes kickstarter {
   0% {
-    transform: rotate(0deg) scale(1); }
+    -webkit-transform: rotate(0deg) scale(1);
+            transform: rotate(0deg) scale(1); }
   10% {
-    transform: rotate(180deg) scale(1); }
+    -webkit-transform: rotate(180deg) scale(1);
+            transform: rotate(180deg) scale(1); }
   12% {
-    transform: rotate(180deg) scale(1.1); }
+    -webkit-transform: rotate(180deg) scale(1.1);
+            transform: rotate(180deg) scale(1.1); }
   15% {
-    transform: rotate(180deg) scale(1); }
+    -webkit-transform: rotate(180deg) scale(1);
+            transform: rotate(180deg) scale(1); }
   100% {
-    transform: rotate(180deg) scale(1); } }
+    -webkit-transform: rotate(180deg) scale(1);
+            transform: rotate(180deg) scale(1); } }
