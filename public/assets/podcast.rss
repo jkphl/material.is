@@ -18,7 +18,26 @@
         <atom:link href="https://material.is/assets/podcast.rss" rel="self" type="application/rss+xml"/>
 
         <!-- Material 2018 -->
-        
+        <item>
+            <author>Deb Chachra</author>
+            <title>Hierarchital Systems: Some Futures for Materials - Deb Chachra</title>
+            <description>Deb Chachra is a Professor of Engineering and one of the early faculty at Olin College, which was founded to rethink engineering education at the undergraduate level. She has research and teaching interests in education, design, and infrastructure, with a background in materials science. She received her PhD from the University of Toronto and held a postdoctoral fellowship at MIT, and her research has primarily focused on biological materials, including heart valves, bone, and the fibre-reinforced polyester made by bees. At this conference, her goal is to help participants develop a deeper understanding of some of the central ideas of materials science, including how they manifest in emerging technologies like 3D printing and bionanotechnology.
+
+WIRED magazine described her work as being plugged Oculus-style into her brain while she meditates on science and culture’.</description>
+            <guid>https://archive.org/download/MaterialConference2018/09%20-%20Debbie.mp3</guid>
+            <link>https://archive.org/details/MaterialConference2018</link>
+            <enclosure url="https://archive.org/download/MaterialConference2018/09%20-%20Debbie.mp3" type="audio/mpeg" length="0"/>
+            <pubDate>Fri, 16 Nov 2018 11:50:00 GMT</pubDate>
+            <category>material conference</category>
+            <category>material</category>
+            <category>2018</category>
+            <category>3d printing</category>
+            <category>material science</category>
+            <category>material18</category>
+            <itunes:category text="Technology"/>
+
+            <itunes:image href="https://material.is/2018/img/podcast18-2000.png" />
+        </item>
 
         <item>
             <author>Björn Steinar</author>

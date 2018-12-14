@@ -93,7 +93,6 @@ module.exports = function (grunt) {
         'string-replace': {
             dist: {
                 files: {
-                    'public/2018/index.html': '.src/html/2018.html',
                     'public/2019/index.html': '.src/html/2019.html',
                     'public/2019/code-of-conduct.html': '.src/html/code-of-conduct.html',
                     'public/2019/site-notice.html': '.src/html/site-notice.html',
@@ -137,7 +136,6 @@ module.exports = function (grunt) {
                     collapseWhitespace: true
                 },
                 files: {
-                    'public/2018/index.html': 'public/2018/index.html',
                     'public/2019/index.html': 'public/2019/index.html',
                     'public/2019/code-of-conduct.html': 'public/2019/code-of-conduct.html',
                     'public/2019/site-notice.html': 'public/2019/site-notice.html',
