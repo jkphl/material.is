@@ -119,7 +119,7 @@ iframe {
 	font-weight: 600;
 	font-style: italic;
 	font-size: x-large;
-	color: #96B5AF;
+	color: #97978D;
 }
 
 .clear {
@@ -267,6 +267,28 @@ footer, header {
 		margin-top: .5em;
 	}
 
+}
+
+
+#m2020 header {
+	color: #fff;
+	text-align: center;
+	padding: 4em 1em;
+	background: linear-gradient(to bottom, #97978D 0%, #C1C0A0 100%);
+
+	.mlogo {
+		max-width: 24em;
+	}
+
+	a {
+		color: #fff;
+		text-decoration: none;
+	}
+
+	h1, h2 {
+		color: #fff;
+		margin-top: .5em;
+	}
 }
 
 #m2019 header {

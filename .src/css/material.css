@@ -89,7 +89,7 @@ iframe {
   font-weight: 600;
   font-style: italic;
   font-size: x-large;
-  color: #96B5AF; }
+  color: #97978D; }
 
 .clear {
   clear: both; }
@@ -209,6 +209,20 @@ footer, header {
     color: #fff;
     text-decoration: none; }
   #archive header h2 {
+    margin-top: .5em; }
+
+#m2020 header {
+  color: #fff;
+  text-align: center;
+  padding: 4em 1em;
+  background: linear-gradient(to bottom, #97978D 0%, #C1C0A0 100%); }
+  #m2020 header .mlogo {
+    max-width: 24em; }
+  #m2020 header a {
+    color: #fff;
+    text-decoration: none; }
+  #m2020 header h1, #m2020 header h2 {
+    color: #fff;
     margin-top: .5em; }
 
 #m2019 header {
