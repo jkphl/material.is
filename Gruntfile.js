@@ -93,7 +93,6 @@ module.exports = function (grunt) {
         'string-replace': {
             dist: {
                 files: {
-                    'public/2019/index.html': '.src/html/2019.html',
                     'public/2020/index.html': '.src/html/2020.html',
                     'public/2020/code-of-conduct.html': '.src/html/code-of-conduct.html',
                     'public/2020/site-notice.html': '.src/html/site-notice.html',
