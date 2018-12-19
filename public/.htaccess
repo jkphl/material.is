@@ -39,7 +39,7 @@ RewriteCond %{ENV:APP_ENV} !development
 RewriteCond %{REQUEST_URI} !^/\.well\-known
 RewriteRule ^(.*)$ https://material.is/$1 [R=301,L]
 
-RewriteCond %{REQUEST_URI} !^/20\d(/.*)?$
+RewriteCond %{REQUEST_URI} !^/20\d\d(/.*)?$
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-l
 RewriteCond %{REQUEST_URI} !^/\.well\-known
