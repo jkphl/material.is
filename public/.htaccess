@@ -39,9 +39,9 @@ RewriteCond %{ENV:APP_ENV} !development
 RewriteCond %{REQUEST_URI} !^/\.well\-known
 RewriteRule ^(.*)$ https://material.is/$1 [R=301,L]
 
-RewriteCond %{REQUEST_URI} !^/20\d\d(/.*)?$
+RewriteCond %{REQUEST_URI} !^/20\d{2}(/.*)?$
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-l
 RewriteCond %{REQUEST_URI} !^/\.well\-known
 RewriteCond %{REQUEST_URI} !^/archive(/)?$
-RewriteRule ^(.*) /2018/$1 [R=302,L]
+RewriteRule ^(.*) /2020/$1 [R=302,L]
