@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
     <channel>
-        <title>Material Conference</title>
-        <itunes:summary>Material Conference</itunes:summary>
-        <description>Material Conference session audio starting with 2017.</description>
+        <title>Material</title>
+        <itunes:summary>Material</itunes:summary>
+        <description>Audio sessions from Material, starting with 2017.</description>
         <itunes:author>Brian Suda &amp; Joschi Kuphal</itunes:author>
-        <itunes:image href="https://material.is/2017/img/podcast17-2000.png" />
+        <itunes:image href="https://material.is/assets/material-base-logo-square-2000.png" />
         <itunes:explicit>no</itunes:explicit>
             <itunes:category text="Technology"/>
         <image>
-            <title>Material Conference</title>
+            <title>Material</title>
             <link>https://material.is/</link>
-            <url>https://material.is/2017/img/podcast17-2000.png</url>
+            <url>https://material.is/assets/material-base-logo-square-2000.png</url>
         </image>
         <language>en</language>
-        <link>https://material.is/2018/</link>
+        <link>https://material.is/</link>
         <atom:link href="https://material.is/assets/podcast.rss" rel="self" type="application/rss+xml"/>
 
         <!-- Material 2018 -->
