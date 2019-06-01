@@ -62,7 +62,7 @@ em {
   font-style: normal; }
 
 aside {
-  background-color: #D6FFDB; }
+  background-color: #c1c0a0; }
 
 iframe {
   width: 236px;
@@ -89,7 +89,7 @@ iframe {
   font-weight: 600;
   font-style: italic;
   font-size: x-large;
-  color: #97978D; }
+  color: #97978d; }
 
 .clear {
   clear: both; }
@@ -155,14 +155,14 @@ input[type=submit] {
   padding: 0.25em 1em 1em 1em; }
 
 #tickets-bg, #tickets-stream, #youtube-callout {
-  background-color: #c1ffc8;
+  background-color: #E4E4D6;
   text-align: center;
   font-size: 200%;
   border-radius: 5px;
   padding: 1em; }
 
 #m2018 header a.ticket-link {
-  color: #7C26C1;
+  color: #78774E;
   text-decoration: none;
   background-color: #fff;
   padding: 1em 2em;
@@ -172,21 +172,21 @@ input[type=submit] {
 .ticket-link-sky {
   color: #fff;
   text-decoration: none;
-  background-color: #7C26C1;
+  background-color: #78774E;
   padding: .8em 0;
   border-radius: .5em;
   font-weight: bold;
   margin: 2em 0;
   display: block;
   text-align: center;
-  border: 2px solid #7C26C1; }
+  border: 2px solid #78774E; }
   .ticket-link-sky:hover {
     background-color: #fff;
-    color: #7C26C1; }
+    color: #78774E; }
 
 footer, header {
   padding: 0;
-  background-color: #c1ffc8; }
+  background-color: #E4E4D6; }
   footer section, header section {
     max-width: 48em;
     margin: 0 auto;
@@ -215,7 +215,15 @@ footer, header {
   color: #fff;
   text-align: center;
   padding: 4em 1em;
-  background: linear-gradient(to bottom, #97978D 0%, #C1C0A0 100%); }
+  /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/$mudNeutral+0,c1c0a0+100 */
+  background: #97978d;
+  /* Old browsers */
+  /* FF3.6-15 */
+  /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(to bottom, #97978d 0%, #c1c0a0 100%);
+  /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='$mudNeutral', endColorstr='$mudLight',GradientType=0 );
+  /* IE6-9 */ }
   #m2020 header .mlogo {
     max-width: 24em; }
   #m2020 header a {
@@ -223,39 +231,6 @@ footer, header {
     text-decoration: none; }
   #m2020 header h1, #m2020 header h2 {
     color: #fff;
-    margin-top: .5em; }
-
-#m2019 header {
-  color: #96B5AF;
-  text-align: center;
-  padding: 4em 1em;
-  background: linear-gradient(to bottom, #CBDFD6 0%, #F4FDFB 100%); }
-  #m2019 header .mlogo {
-    max-width: 24em; }
-  #m2019 header a {
-    color: #96B5AF;
-    text-decoration: none; }
-  #m2019 header h1, #m2019 header h2 {
-    color: #96B5AF;
-    margin-top: .5em; }
-
-#m2018 header {
-  color: #fff;
-  text-align: center;
-  padding: 2em 1em;
-  /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#bd3bdd+0,7c26c1+100 */
-  background: #bd3bdd;
-  /* Old browsers */
-  /* FF3.6-15 */
-  /* Chrome10-25,Safari5.1-6 */
-  background: linear-gradient(to bottom, #bd3bdd 0%, #7C26C1 100%);
-  /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#bd3bdd', endColorstr='$purple', GradientType=0);
-  /* IE6-9 */ }
-  #m2018 header a {
-    color: #fff;
-    text-decoration: none; }
-  #m2018 header h2 {
     margin-top: .5em; }
 
 footer {
@@ -370,36 +345,14 @@ footer {
   .speaker.right {
     margin-right: -6em; } }
 
-@-webkit-keyframes kickstarter {
-  0% {
-    -webkit-transform: rotate(0deg) scale(1);
-            transform: rotate(0deg) scale(1); }
-  10% {
-    -webkit-transform: rotate(180deg) scale(1);
-            transform: rotate(180deg) scale(1); }
-  12% {
-    -webkit-transform: rotate(180deg) scale(1.1);
-            transform: rotate(180deg) scale(1.1); }
-  15% {
-    -webkit-transform: rotate(180deg) scale(1);
-            transform: rotate(180deg) scale(1); }
-  100% {
-    -webkit-transform: rotate(180deg) scale(1);
-            transform: rotate(180deg) scale(1); } }
-
 @keyframes kickstarter {
   0% {
-    -webkit-transform: rotate(0deg) scale(1);
-            transform: rotate(0deg) scale(1); }
+    transform: rotate(0deg) scale(1); }
   10% {
-    -webkit-transform: rotate(180deg) scale(1);
-            transform: rotate(180deg) scale(1); }
+    transform: rotate(180deg) scale(1); }
   12% {
-    -webkit-transform: rotate(180deg) scale(1.1);
-            transform: rotate(180deg) scale(1.1); }
+    transform: rotate(180deg) scale(1.1); }
   15% {
-    -webkit-transform: rotate(180deg) scale(1);
-            transform: rotate(180deg) scale(1); }
+    transform: rotate(180deg) scale(1); }
   100% {
-    -webkit-transform: rotate(180deg) scale(1);
-            transform: rotate(180deg) scale(1); } }
+    transform: rotate(180deg) scale(1); } }

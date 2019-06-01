@@ -1,10 +1,11 @@
-$sulfur: #FBEC5D;
-$chlorine: #c1ffc8;
-$chlorineDark: #00B815;
-$chlorineLight: #D6FFDB;
 $background: #d8ffe0;
 $text: #475A56;
 $purple: #7C26C1;
+
+$mudLightest: #E4E4D6;
+$mudLight: #c1c0a0;
+$mudNeutral: #97978d;
+$mud: #78774E;
 
 html, body, h1, h2, h3, p, div, form {
 	padding: 0;
@@ -86,7 +87,7 @@ em {
 }
 
 aside {
-	background-color: $chlorineLight;
+	background-color: $mudLight;
 }
 
 iframe {
@@ -119,7 +120,7 @@ iframe {
 	font-weight: 600;
 	font-style: italic;
 	font-size: x-large;
-	color: #97978D;
+	color: $mudNeutral;
 }
 
 .clear {
@@ -198,18 +199,17 @@ input[type=submit] {
 }
 
 #tickets-bg, #tickets-stream, #youtube-callout {
-	background-color: $chlorine;
+	background-color: $mudLightest;
 	text-align: center;
 	font-size: 200%;
 	border-radius: 5px;
 	padding: 1em;
-
 }
 
 
 
 #m2018 header a.ticket-link {
-	color: $purple;
+	color: $mud;
 	text-decoration: none;
 	background-color: #fff;
 	padding: 1em 2em;
@@ -220,24 +220,24 @@ input[type=submit] {
 .ticket-link-sky {
 	color: #fff;
 	text-decoration: none;
-	background-color: $purple;
+	background-color: $mud;
 	padding: .8em 0;
 	border-radius: .5em;
 	font-weight: bold;
 	margin: 2em 0;
 	display: block;
 	text-align: center;
-	border: 2px solid $purple;
+	border: 2px solid $mud;
 
 	&:hover {
 		background-color: #fff;
-		color: $purple;
+		color: $mud;
 	}
 }
 
 footer, header {
 	padding: 0;
-	background-color: $chlorine;
+	background-color: $mudLightest;
 
 	section {
 		max-width: 48em;
@@ -274,7 +274,12 @@ footer, header {
 	color: #fff;
 	text-align: center;
 	padding: 4em 1em;
-	background: linear-gradient(to bottom, #97978D 0%, #C1C0A0 100%);
+	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/$mudNeutral+0,c1c0a0+100 */
+	background: $mudNeutral; /* Old browsers */
+	background: -moz-linear-gradient(top, $mudNeutral 0%, $mudLight 100%); /* FF3.6-15 */
+	background: -webkit-linear-gradient(top, $mudNeutral 0%,$mudLight 100%); /* Chrome10-25,Safari5.1-6 */
+	background: linear-gradient(to bottom, $mudNeutral 0%,$mudLight 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='$mudNeutral', endColorstr='$mudLight',GradientType=0 ); /* IE6-9 */
 
 	.mlogo {
 		max-width: 24em;
@@ -287,49 +292,6 @@ footer, header {
 
 	h1, h2 {
 		color: #fff;
-		margin-top: .5em;
-	}
-}
-
-#m2019 header {
-	color: #96B5AF;
-	text-align: center;
-	padding: 4em 1em;
-	background: linear-gradient(to bottom, #CBDFD6 0%, #F4FDFB 100%);
-
-	.mlogo {
-		max-width: 24em;
-	}
-
-	a {
-		color: #96B5AF;
-		text-decoration: none;
-	}
-
-	h1, h2 {
-		color: #96B5AF;
-		margin-top: .5em;
-	}
-}
-
-#m2018 header {
-	color: #fff;
-	text-align: center;
-	padding: 2em 1em;
-
-	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#bd3bdd+0,7c26c1+100 */
-	background: #bd3bdd; /* Old browsers */
-	background: -moz-linear-gradient(top, #bd3bdd 0%, $purple 100%); /* FF3.6-15 */
-	background: -webkit-linear-gradient(top, #bd3bdd 0%, $purple 100%); /* Chrome10-25,Safari5.1-6 */
-	background: linear-gradient(to bottom, #bd3bdd 0%, $purple 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#bd3bdd', endColorstr='$purple', GradientType=0); /* IE6-9 */
-
-	a {
-		color: #fff;
-		text-decoration: none;
-	}
-
-	h2 {
 		margin-top: .5em;
 	}
 }
