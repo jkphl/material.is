@@ -70,6 +70,29 @@ iframe {
   margin: 0 .5em .5em 0;
   vertical-align: middle; }
 
+#m2020 blockquote {
+  background-color: #EAE8D7;
+  border-radius: 12px;
+  padding: 12px 24px;
+  color: #333;
+  margin: 0; }
+
+blockquote p {
+  font-size: 20px;
+  margin: 0 0 10px 0;
+  font-style: italic; }
+
+blockquote div {
+  line-height: 36px; }
+
+blockquote img {
+  height: 36px;
+  width: 36px;
+  border-radius: 18px;
+  border: 1px solid #97978d;
+  margin-right: 10px;
+  vertical-align: middle; }
+
 .mlogo {
   max-width: 8em; }
 
@@ -345,14 +368,36 @@ footer {
   .speaker.right {
     margin-right: -6em; } }
 
+@-webkit-keyframes kickstarter {
+  0% {
+    -webkit-transform: rotate(0deg) scale(1);
+            transform: rotate(0deg) scale(1); }
+  10% {
+    -webkit-transform: rotate(180deg) scale(1);
+            transform: rotate(180deg) scale(1); }
+  12% {
+    -webkit-transform: rotate(180deg) scale(1.1);
+            transform: rotate(180deg) scale(1.1); }
+  15% {
+    -webkit-transform: rotate(180deg) scale(1);
+            transform: rotate(180deg) scale(1); }
+  100% {
+    -webkit-transform: rotate(180deg) scale(1);
+            transform: rotate(180deg) scale(1); } }
+
 @keyframes kickstarter {
   0% {
-    transform: rotate(0deg) scale(1); }
+    -webkit-transform: rotate(0deg) scale(1);
+            transform: rotate(0deg) scale(1); }
   10% {
-    transform: rotate(180deg) scale(1); }
+    -webkit-transform: rotate(180deg) scale(1);
+            transform: rotate(180deg) scale(1); }
   12% {
-    transform: rotate(180deg) scale(1.1); }
+    -webkit-transform: rotate(180deg) scale(1.1);
+            transform: rotate(180deg) scale(1.1); }
   15% {
-    transform: rotate(180deg) scale(1); }
+    -webkit-transform: rotate(180deg) scale(1);
+            transform: rotate(180deg) scale(1); }
   100% {
-    transform: rotate(180deg) scale(1); } }
+    -webkit-transform: rotate(180deg) scale(1);
+            transform: rotate(180deg) scale(1); } }
