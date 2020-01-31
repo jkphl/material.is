@@ -56,22 +56,27 @@
             </section>
 
             <section>
+                <blockquote>
+                    <p id="quote_text">I have known Brian for many years and am constantly inspired by how his brain functions. This conference is a unique oportunity to get out of your head and approach technology from a totally different angle.</p>
+                    <div><img id="quote_img" src="img/gommit.jpg" alt="Finnur Pálmi Magnússon, Product Manager at Nox Health." /><span id="quote_source">Finnur Pálmi Magnússon, Product Manager at Nox Health.</span></div>
+                </blockquote>
                 <script>
-                    quotes = Array()
-                    quotes.push({'quote':'I have known Brian for many years and am constantly inspired by how his brain functions. This conference is a unique oportunity to get out of your head and approach technology from a totally different angle.','img':'img/gommit.jpg','name':'Finnur Pálmi Magnússon, Product Manager at Nox Health.'})
-                    quotes.push({'quote':"It's almost impossible to find advanced conferences that offer a wide variety of lectures and discussions about design, marketing, communications, various technology issues and brand development. Such a great privilege for Iceland to host a annual conference like Material. I'll be attending this year as usual.",'img':'img/stefan.jpg','name':'Stefan Hrafn Hagalin, director of communications at Landspitali University Hospital of Iceland'})
-                    //quotes.push({'quote':'','img':'','name':''})
-                    //quotes.push({'quote':'','img':'','name':''})
-                    //quotes.push({'quote':'','img':'','name':''})
-                    position = Math.floor(Math.random() * Math.floor(quotes.length))
-                    document.write('<blockquote><p>'+quotes[position]['quote']+'</p><div><img src="'+quotes[position]['img']+'" alt="'+quotes[position]['name']+'" />'+quotes[position]['name']+'</div></blockquote>');
+                    function setQuote(){
+                        quotes = Array()
+                        quotes.push({'quote':'I have known Brian for many years and am  constantly inspired by how his brain functions. This conference  is a unique oportunity to get out of your head and approach  technology from a totally different angle.','img':'img/gommit.jpg    ','name':'Finnur Pálmi Magnússon, Product Manager at Nox Health.'   })
+                        quotes.push({'quote':"It's almost impossible to find advanced   conferences that offer a wide variety of lectures and     discussions about design, marketing, communications, various    technology issues and brand development. Such a great privilege    for Iceland to host a annual conference like Material. I'll be     attending this year as usual.",'img':'img/stefan.jpg','name':'  Stefan Hrafn Hagalin, director of communications at Landspitali   University Hospital of Iceland'})
+                        //quotes.push({'quote':'','img':'','name':''})
+                        //quotes.push({'quote':'','img':'','name':''})
+                        //quotes.push({'quote':'','img':'','name':''})
+                        position = Math.floor(Math.random() * Math.floor(quotes.length))
+                        document.getElementById('quote_text').textContent = quotes[position]['quote']
+                        document.getElementById('quote_source').textContent = quotes[position]['name']
+                        document.getElementById('quote_img').src = quotes[position]['img']
+                        document.getElementById('quote_img').alt = quotes[position]['name']
+                    }
+
+                    setInterval(setQuote, 5000)
                 </script>
-                <noscript>
-                    <blockquote>
-                        <p>I have known Brian for many years and am constantly inspired by how his brain functions. This conference is a unique oportunity to get out of your head and approach technology from a totally different angle.</p>
-                        <div><img src="img/gommit.jpg" alt="Finnur Pálmi Magnússon, Product Manager at Nox Health." />Finnur Pálmi Magnússon, Product Manager at Nox Health.</div>
-                    </blockquote>
-                </noscript>
             </section>
 
             <section class="clear">
