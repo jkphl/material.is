@@ -98,6 +98,7 @@ module.exports = function (grunt) {
                     'public/2020/site-notice.html': '.src/html/site-notice.html',
                     'public/2020/data-protection.html': '.src/html/data-protection.html',
                     'public/2020/slack-invite.php': '.src/html/slack-invite.php',
+                    'public/2020/sky.html': '.src/html/sky.html',
                     'public/archive/index.html': '.src/html/archive.html',
                 },
                 options: {
@@ -140,6 +141,7 @@ module.exports = function (grunt) {
                     'public/2020/code-of-conduct.html': 'public/2020/code-of-conduct.html',
                     'public/2020/site-notice.html': 'public/2020/site-notice.html',
                     'public/2020/data-protection.html': 'public/2020/data-protection.html',
+                    'public/2020/sky.html': 'public/2020/skey.html',
                     'public/archive/index.html': 'public/2020/archive.html',
                 }
             },
