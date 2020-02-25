@@ -234,6 +234,21 @@ footer, header {
   #archive header h2 {
     margin-top: .5em; }
 
+#m2021 header {
+  color: #333;
+  text-align: center;
+  padding: 4em 1em;
+  background: #b3b1a8;
+  background: linear-gradient(0deg, #b3b1a8 0%, #fbffd3 100%); }
+  #m2021 header .mlogo {
+    max-width: 24em; }
+  #m2021 header a {
+    color: #333;
+    text-decoration: none; }
+  #m2021 header h1, #m2021 header h2 {
+    color: #333;
+    margin-top: .5em; }
+
 #m2020 header {
   color: #fff;
   text-align: center;
