@@ -93,12 +93,12 @@ module.exports = function (grunt) {
         'string-replace': {
             dist: {
                 files: {
-                    'public/2020/index.html': '.src/html/2020.html',
-                    'public/2020/code-of-conduct.html': '.src/html/code-of-conduct.html',
-                    'public/2020/site-notice.html': '.src/html/site-notice.html',
-                    'public/2020/data-protection.html': '.src/html/data-protection.html',
-                    'public/2020/slack-invite.php': '.src/html/slack-invite.php',
-                    'public/2020/sky.html': '.src/html/sky.html',
+                    'public/2021/index.html': '.src/html/2021.html',
+                    'public/2021/code-of-conduct.html': '.src/html/code-of-conduct.html',
+                    'public/2021/site-notice.html': '.src/html/site-notice.html',
+                    'public/2021/data-protection.html': '.src/html/data-protection.html',
+                    'public/2021/slack-invite.php': '.src/html/slack-invite.php',
+                    'public/2021/sky.html': '.src/html/sky.html',
                     'public/archive/index.html': '.src/html/archive.html',
                 },
                 options: {
@@ -137,12 +137,12 @@ module.exports = function (grunt) {
                     collapseWhitespace: true
                 },
                 files: {
-                    'public/2020/index.html': 'public/2020/index.html',
-                    'public/2020/code-of-conduct.html': 'public/2020/code-of-conduct.html',
-                    'public/2020/site-notice.html': 'public/2020/site-notice.html',
-                    'public/2020/data-protection.html': 'public/2020/data-protection.html',
-                    'public/2020/sky.html': 'public/2020/skey.html',
-                    'public/archive/index.html': 'public/2020/archive.html',
+                    'public/2021/index.html': 'public/2021/index.html',
+                    'public/2021/code-of-conduct.html': 'public/2021/code-of-conduct.html',
+                    'public/2021/site-notice.html': 'public/2021/site-notice.html',
+                    'public/2021/data-protection.html': 'public/2021/data-protection.html',
+                    'public/2021/sky.html': 'public/2021/sky.html',
+                    'public/archive/index.html': 'public/2021/archive.html',
                 }
             },
         },
@@ -157,7 +157,7 @@ module.exports = function (grunt) {
                     expand: true,
                     cwd: '.src/img/',
                     src: ['**/*.{png,jpg,gif,svg}'],
-                    dest: 'public/2020/img/'
+                    dest: 'public/2021/img/'
                 }]
             }
         },
