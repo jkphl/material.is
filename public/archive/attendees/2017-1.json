@@ -1,0 +1,17 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "Assertion",
+  "id": "https://material.is/archive/attendees/2017-1.json",
+  "recipient": {
+    "type": "email",
+    "hashed": true,
+    "salt": "deadsea",
+    "identity": "sha256$b6877bb4361da770ac2c9fa2f28136de8dc93d823bbc1de438d5987e3f4032ef"
+  },
+  "image": "https://material.is/2017/img/m17-logo.png",
+  "issuedOn": "2017-12-31T23:59:59Z",
+  "badge": "https://material.is/archive/badge-2017.json",
+  "verification": {
+    "type": "hosted"
+  }
+}

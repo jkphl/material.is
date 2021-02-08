@@ -1,0 +1,13 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "Profile",
+  "id": "https://material.is/archive/issuer.json",
+  "name": "Material Conference",
+  "image": "https://material.is/assets/material-base-logo.png",
+  "url": "https://material.is",
+  "email": "info@material.is",
+  "verification": {
+    "allowedOrigins": ["material.is"],
+    "verificationProperty": "id"
+  }
+}
