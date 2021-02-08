@@ -5,8 +5,8 @@
   "recipient": {
     "type": "email",
     "hashed": true,
-    "salt": "deadsea",
-    "identity": "sha256$b6877bb4361da770ac2c9fa2f28136de8dc93d823bbc1de438d5987e3f4032ef"
+    "salt": "material",
+    "identity": "sha256$73CEEA335C7DC9FA0203D172BAFAA05F0D544798620347CA3B1C1C11FD05CBC0"
   },
   "image": "https://material.is/2017/img/m17-logo.png",
   "issuedOn": "2017-12-31T23:59:59Z",
