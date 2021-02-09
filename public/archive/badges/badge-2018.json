@@ -1,10 +1,10 @@
 {
   "@context": "https://w3id.org/openbadges/v2",
   "type": "BadgeClass",
-  "id": "https://material.is/archive/badge-2017.json",
-  "name": "Material 2017",
+  "id": "https://material.is/archive/badges/badge-2018.json",
+  "name": "Material 2018",
   "description": "A conference exploring the concept of the Web as a material",
-  "image": "https://material.is/2017/img/m17-logo.png",
-  "criteria": "https://material.is/2017/",
+  "image": "https://material.is/archive/badges/badge-2018.png",
+  "criteria": "https://material.is/2018/",
   "issuer": "https://material.is/archive/issuer.json"
 }
