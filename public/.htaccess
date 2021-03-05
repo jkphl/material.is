@@ -45,4 +45,6 @@ RewriteCond %{REQUEST_FILENAME} !-l
 RewriteCond %{REQUEST_URI} !^/\.well\-known
 RewriteCond %{REQUEST_URI} !^/archive(/)?$
 RewriteCond %{REQUEST_URI} !^/live(/)?$
-RewriteRule ^(.*) /2020/$1 [R=302,L]
+#RewriteRule ^(.*) /2020/$1 [R=302,L]
+RewriteRule ^(.*) /archive/$1 [R=302,L]
+
